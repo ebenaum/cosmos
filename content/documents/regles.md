@@ -13,7 +13,7 @@ Le monde d’Erenthyrm a ceci de surprenant que l’imagination et la magie y so
 
 Nous vous invitons donc à découvrir et bâtir ce monde dans lequel les aventuriers d’Ebenaum vont apporter bien malgré eux leur lot d’humour et d’épique, d’aventure et de mystères !
 
-Les informations sur l’univers vous seront données dans vos fiches de personnages fin que chacun garde une part de surprise dans la rencontre avec les autres “camps”. Les règles ci-dessous concernent avant tout les mécaniques de jeu et l’organisation en général. Bonne lecture, et méfiez-vous du Crapaud.  Mais faites confiance à la mycose. Ou ne le faites pas.  
+Les informations sur l’univers vous seront données dans vos fiches de personnages fin que chacun garde une part de surprise dans la rencontre avec les autres “camps”. Les règles ci-dessous concernent avant tout les mécaniques de jeu et l’organisation en général. Bonne lecture, et méfiez-vous du Crapaud.  Ou ne le faites pas.  
 
 
 -table-Lexique
@@ -309,15 +309,14 @@ Le respect de l'environnement de jeu est indispensable, et cela passe par le res
 ## Le terrain
 Certaines zones du terrain sont strictement interdites, pour des raisons de sécurité ou de propriété. Ces endroits seront *rubalisés* et nous vous les montrerons lors du briefing général. C’est pour les mêmes raisons que ni trous __(vous pourrez évidemment planter vos sardines mais pas enterrer vos cadavres)__ ni feux ne seront autorisés sur le terrain.  Au passage on vous rappelle que les lieux sont hantés par les anciens habitants·es qui auront à cœur de venir vous mordre les orteils dans la nuit si vous ne respectez pas leur ancienne demeure… Enfin, regardez bien où vous mettez vos pieds... non seulement pour ne pas louper une trouvaille, mais également car il peut il y a avoir des pièges, non seulement en-jeu, mais également sous forme de déformations du terrain, voire de barbelés (qui seront rubalisés et indiqués). Pour cette même raison nous vous demandons de ne pas essayer de passer entre des bouchures ou des endroits pour lesquels vous ne pouvez pas vous faufiler sans risques de dégâts. 
 Le PC sécurité est ouvert à tout le monde. 
-Le PC orga n’est PAS ouvert à tout le monde. Il y aura un accueil dans lequel vous pourrez poser toutes vos questions et gérer les objets trouvés, mais merci de ne pas aller dans le PC orga à moins d’y être invités·es. (Sauf si vous êtes un PNJ) car vous risquez de vous gâcher des surprises ou de perturber/ralentir le déroulement du jeu !
-Nous ferons de notre mieux pour indiquer qu’un événement privé est en cours, cela étant, nous ne pouvons pas totalement prévenir l’apparition de touristes sauvages. Nous prévoyons un système de prêt de costume pour d’éventuels promeneurs·ses acceptant de jouer le jeu. Si c’est le cas, ces personnes porteront un tabard blanc, indiquant qu’il s’agit de “fantômes”. Le parking sera indiqué, merci d'y reconduire vos véhicules au plus tôt une fois déchargés, voire de transporter vos affaires si possible. 
+Le PC orga n’est PAS ouvert à tout le monde. Il y aura un accueil dans lequel vous pourrez poser toutes vos questions et gérer les objets trouvés, mais merci de ne pas aller dans le PC orga à moins d’y être invités·es. (Sauf si vous êtes un PNJ) car vous risquez de vous gâcher des surprises ou de perturber/ralentir le déroulement du jeu ! Nous prévoyons un système de prêt de costume pour d’éventuels promeneurs·ses acceptant de jouer le jeu. Si c’est le cas, ces personnes porteront un tabard blanc, indiquant qu’il s’agit de “fantômes”. Le parking sera indiqué, merci d'y reconduire vos véhicules au plus tôt une fois déchargés, voire de transporter vos affaires si possible. 
 
 ## Hygiène et sommeil
 le terrain comportera des toilettes, et un briefing sera fait lors du Gn pour vous indiquer les différentes installations disponibles. \img(/img/hildegunds.jpg, Duel, right) 
 Comme pour toute activité en extérieur en été, pensez à vous prémunir contre les bestioles rampantes et les insectes, notamment à vérifier chaque soir si vous n'avez pas récolté quelques tiques ! 
 Il y aura deux types de camps, selon votre matériel de couchage : soit un camp hors-jeu, près du parking, pour ceux le souhaitant, soit un couchage en-jeu si vous possédez des équipements médiévaux ou "camouflés". 
 
-Le jeu ne s’arrête pas pendant les repas ni pendant la nuit. Cependant, de 1h à 8h,  Les joueurs·ses voulant continuer à jouer peuvent le faire à l’écart des tentes personnelles pour respecter le repos des personnes en ayant besoin. 
+Le jeu ne s’arrête pas pendant les repas ni pendant la nuit. Cependant, de 1h à 8h,  Les joueurs·ses voulant continuer à jouer peuvent le faire à l’écart des tentes personnelles pour respecter le repos des personnes en ayant -bien- besoin. 
 
 ##Paquetage 
 
@@ -336,8 +335,7 @@ Il y aura si tout va bien quelques douches solaires sur le site mais n’hésite
 
 ## Votre arrivée
 
-Le jeu se déroulera dans l'Indre, à une vingtaine de minutes de route de Cluis.
-Nous ferons un groupe covoiturage sur notre forum pour que vous puissiez vous organiser. Si vous êtes en difficulté pour venir faites-nous en part. Des navettes depuis la grande gare la plus proche (Chateauroux ou Argenton-sur-creuse) seront mises en place au besoin. 
+Nous ferons un groupe covoiturage sur notre forum pour que vous puissiez vous organiser. Si vous êtes en difficulté pour venir faites-nous en part. Des navettes depuis la grande gare la plus proche seront mises en place au besoin. 
 Lorsque vous arrivez, vous pouvez vous garer sur le parking temporaire qui sera indiqué. Nous vous demanderons de venir nous prévenir de votre arrivée au PC orga, puis de décharger vos affaires et monter votre camp (vous pourrez éventuellement y aller en voiture). Vous devrez ensuite garer votre voiture au parking. Puis vous irez voir votre référent·e au PC orga pour un briefing personnel si besoin, et surtout recevoir votre enveloppe de jeu. Si vous n’avez pas pu trouver d’imprimante, on pourra vous imprimer votre feuille ou un livret. Ensuite, il sera temps pour vous d’aller vous pouponner et de venir ripailler. 
 *Il est important* que vous restiez un maximum dans vos camps en attendant le début du jeu, pour ne pas vous gâcher la surprise ! 
 Nous vous conseillons d’arriver en début d’après-midi afin de vous installer tranquillement et d’être prêts·es  pour le briefing général qui aura lieu à 20h30. Un briefing de groupe et PNJ sera prévu à 21h00 le début de jeu étant prévu pour 21h30.  Si vous arrivez en retard, équipez-vous, puis dirigez-vous vers le PC orga pour qu'un orga vous briefe. Si vous souhaitez arriver avant et/ou rester après jusqu’au lundi pour donner un petit coup de main et ou profiter de la région, vous êtes évidemment les bienvenus·es ;)  
@@ -346,22 +344,21 @@ __Nous ferons une soirée totalement hors-jeu, le dimanche soir, n'hésitez pas 
 
 # Ce que vous savez du monde...
 
-Sans écoles, dans un monde où les histoires sont rares et la survie plus importante que l’art ou que la science, la connaissance se répand difficilement. Seuls les braves voyageurs et quelques esprits curieux parviennent à collecter et diffuser des informations sur le monde dans lequel vous évoluez. Nous vous présenterons ici que les informations connues de tous. Le “livre du monde” correspondant aux connaissances précises de votre personnage selon son histoire fera partie de votre fiche de personnage qui arrivera donc plus tard. 
+RIEN. Faisons simple. Depuis votre arrivée, vous avez rapidement compris que vous étiez dans un environnement inconnu. Le bleu du ciel est sombre même en plein jour, et la végétation vous semble à la fois semblable et différente à celle que vous connaissez...
 
 ## Les "factions" de départ
 
-Il existe 3 factions au départ du jeu, dont nous n'allons dire que quelques mots ici, pour vous aider à choisir sans pour autant vous vendre la mèche. 
-*Les Ebenaumers* : venus du monde D'ebenaum, il s'agit d'un groupe hétéroclite d'aventuriers, d'artisans et politiciens qui assistaient au mariage, à l'enterrement et à un couronnement avant d'être entraînés malgré eux dans un rituel qui les aspira vers le monde d'Erenthyrm. Que vont-ils pouvoir faire en ce lieu étrange ? Parfait pour les vétérans d'Ebenaum ou si vous venez seul ou à deux ou trois personnes. Cependant, ce groupe est soumis à des pressions importantes !
+Il existe factions au départ du jeu, dont nous n'allons dire que quelques mots ici, pour vous aider à choisir sans pour autant vous vendre la mèche. 
+*Les Ebenaumers* : venus du monde D'ebenaum, il s'agit d'un groupe hétéroclite d'aventuriers, d'artisans et politiciens qui assistaient au mariage, à l'enterrement et à un couronnement avant d'être entraînés malgré eux dans un rituel qui les aspira vers le monde d'Erenthyrm. Que vont-ils pouvoir faire en ce lieu étrange ?
 \img(/img/Ven.jpg, Ven, right)
-*Le Logis de borde-Sylve* : les habitants locaux. répartis en deux petits groupes, ils habitent et se partagent ce lieu depuis quelques temps. Une petite communauté, mais avec un rôle. Le plus simple à jouer pour de petits groupes de joueurs ou des débutants.  
+*Les Sombres* : Les convives du mariage ont découvert cette secte en train de réaliser ce qui s'apparentait à un rituel juste avant que le portail n'apparaisse. Très vite, dans la panique qui a suivi l'arrivée, ils se sont dispersés. Qui sont-ils ?
 
-*Les vagabonds* : ce groupe est celui sur lequel nous donnerons le moins d'informations, et qui sera probablement un des plus délicats à jouer. Nous le recommandons à ceux qui recherchent un jeu dynamique mais complexe. 
-
+*Les Autochtones* : Il s'agit des habitants d'Erenthyrm !
 
 ##Un mot sur la magie
 
 
-Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu auront à déployer des talents d'acteur pour réussir !
+Sur ce Gn, vous l'aurez compris, vous allez expérimenter la rencontre de deux "mondes", ayant des cultures bien différentes. Cela implique également le rapport à la magie. Pour des raisons de suspense, nous ne vous pouvons donc pas vous en dire beaucoup plus sur la magie, mais sachez que ceux qui souhaiteraient s'investir dans ce type de jeu devront faire face à certains défis et frustrations!
 
 ##Langage
 
