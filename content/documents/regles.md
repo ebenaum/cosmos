@@ -221,7 +221,7 @@ Ciseaux à bois et outillage|	tout ce qu'il faut pour construire des objets ou e
 Pinces de vol|	En posant 2 pinces de vol sur une bourse ou poche, vous en volez le contenu (allez voir un orga qui le fera)		
 Crochets et Viredoigt|	Permet de lire le code secret (énigme inscrite au dos) des cadenas, notamment de "Chaînes".		
 Chaînes et cadenas éprouvés|	Pour s'assurer que leurs prisonniers ou objets de valeur seront bien gardés avec chaîne et cadenas		
-Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou securiser une porte. Peut être tranchée.
+Corde à noeuds|	Vous pourrez de façon rapide et efficace ligotez quelqu'un, ou sécuriser une porte. Peut être tranchée.
 -table-		
 
 \img(/img/GustaveBrion.jpg, Gustave Brion, righ, w300)
@@ -348,12 +348,12 @@ RIEN. Faisons simple. Depuis votre arrivée, vous avez rapidement compris que vo
 
 ## Les "factions" de départ
 
-Il existe factions au départ du jeu, dont nous n'allons dire que quelques mots ici, pour vous aider à choisir sans pour autant vous vendre la mèche. 
+Il existe  3 factions au départ du jeu, dont nous n'allons dire que quelques mots ici, pour vous aider à choisir sans pour autant vous vendre la mèche. 
 *Les Ebenaumers* : venus du monde D'ebenaum, il s'agit d'un groupe hétéroclite d'aventuriers, d'artisans et politiciens qui assistaient au mariage, à l'enterrement et à un couronnement avant d'être entraînés malgré eux dans un rituel qui les aspira vers le monde d'Erenthyrm. Que vont-ils pouvoir faire en ce lieu étrange ?
 \img(/img/Ven.jpg, Ven, right)
 *Les Sombres* : Les convives du mariage ont découvert cette secte en train de réaliser ce qui s'apparentait à un rituel juste avant que le portail n'apparaisse. Très vite, dans la panique qui a suivi l'arrivée, ils se sont dispersés. Qui sont-ils ?
 
-*Les Autochtones* : Il s'agit des habitants d'Erenthyrm !
+*Les Autochtones* : Il s'agit des habitants d'Erenthyrm ! Des créatures issues de races inconnues et aux moeurs atypiques qui vivent dans un monde plus étroit et moins ... "héroïque" que celui d'Ebenaum. 
 
 ##Un mot sur la magie
 
@@ -369,6 +369,7 @@ Evidemment, la plupart du temps, il vous faudra donc parvenir à vous faire comp
 __Rassurez-vous, il paraît qu’il n’y a que 7/100 de notre communication qui est verbale !__ 
 Cet effort d’immersion est essentiel pour bien représenter le choc de deux univers et les difficultés qui vont découler de cette rencontre. Même si cela est un handicap, nous vous invitons à le jouer pleinement pour rendre l’expérience plus intense ! __(Et aussi pour qu’on puisse se marrer en vous regardant)__
 
+ATTENTION : sur le GN 2021, votre niveau de Savoir définit votre habileté à apprendre la langue autochtone ! (Et vous aidera aussi le cas échéant à connaître des jargons internes à votre "monde")
 
 #Conclusion
 
