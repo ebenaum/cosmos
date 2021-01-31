@@ -379,8 +379,6 @@ Nous avons conscience que nous prenons quelques partis pris qui peuvent paraîtr
 
 Avant de vous ruer sur nos mails, messenger et autres pour nous demander où est le détail des caractéristiques ou des groupes, n'oubliez pas de d'abord regarder le formulaire de création de personnage qui répondra à de nombreuses questions, et, pour ce qui concerne des informations sur le monde, à vous armer d'un peu de patience, car nous voulons que vous choisissiez d'abord un camp pour ne vous donner qu'une vision "lacunaire" du tableau d'ensemble. Oui, c'est sadique. 
 
-Nous finissons avec une galerie de portrait des différents orgas, pour que vous sachiez qui vous allez devoir agresser pour trouver vos réponses ! 
-
 Encore une fois, merci à vous, par avance, pour votre aide et votre participation, et nous vous souhaitons d'ici là de prendre soin de vous, et d'affûter vos armes !
 \img(/img/winter.png, Winter, center)
 
