@@ -1,0 +1,16 @@
+{
+  "ref": "charism",
+  "branch": "physical",
+  "type": "characteristic",
+  "name": "Charisme",
+  "description": "Description force",
+  "levels": [
+    { "title": "Vous ne savez pas vous battre.", "description": "Un handicap vous sera attribué dans votre background." },
+    { "title": "Vous pouvez n'utiliser que des dagues.", "description": "Un handicap vous sera attribué dans votre background." },
+    { "title": "Vous pouvez utiliser toutes les armes.", "description": "" },
+    { "title": "“CHOC”", "description": "Vous infligez “CHOC” lors du premier coup d'un combat." },
+    { "title": "“DEUX” dégâts avec votre arme à deux mains.", "description": "" },
+    { "title": "Un skill gratuit de “Force”.", "description": "" },
+    { "title": "Vous infligez “DEUX” dégâts à chaque coup.", "description": "" }
+  ]
+}
