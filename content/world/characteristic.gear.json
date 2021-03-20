@@ -1,6 +1,6 @@
 {
   "ref": "gear",
-  "branch": "physical",
+  "branch": "skill",
   "type": "characteristic",
   "name": "Equipement",
   "description": "Description équipement",

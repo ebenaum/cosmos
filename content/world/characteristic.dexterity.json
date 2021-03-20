@@ -1,6 +1,6 @@
 {
   "ref": "dexterity",
-  "branch": "physical",
+  "branch": "skill",
   "type": "characteristic",
   "name": "Dextérité",
   "description": "Description dextérité",
