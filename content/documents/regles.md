@@ -4,7 +4,7 @@
 
 \img(/img/marginal.jpg, Foster, right)
 
-Greetings, companerõs !  Bienvenue à toi, aventurier·e intrépide, dans les contrées d’Erenthyrm, un monde méconnu, qui n’attend que des âmes valeureuses pour l’explorer !  
+Greetings, companerõs !  Bienvenue à toi, aventurier·e intrépide, dans les contrées d’Erenthyrm, un monde méconnu, qui n’attend que des âmes valeureuses pour l’explorer  !  
 Tu trouveras ici toutes les recommandations nécessaires à ta survie (et aussi à ton trépas), en commençant par une présentation générale des règles d’un jeu de rôle grandeur nature, que nous te conseillons de lire, même si tu es un·e vétéran du genre. On te voit, là, en train de chercher à scroller directement à la section “tuer des gens”.  
  
 Nous avons voulu créer des mécaniques à la fois simples et innovantes tout en étant empreintes d’une nostalgie de l’époque où les pyramides et les polyèdres engravés de runes numériques (des dés, quoi) régnaient sur le monde du jeu de rôle sur table.  
