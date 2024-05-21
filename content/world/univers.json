@@ -1,0 +1,516 @@
+[
+    {
+        "key": "ebenaum",
+        "tags": [
+            "monde"
+        ]
+    },
+    {
+        "key": "erenthyrm",
+        "tags": [
+            "monde"
+        ],
+        "description": "Le Monde d\u2019Erenthyrm est un disque de terre flottant \u00e0 la surface de ses mers. Parcouru par des Vennets qui ne sont capables que d\u2019aimer et qui se choisissent donc des Amants et des Amantes parmi les humains, le monde d\u2019Erenthyrm est habit\u00e9 par une poign\u00e9e de civilisations."
+    },
+    {
+        "key": "teleportes",
+        "tags": [
+            "faction",
+            "gn2024"
+        ],
+        "label": "Les t\u00e9l\u00e9port\u00e9s"
+    },
+    {
+        "key": "non-teleportes",
+        "tags": [
+            "faction",
+            "gn2024"
+        ],
+        "label": "Les pas t\u00e9l\u00e9port\u00e9s"
+    },
+    {
+        "key": "occupants-locaux",
+        "tags": [
+            "faction",
+            "gn2024"
+        ],
+        "label": "Les occupants locaux"
+    },
+    {
+        "key": "locaux-occupes",
+        "tags": [
+            "faction",
+            "gn2024"
+        ],
+        "label": "Les locaux occup\u00e9s"
+    },
+    {
+        "key": "les-autres",
+        "tags": [
+            "faction",
+            "gn2024"
+        ],
+        "label": "Les autres"
+    },
+    {
+        "key": "ebenhommes",
+        "tags": [
+            "race",
+            "humains",
+            "ebenaum"
+        ],
+        "label": "Ebenhommes",
+        "description": "L'humain est de loin la cr\u00e9ature la plus r\u00e9pandue dans le monde d'Ebenaum. Les Ebenaumer sont des gens pratiques, mais qui aiment la r\u00eaverie et les histoires. Bien que n'ayant pas de dons particuliers dans un monde de cr\u00e9atures diverses, leur malice et leur esprit d'initiative leur a permis de cr\u00e9er la plus d\u00e9velopp\u00e9e et imposante soci\u00e9t\u00e9 au monde, bien que divis\u00e9e en une multitude de couronnes diff\u00e9rentes. Jouets des dieux et de la magie, ce sont pourtant eux, dont l\u2019imagination est fertile, qui ont donn\u00e9 au monde le plus d\u2019h\u00e9ros."
+    },
+    {
+        "key": "bekers",
+        "tags": [
+            "race",
+            "humains",
+            "ebenaum"
+        ],
+        "label": "Bekers",
+        "description": "Bekers est le nom que l'on donne aux humains au Nord de la Faille, influenc\u00e9s par Hoygg. Ils ont un temp\u00e9rament froid et durs, fiers mais bons vivants. Habitant en caravanes, dans des hameaux, des tribus ou dans les quelques royaumes de Bekers. ils n'ont cependant pas d'autres diff\u00e9rences avec les Ebenaumers, humains de tous horizons qui peuplent la majeure partie du monde."
+    },
+    {
+        "key": "omonor",
+        "tags": [
+            "race",
+            "humains",
+            "ebenaum"
+        ],
+        "label": "Omonor",
+        "description": "Les hommes d'Emonor sont des humains dont la lign\u00e9e remonte aux premiers hommes. On dit d'eux qu'ils ont dans le sang une animalit\u00e9 certaine, qui se traduit par une bravoure et une force souvent sup\u00e9rieure \u00e0 celle des autres hommes, m\u00eame s'ils sont moins dou\u00e9s pour la pratique de la magie. Nobles de sang et de coeur, ces hommes qui ont pourtant parfois le sang chaud ont \u00e9galement beaucoup peupl\u00e9 le nord, devenant des serviteurs de Nydhoygg, l'arbre tortur\u00e9. On les appelle alors des Bekers."
+    },
+    {
+        "key": "kays-ebenaum",
+        "tags": [
+            "race",
+            "humains",
+            "ebenaum"
+        ],
+        "label": "Kays",
+        "description": "Les Kay d'Ebenaum sont un peuple d'hommes dont les descendants sont (parait-il) arriv\u00e9s tardivement dans l'histoire du monde, \u00e0 l'aide d'une Arche volante ayant surgi de l'Hembar, la grande faille traversant une partie de la carte. Install\u00e9s aux alentours de cette arche s'\u00e9tant \u00e9chou\u00e9e depuis \u00e0 peine quelques si\u00e8cles, les Kay ont d'\u00e9tranges facult\u00e9s psychiques qui leur permettent de manipuler l'esprit d'autrui. Ils ont gard\u00e9 une discipline stricte, notamment dans les arts de l'escrime, et vivaient reclus jusqu'\u00e0 ce qu'un groupe de leurs membres, la Sombre Opale, parte de l'Arche dans le but d'accomplir une proph\u00e9tie inscrite dans le Codex des Kay. Selon cette proph\u00e9tie, les Kay seraient issus d'un autre monde, cach\u00e9 sous celui d'Ebenaum, et pour rejoindre cet Eden perdu dans lequel ils r\u00e9gnaient en ma\u00eetres, les Kays devraient accomplir un rituel. Ce qu'ils firent. Men\u00e9s selon une hi\u00e9rarchie pr\u00e9cise, les Kays de la Sombre Opale sont donc d\u00e9sormais \u00e0 la recherche de leurs tr\u00f4nes abandonn\u00e9s !"
+    },
+    {
+        "key": "humains",
+        "tags": [
+            "famille-race",
+            "ebenaum",
+            "erenthyrm"
+        ],
+        "label": "Humains",
+        "description": ""
+    },
+    {
+        "key": "nybelhungen",
+        "tags": [
+            "famille-race",
+            "ebenaum"
+        ],
+        "label": "Nybelhungen",
+        "description": "Les Nybelhungen regroupent les cr\u00e9atures anim\u00e9es par un cristal fluide, l\u2019Arsang, qui s'empare de roches pour se constituer un corps prot\u00e9geant un coeur de cristal. Les Nybels sont les plus sociables et calmes. Les Hungens ont l\u2019Arsang chaud et ch\u00e9rissent les explosions."
+    },
+    {
+        "key": "amoureux",
+        "tags": [
+            "famille-race",
+            "ebenaum"
+        ],
+        "label": "Amoureux",
+        "description": "Les Amoureux ont la s\u00e8ve des En dans le sang, et ils sont convaincus que les humains vont mener le monde \u00e0 sa perte. En attendant ils prot\u00e8gent la nature et la beaut\u00e9 du monde en savourant chaque instant avec esth\u00e9tique, raffinement et ma\u00eetrise. Ils vivent plut\u00f4t reclus dans leurs \u00eeles ou for\u00eats et rechignent \u00e0 donner la mort. Ils sont cependant d'habiles guerriers et savants druides. Les Vaelirs sont les plus pacifistes, en paix avec le destin tragique du monde. Les Aesirs veulent entra\u00eener ceux qui le m\u00e9ritent dans leur chute. Les Wawefir vivent en sauvages craintifs et hostiles dans leurs bois. Les Alfirs sont pour la coh\u00e9sion et l'harmonie des peuples et vivent exil\u00e9s"
+    },
+    {
+        "key": "aesir",
+        "tags": [
+            "race",
+            "amoureux",
+            "ebenaum"
+        ],
+        "label": "Aesir",
+        "description": "Les Aesir font partie des Amoureux. Ce peuple li\u00e9 aux arbres consid\u00e8re que prot\u00e9ger la nature est le but ultime et unique de l'existence. Pour cela, ils ne voient qu'une solution : d\u00e9truire les hommes. Mais leur go\u00fbt pour l'excellence et la raffinement en font des cr\u00e9atures exigeantes : elles ne dispensent la mort qu'\u00e0 ceux qui le m\u00e9ritent. Les autres n'ont le droit qu'\u00e0 la souffrance. Attir\u00e9s par le Sang, les Aesirs sont des ma\u00eetres dans ce qu'ils entreprennent, bien que souvent acerbes et cyniques face au monde. Leur teint terne et la feuillure pourpre et auburn de leurs cheveux t\u00e9moignent de leur d\u00e9cadence."
+    },
+    {
+        "key": "vaelir",
+        "tags": [
+            "race",
+            "amoureux",
+            "ebenaum"
+        ],
+        "label": "Vaelir",
+        "description": "Les Vaelir sont des cr\u00e9atures n\u00e9es dans les gousses des Heygg, les arbres de vie. Vivant en harmonie avec la nature, ces \u00eatres sont comme toute leur race persuad\u00e9s que l'\u00e2ge d'Or s'est achev\u00e9 avec l'apparition d'autres esp\u00e8ces, vou\u00e9es \u00e0 la destruction des for\u00eats et de la nature tranquille et intacte. Mais contrairement aux autres branches de leur esp\u00e8ce, les Vaelir pensent qu'il reste un espoir de sauver la nature, et elles luttent donc pour sinon faire prosp\u00e9rer, sinon profiter en paix de la Flore tant qu'il le sera possible. Cela se traduit par une civilisation de cr\u00e9atures raffin\u00e9es, humano\u00efdes au sang de s\u00e8ve, tr\u00e8s sensible \u00e0 la magie \u00e9manant des arbres, et en balance et harmonie dans tout ce qu'elles entreprennent. Bien qu'ayant peu de compr\u00e9hension pour les pulsions des humains, les Vaelir travaillent avec eux, partageant le go\u00fbt pour l'\u00e9l\u00e9gance et le raffinement."
+    },
+    {
+        "key": "wawefir",
+        "tags": [
+            "race",
+            "amoureux",
+            "ebenaum"
+        ],
+        "label": "Wawefir",
+        "description": "Les Wawefir se caract\u00e9risent par leur vocation \u00e0 prot\u00e9ger les for\u00eats de toute intrusion. Ils veulent go\u00fbter de chaque instant de paix qu'il reste avant l'an\u00e9antissement en repoussant autant que possible les intrus. Ils sont donc neutres politiquement et se moquent du monde tant que le monde ne vient pas les chercher. Raffin\u00e9s, mais tr\u00e8s proches de la nature, ce sont de sauvages guerriers."
+    },
+    {
+        "key": "alfir",
+        "tags": [
+            "race",
+            "amoureux",
+            "ebenaum"
+        ],
+        "label": "Alfir",
+        "description": "Les Alfir sont des Amoureux qui pensent que dans le temps qu'il reste \u00e0 profiter du monde, seule l'union des races peut permettre de retarder la fin."
+    },
+    {
+        "key": "elifir",
+        "tags": [
+            "race",
+            "amoureux",
+            "ebenaum"
+        ],
+        "label": "Elifir",
+        "description": "Les Elifir ont gard\u00e9 leurs cosses de leur naissance et s\u2019en servent comme des ailes. Ils vivent dans les nuages et sont de fervents amis de Lunaumyr. Ils contemplent le monde de loin avec un certaine distance et go\u00fbt pour la barbapapa. Certains sont tr\u00e9s hautains et les autres tr\u00e8s enthousiastes de tout."
+    },
+    {
+        "key": "nybel",
+        "tags": [
+            "race",
+            "nybelhungen",
+            "ebenaum"
+        ],
+        "label": "Nybel",
+        "description": "Cr\u00e9atures sculpt\u00e9es dans la roche par leurs \"parents\" et au coeur desquelles on place un cristal anim\u00e9, les Nybels sont l'association entre un corps de roche et un coeur liquide, l\u2019Arsang. Seule la destruction de ce dernier provoque leur mort. C'est un peuple \u00e0 l'\u00e2me sensible, qui r\u00e9fl\u00e9chit \u00e9norm\u00e9ment au monde, bien que passant une partie de sa vie dans son habitat naturel : sous la terre. Ils y appr\u00e9cient le calme et l'\u00e9troitesse. Les Nybel partagent un sang-froid et une pragmaticit\u00e9 rigoureuse. Leur flegme ne les emp\u00eache pas d'\u00eatre des guerriers solides et f\u00e9rus d'ing\u00e9nierie. Ces cr\u00e9atures \u00e0 la peau d\u2019argile, de roche ou de m\u00e9tal ont des yeux faits de pierres pr\u00e9cieuses et vivent dans les montagnes ou les lieux obscurs. Ils sont bons ing\u00e9nieurs et manipulateurs des m\u00e9taux. Ils ont invent\u00e9 et d\u00e9velopp\u00e9 les armes \u00e0 Air f\u00e9e qui projettent de l'\u00e9nergie, alternative aux Armes \u00e0 poudre noire."
+    },
+    {
+        "key": "hungens",
+        "tags": [
+            "race",
+            "nybelhungen",
+            "ebenaum"
+        ],
+        "label": "Hungens",
+        "description": "Les Hungen sont des cr\u00e9atures faites de roche, d\u2019argile et de pierres, souvent assez trapues et petites, qui sont parcourues par une \u00e9nergie \u00e9manant d'un crystal cach\u00e9 au coeur de leur corps. Ces \u00eatres intelligents se meuvent donc parfois avec maladresse, mais sont tr\u00e8s solides. Les Hungen sont anim\u00e9s par un liquide en feu, l\u2019Arsang chaud, ce qui les rend tr\u00e8s belliqueux, anim\u00e9s par un besoin de destruction et de consommation, m\u00eame s'ils restent fascin\u00e9s par l'artisanat et la technologie. Constamment pr\u00e9occup\u00e9s par l'envie de comprendre le monde, leur haine vient de leur \u00e9chec \u00e0 y parvenir, ou bien d'\u00e9clairs de folie quand ils y r\u00e9ussissent."
+    },
+    {
+        "key": "nelwyns",
+        "tags": [
+            "race",
+            "ebenaum"
+        ],
+        "label": "Nelwyns",
+        "description": "Les Nelwyns sont des cr\u00e9atures passionnantes. Pour qui aiment la tranquillit\u00e9 des l\u00e9gumes. Naissant dans le sol, ils poussent et gardent toute leur vie sur leur t\u00eate de la verdure et un go\u00fbt prononc\u00e9 pour la terre. Ce sont avant tout des paysans, tr\u00e8s attach\u00e9s \u00e0 la croissance des choses et au cycle de la vie. En r\u00e9alit\u00e9, ils ne seraient que des formes de vie banales si ils ne partageaient pas \u00e9galement la conviction profonde que leur peuple aurait \u00e9t\u00e9, selon eux, injustement maudit par les dieux. En effet, ils pensent que leur petite taille et leur manque de force est une punition des dieux qui \u00e9tait destin\u00e9e \u00e0 une autre esp\u00e8ce, les Zylwens. Depuis lors, de nombreux Nelwyns s'engagent dans des croisades contre ces derniers, esp\u00e9rant prouver aux dieux leur valeur, et l'erreur des divinit\u00e9s. C'est donc contre toute attente un peuple tr\u00e8s pieux, suivant religieusement les \"Saints\" et ap\u00f4tres de leur \u00e9glise, quand ils ne sont pas en train de cajoler des citrouilles."
+    },
+    {
+        "key": "zylwens",
+        "tags": [
+            "race",
+            "ebenaum"
+        ],
+        "label": "Zylwens",
+        "description": "Les Zylwens ressemblent \u00e0 de petits satyres. Fac\u00e9tieux, ces \u00eatres parcourent surtout le nord d'Ebenaum, toujours \u00e0 la recherche d'un tour \u00e0 jouer, d'une personne \u00e0 amuser. Tr\u00e8s dou\u00e9s avec les arts magiques, les Zylwens sont cependant tr\u00e8s inconstants, et leurs r\u00eaveries les emp\u00eachent de cr\u00e9er une vraie soci\u00e9t\u00e9. Ils vivent donc soit chez les autres, soit en petites communaut\u00e9s. On peut en retrouver partout de par le monde, bien qu'ils soient pourchass\u00e9s comme la peste par une autre esp\u00e8ce, les Nelwyns, des hommes-plantes qui pensent que les Zylwens sont la cause de tous leurs maux."
+    },
+    {
+        "key": "wampyrs",
+        "tags": [
+            "race",
+            "ebenaum"
+        ],
+        "label": "Wampyrs",
+        "description": "Les Wampyrs sont des \u00eatres ail\u00e9s se repassant exclusivement de cadavres, ce qui leur vaut mauvaise r\u00e9putation. Ils cachent le plus souvent leurs ailes en soci\u00e9t\u00e9, mais ils gardent de leur nature de rapaces des instincts et des capacit\u00e9s malaisantes. Certains sont accept\u00e9s dans la soci\u00e9t\u00e9 tant qu'ils savent se tenir et lutter contre leurs pulsions, et d'autres sont chass\u00e9s \u00e0 vue. Si les Wampyrs ne sont pas une nation, ils partagent tous en commun des affinit\u00e9s et une compr\u00e9hension presque t\u00e9l\u00e9pathique."
+    },
+    {
+        "key": "merandres",
+        "tags": [
+            "race",
+            "ebenaum"
+        ],
+        "label": "Merandres",
+        "description": "Merandres est le nom que l\u2019on donne \u00e0 des cr\u00e9atures qui s\u2019apparentent \u00e0 des morts-vivants m\u00eame si, en r\u00e9alit\u00e9, elles sont tr\u00e8s diff\u00e9rentes. Car un mort-vivant garde le corps qu\u2019il avait de son vivant. Les M\u00e9randres sont les larmes, vestiges des \u00e2mes qui ont \u00e9t\u00e9 recueillies par Nycanoc et sont ensuite achemin\u00e9es par les eaux jusqu\u2019\u00e0 la mer int\u00e9rieure pour \u00eatre gard\u00e9es dans le domaine de Nocmagna, le seigneur des Eaux et des Os, des Mer, de l\u2019Amour et des Morts, pour attendre d\u2019\u00eatre renvoy\u00e9es dans les cieux puis sur la terre par la pluie et se r\u00e9incarner. Mais lorsque certaines de ses armes refusent leur destin, elles parviennent parfois \u00e0 s\u2019\u00e9chapper dans les cours d\u2019eau et contaminer un cadavre sur leur passage ou une forme de vie faiblarde. Elles en prennent alors possession et lentement se construisent un corps avec les formes de vie, v\u00e9g\u00e9tales ou animales, qu\u2019elles contaminent. Les M\u00e9randres sont ainsi des cr\u00e9atures d\u00e9vorantes, hybrides et maudites souvent composites d\u2019animaux. Leur personnalit\u00e9 est parfois multiple, compos\u00e9e de l\u2019h\u00f4te et de l\u2019\u00e2me ou DES \u00e2mes invasives qui peuvent \u00eatre v\u00e9g\u00e9tales ou animales \u00e9galement. Le corps \u00e9tant souvent composite, il est difficile de les faire souffrir pour les \u00e9loigner. Cependant ces cr\u00e9atures usent d\u00e9j\u00e0 de beaucoup de magie pour se maintenir en vie, leurs pouvoirs sont donc souvent tr\u00e8s al\u00e9atoires."
+    },
+    {
+        "key": "shaher",
+        "tags": [
+            "race",
+            "ebenaum"
+        ],
+        "label": "Shaher",
+        "description": "Autrefois des loups, les Shaher ont \u00e9t\u00e9 dot\u00e9s de caract\u00e9ristiques humaines par leur empereur-Dieu, Shahylmarils, alors qu'il \u00e9tait encore jeune sur le chemin qui le m\u00e9nerait \u00e0 devenir l'homme le plus puissant du monde. Les Shaher sont son peuple. Protecteurs de leur terre, ces hommes-loups parcourent \u00e9galement le monde pour tenter de lutter contre Soak, le dieu du mal pur, briseur d'espoir, de r\u00eaves, et d'harmonie. Puissants, respect\u00e9s mais jalous\u00e9s, les hommes-loups portent le lourd fardeau de leur mission sur les \u00e9paules. Les faibles les adulent tandis que les autres se m\u00e9fient d'eux, les voyant comme les espions dociles de leur ma\u00eetre, incorruptibles sh\u00e9riffs en maraude."
+    },
+    {
+        "key": "oblivione",
+        "tags": [
+            "race",
+            "ebenaum"
+        ],
+        "label": "Oblivione",
+        "description": "Cr\u00e9ature myst\u00e9rieuse qui ne sait elle-m\u00eame peu de choses sur son esp\u00e8ce, les Obliviones vivent dans un gouffre au pied de la montagne des Dieux. D'une nature hautement magique, ce sont des guerriers \u00e0 la peau sombre et parcourue de runes et de tatouages violac\u00e9s ou dor\u00e9s. Ma\u00eetres en magie, les Obliviones n'ont pas vraiment d'autres buts que de d\u00e9couvrir le monde et explorer ses myst\u00e8res. Dot\u00e9s d'un humour incompr\u00e9hensible pour le reste des habitants du monde, ils mettent tout le monde mal \u00e0 l'aise, soyons francs."
+    },
+    {
+        "key": "goulemmes",
+        "tags": [
+            "race",
+            "ebenaum"
+        ],
+        "label": "Goulemmes",
+        "description": "Les Goulemmes sont les enfants de Grandlarve, un Ver g\u00e9ant qui depuis la nuit des temps ronge la pomme qu\u2019est Ebenaum, transformant l\u2019espoir en d\u00e9sespoir. Les morceaux du monde qu\u2019il ingurgite et recrache se changent en boue d\u2019o\u00f9 \u00e9mergent des cr\u00e9atures humano\u00efdes et souvent difformes, d\u2019apparence argileuse ou verd\u00e2tres que l\u2019on nomme de fa\u00e7on globale des Goulemmes. Suscitant l\u2019antipathie de la majorit\u00e9 du monde connu, les Goulemmes forment une diaspora  souterraine et nombreuse, qui, pourtant, est connue par celles et ceux qui prennent le temps de comprendre leur langage pour leur profonde app\u00e9tence pour la philosophie, la sociologie et l\u2019envie de profiter du monde. Seulement, pour des raisons qui semblent un peu obscures pour les b\u00e9otiens d\u2019humains, les goulemmes semblent convaincues qu\u2019\u00e9liminer les humains et leurs semblables n\u2019est sujet \u00e0 aucun d\u00e9bat. Leur antagonisme avec toute forme de civilisation est donc pr\u00e9gnant.  Les humains les insultent souvent en les traitant de Dork."
+    },
+    {
+        "key": "ombreux",
+        "tags": [
+            "race",
+            "ebenaum"
+        ],
+        "label": "Ombreux",
+        "description": "Vivant dans un royaume souterrain nich\u00e9 dans les anciennes galeries creus\u00e9es par le Ver d'\u00e9ther et l\u2019Enflamm\u00e9, au service d'une puissante sorci\u00e8re, les ombreux ont la capacit\u00e9 de prendre l'apparence de n'importe quelle personne. H\u00e9rauts de l'obscurit\u00e9, ces cr\u00e9atures se sont donn\u00e9es la t\u00e2che d'espionner la surface et d'ourdir des complots pour le compte de leur souveraine."
+    },
+    {
+        "key": "alphen",
+        "tags": [
+            "race",
+            "ebenaum"
+        ],
+        "label": "Alphen",
+        "description": "Les Alphen sont un petit peuple des montagnes gel\u00e9es qui, ayant \u00e9volu\u00e9 depuis le peuple des Zylwen pour grandir et partager quelques g\u00e8nes avec des ch\u00e8vres g\u00e9antes des environs, poss\u00e8de une culture de nomade assez primitive. Leurs contacts avec le monde des humains leur a fait prendre conscience de l'\u00e9norme \u00e9cart de mode de vie, et ils tentent toutes sortes de commerces pour obtenir des privil\u00e8ges. Ils sont farceurs et gaffeurs. Surtout quand il s\u2019agit d'esclavage, les coquins."
+    },
+    {
+        "key": "degons",
+        "tags": [
+            "race",
+            "ebenaum"
+        ],
+        "label": "Degons",
+        "description": "Nobles cr\u00e9atures h\u00e9rit\u00e9es des Dragons, les Degons sont des hommes-dragons marchant sur leurs pattes arri\u00e8res, et ayant d\u00e9cid\u00e9 de se m\u00ealer au monde des hommes. Ils en ont pris les atours et la culture. Ils sont puissants de corps et de magie, sages et froids, mais leur int\u00e9r\u00eat est d'emp\u00eacher tout cataclysme magique."
+    },
+    {
+        "key": "eren",
+        "tags": [
+            "race",
+            "erenthyrm",
+            "humains"
+        ],
+        "label": "Eren",
+        "description": "Les humains ne sont pas vraiment les ma\u00eetres du monde d'Erenthyrm, pour ce que vous en savez. De ce qu'en savent les habitants de Foerlingdon, le monde est vaste et seules quelques civilisations humaines sont parvenues \u00e0 instaurer un semblant de culture. Foerlingdon est la plus v\u00e9n\u00e9rable, paisible, et ancienne d'entre elles, de ce que vous en savez. Cela gr\u00e2ce aux Sages qui gouvernent la ville. Ce sont des hommes d'Eren, c'est \u00e0 dire des \u00eatres li\u00e9s aux arbres, par la s\u00e8ve qui coule dans leur sang. Bien qu'ils naissent au creux d'arbres enlac\u00e9s et que des veines de sinople se dessinent sur leur peau, ils ressemblent en tous points aux hommes de sang, qui sont de loin l'esp\u00e8ce la plus r\u00e9pandue. Ces derniers sont plus agiles, et semblent avoir un coeur et de l'imagination qui manque aux autres peuples. C'est ainsi que les hommes ont r\u00e9ussi \u00e0 s'imposer et \u00e0 fonder la cit\u00e9 de Foerlingdon, dont l'influence couvre la mer int\u00e9rieure et ext\u00e9rieure jusqu'\u00e0 la Sylve. Pendant longtemps, cette immense for\u00eat fut consid\u00e9r\u00e9e comme un lieu dangereux o\u00f9 l'on chassait des cr\u00e9atures hybrides - les Daloryan. Les Ga\u00ebls vivent sur une \u00eele repli\u00e9e sur elle-m\u00eame et les taureaux volants qu\u2019elles ont dress\u00e9 les aident \u00e0 maintenir les navires \u00e0 distance."
+    },
+    {
+        "key": "kays-erenthyrm",
+        "tags": [
+            "race",
+            "erenthyrm",
+            "humains"
+        ],
+        "label": "Kays",
+        "description": "Les Kays sont majoritairement des humains ayant des dons pour l'imagination. Entrain\u00e9s par L'Ordre \u00e0 lutter contre les Chymeyres, ils prot\u00e8gent ensuite le monde de ces entit\u00e9s. Vivant dans les Terres de Boue, ils habitent dans des monast\u00e8res de pierre sur des \u00eelots flottants tandis qu'en contrebas les Comisses de boue travaillent pour eux."
+    },
+    {
+        "key": "humains-sumer",
+        "tags": [
+            "race",
+            "erenthyrm"
+        ],
+        "label": "Humains de Sumer",
+        "description": "Les Humains de Sumer vivent tr\u00e8s loin, coinc\u00e9s le long d'un immense bras de mer qui se retire et revient tr\u00e8s fr\u00e9quemment et, d'un c\u00f4t\u00e9, les Montagnes sombres et d\u00e9sertiques de Tenebrarum et de l'autre c\u00f4t\u00e9 le d\u00e9sert des Kuergars. Ils sont respect\u00e9s de par le monde et connus pour leur calme et leur sagesse...Mais aussi leur c\u00f4t\u00e9 tr\u00e8s ennuyeux. Les S\u00fbmer vivent dans des cit\u00e9s troglodytes sur les falaises au bord du fleuve rampant, souvent visit\u00e9 par des pirates et maraudeurs vivants dans des cit\u00e9s flottantes sur cette mar\u00e9e sauvage."
+    },
+    {
+        "key": "alfes",
+        "tags": [
+            "race",
+            "erenthyrm"
+        ],
+        "label": "Alfes",
+        "description": "Etre un Alfe, c'est \u00eatre per\u00e7u comme la plupart du monde comme une race inf\u00e9rieure, mais dont il faut se m\u00e9fier. A l'\u00e9tat naturel, les Alfes sont des animaux omnivores qui paissent partout dans le monde. Mais, avec le temps, deux cultures ont \u00e9merg\u00e9es parmi eux : les Alfes des Monts et ceux des bois. Ceux-ci vivent par petits groupes ou dans des communaut\u00e9s de Daloryans, profitant de la douceur de la vie tout en marchandant parfois avec les humains de passage, car ils sont les plus \"cultiv\u00e9s\" des peuples de la for\u00eat. Les Alfes qui sont parfois trait\u00e9s comme des esclaves, voire du gibier, savent que leur peuple est puissant dans les montagnes, et cela leur donne de l'hardiesse pour utiliser leurs affinit\u00e9s avec la faune et la flore pour jouer des tours aux humains bien trop orgueilleux, et aux Daloryans trop paresseux. Les Alfes sont avant tout des passeurs, des interm\u00e9diaires entre les peuples, car ils savent s'adapter facilement \u00e0 leur environnement et interlocuteur, m\u00eame si, d'une nature fac\u00e9tieuse, ils n'ont de loyaut\u00e9 qu'envers les leurs."
+    },
+    {
+        "key": "daloryans",
+        "tags": [
+            "race",
+            "erenthyrm"
+        ],
+        "label": "Daloryans",
+        "description": "Les Daloryans sont des cr\u00e9atures hybrides en tous genres qui vivent dans une immense for\u00eat nomm\u00e9e \"Sylve\" par les humains. Ils y vivent de fa\u00e7on le plus souvent isol\u00e9e, mais certains se regroupent, et forment de petits villages. Les Daloryan se distinguent des animaux par leur capacit\u00e9 \u00e0 avoir un langage et un semblant de civilisation. Mais tous ne sont pas tr\u00e8s am\u00e8nes avec cette id\u00e9e, et rejettent les hommes destructeurs qui s'aventurent dans les bois. Les Daloryan sont donc multiples, et ils vivent soit seuls, soit en petite communaut\u00e9s, dont certaines essaient de reproduire quelques comportements humains observ\u00e9s ou rapport\u00e9s par des alfes de passage. Ce sont avant tout des cr\u00e9atures paisibles qui n'aspirent \u00e0 rien d'autre qu'\u00e0 leur libert\u00e9 et une vide douce dans les bois. Les Daloryan ne se connaissent que deux ma\u00eetres, qu'ils choisissent de suivre ou non : le Sagittaire, et le Capricorne. Ce dernier est le plus sauvage, celui qui pr\u00f4ne l'isolement, l'individualisme, la libert\u00e9 de chacun et la protection de la Sylve contre les hommes. Le Sagittaire est bien plus ouvert. Les Daloryan souffrent d'\u00eatre consid\u00e9r\u00e9s par les humains comme des animaux bons \u00e0 \u00eatre chass\u00e9s. Une premi\u00e8re tentative de cohabitation a vu jour, dans un lieu nomm\u00e9 le Logis de Bordesylve, qui a permis d'\u00e9tablir un semblant de paix apr\u00e8s de dramatiques incidents entre ces esp\u00e8ces. Pour l'heure, la fragile entente entre les habitants du Logis est ce qui assure la tranquillit\u00e9 de ceux vivant en bordure de bois... Mais la responsabilit\u00e9 de toute homme et tout Daloryan vivant aux abords de la Sylve est engag\u00e9e pour permettre \u00e0 ce projet de r\u00e9ussir."
+    },
+    {
+        "key": "venne-femelle",
+        "tags": [
+            "race",
+            "erenthyrm"
+        ],
+        "label": "Venne femelle",
+        "description": "Il n'y a pas vraiment de soci\u00e9t\u00e9 Venne. Le Venne femelle n'a rien \u00e0 voir avec le Venne M\u00e2le, le Rable. Si ces derniers ressemblent \u00e0 des Gobelins moustachus qui passent leur temps \u00e0 se cacher sous de gros amas de feuilles et de v\u00e9g\u00e9tation pour cacher leur laideur, les Femelles sont dot\u00e9es d'ailes, et bien qu'elles aient aussi un long nez, elles sont beaucoup plus belles et leur visage est bariol\u00e9 de couleurs. On dit d'elles qu'elles brillent dans le noir, et c'est pour cela que les enfants Venne sont captur\u00e9s par les aventuriers qui les charment, pour s'\u00e9clairer la nuit. Les Venne femelles adorent tout ce qui brillent, et c'est donc la qu\u00eate ultime des Venne m\u00e2les que de trouver de tels objets. Heureusement, ces cr\u00e9atures sont dot\u00e9es de quelques facult\u00e9s naturelles bien pratiques pour se dissimuler et \u00e9chapper aux agresseurs. Ce sont de bons fouineurs, mais aussi de bons \u00e9couteurs. En parlant avec les arbres, ils entendent beaucoup de choses\u2026"
+    },
+    {
+        "key": "venne-male",
+        "tags": [
+            "race",
+            "erenthyrm"
+        ],
+        "label": "Venne m\u00e2le",
+        "description": "Il n'y a pas vraiment de soci\u00e9t\u00e9 Venne. Le Venne femelle n'a rien \u00e0 voir avec le Venne M\u00e2le, le Rable. Si ces derniers ressemblent \u00e0 des Gobelins moustachus qui passent leur temps \u00e0 se cacher sous de gros amas de feuilles et de v\u00e9g\u00e9tation pour cacher leur laideur, les Femelles sont dot\u00e9es d'ailes, et bien qu'elles aient aussi un long nez, elles sont beaucoup plus belles et leur visage est bariol\u00e9 de couleurs. On dit d'elles qu'elles brillent dans le noir, et c'est pour cela que les enfants Venne sont captur\u00e9s par les aventuriers qui les charment, pour s'\u00e9clairer la nuit. Les Venne femelles adorent tout ce qui brillent, et c'est donc la qu\u00eate ultime des Venne m\u00e2les que de trouver de tels objets. Heureusement, ces cr\u00e9atures sont dot\u00e9es de quelques facult\u00e9s naturelles bien pratiques pour se dissimuler et \u00e9chapper aux agresseurs. Ce sont de bons fouineurs, mais aussi de bons \u00e9couteurs. En parlant avec les arbres, ils entendent beaucoup de choses\u2026"
+    },
+    {
+        "key": "kuergars",
+        "tags": [
+            "race",
+            "erenthyrm"
+        ],
+        "label": "Kuergars",
+        "description": "Cette esp\u00e8ce vit dans les d\u00e9sert dess\u00e9ch\u00e9s et venteux du Sirdri et Vestri. Ils parcourent ces terres sur le dos de gros insectes et en se nourrissant de kroktus dont ils se font des armures, la nuit. Le jour, ils vivent souvent dans des grottes humides en compagnie de cr\u00e9atures spectrales qui semblent y prendre vie. Les Kuergars sont r\u00e9put\u00e9s assez inhospitaliers, et leur bouche est couverte d\u2019un tissu lorsque leurs grands yeux sondent votre \u00e2me."
+    },
+    {
+        "key": "graou-comisses-de-boue",
+        "tags": [
+            "race",
+            "erenthyrm"
+        ],
+        "label": "Graou et Comisses de Boue",
+        "description": "Ces cr\u00e9atures seraient les rejetons de la B\u00ea\u00earich\u00f4\u00f4ne, qu\u2019elle s\u00e8me dans son exode de par le monde. Certains disent qu\u2019elle est l\u2019amante de l\u2019Ours des Temp\u00eates mais c\u2019est s\u00fbrement une rumeur. Les Grao\u00fb sont trait\u00e9s en esclaves dans les terres Kays et si ils savent se d\u00e9fendre en projetant des jets de bave acide, leur carapace dorsale et leurs oreilles tombantes ne les rendent pas tr\u00e8s agiles bien qu\u2019endurants et bons \u00e0 la t\u00e2che. Ils sont donc charg\u00e9s dans les terres Kays de brasser la boue pour assurer que personne ne puisse les envahir, eux qui vivent sur des rochers en quasi l\u00e9vitation au dessus des landes boueuses des Grao\u00fb."
+    },
+    {
+        "key": "chymeyres",
+        "tags": [
+            "race",
+            "erenthyrm"
+        ],
+        "label": "Les Chymeyres ne sont pas des cr\u00e9atures vivantes. Elles sont en r\u00e9alit\u00e9 l\u2019\u00e9manation des r\u00eaves et des cauchemars des hommes, qui prennent forme. Elles d\u00e9pendent donc d\u2019un r\u00eave ou d\u2019un cauchemar, qui r\u00e9git toutes leurs actions. Elles sont \u00e9galement constamment attir\u00e9es par les sources d\u2019imagination qu\u2019elles drainent et vampirisent. Se faisant, soit elles contaminent d\u2019autres cr\u00e9atures vivantes pour servir leur cause, soit elles prennent possession d\u2019elles (ainsi, vous pourrez jouer parfois des \u201cposs\u00e9d\u00e9s\u201d.). Elles sont cependant soumises \u00e0 la puissance des Maitres Kays qui sont parvenus, pour l\u2019instant, \u00e0 les faire ob\u00e9ir \u00e0 leurs souhaits. Les chymeyres craignent \u00e9galement certaines choses. Enfin, il existe une hi\u00e9rarchie chez elle, et elles ob\u00e9iront toujours \u00e0 un Cavalier, une Reine, ou un Roi Chymeyre. Elles sont l'exacerbation des d\u00e9fauts et vices des hommes."
+    },
+    {
+        "key": "barde",
+        "tags": [
+            "alignement"
+        ],
+        "label": "Bard\u00e9"
+    },
+    {
+        "key": "heygg",
+        "tags": [
+            "alignement"
+        ],
+        "label": "Heygg"
+    },
+    {
+        "key": "hoygg",
+        "tags": [
+            "alignement"
+        ],
+        "label": "Hoygg"
+    },
+    {
+        "key": "capricorne",
+        "tags": [
+            "alignement"
+        ],
+        "label": "Capricorne"
+    },
+    {
+        "key": "sagittaire",
+        "tags": [
+            "alignement"
+        ],
+        "label": "Sagittaire"
+    },
+    {
+        "key": "chymeyre",
+        "tags": [
+            "alignement"
+        ],
+        "label": "Chymeyre"
+    },
+    {
+        "key": "hygg",
+        "tags": [
+            "voie-de-vie",
+            "ebenaum"
+        ],
+        "label": "Hygg"
+    },
+    {
+        "key": "foi",
+        "tags": [
+            "voie-de-vie",
+            "ebenaum"
+        ],
+        "label": "Foi"
+    },
+    {
+        "key": "guilde",
+        "tags": [
+            "voie-de-vie",
+            "ebenaum"
+        ],
+        "label": "Guilde"
+    },
+    {
+        "key": "escrime",
+        "tags": [
+            "voie-de-vie",
+            "ebenaum"
+        ],
+        "label": "Escrime"
+    },
+    {
+        "key": "dogme",
+        "tags": [
+            "voie-de-vie",
+            "ebenaum"
+        ],
+        "label": "Dogme"
+    },
+    {
+        "key": "instrument",
+        "tags": [
+            "voie-de-vie",
+            "ebenaum"
+        ],
+        "label": "Instrument"
+    },
+    {
+        "key": "pied",
+        "tags": [
+            "voie-de-vie",
+            "erenthyrm"
+        ],
+        "description": "Dans un monde avec peu de science, de technologie et d’échanges, les vagabonds sont utiles et meme bienvenus. Qu’ils s’aventurent autour du village ou à l’autre bout du monde, ils ont souvent l’oeil acéré et une ouverture d’esprit tout aussi acérée.",
+        "label": "Pied"
+    },
+    {
+        "key": "bras",
+        "tags": [
+            "voie-de-vie",
+            "erenthyrm"
+        ],
+        "description": "Les bras sont les muscles de la communauté. Dans un monde sans véritable armée, la carriere militaire se résume à protéger la communauté ou pourchasses les menaces. Enfin, certains peuples abritent des individus qui sont des muscles plus que des cerveaux, des animaux, presque, dressés à obéir…",
+        "label": "Bras"
+    },
+    {
+        "key": "main",
+        "tags": [
+            "voie-de-vie",
+            "erenthyrm"
+        ],
+        "label": "Main"
+    },
+    {
+        "key": "voix",
+        "tags": [
+            "voie-de-vie",
+            "erenthyrm"
+        ],
+        "label": "Voix"
+    },
+    {
+        "key": "cortex",
+        "tags": [
+            "voie-de-vie",
+            "erenthyrm"
+        ],
+        "description": "La voie du Cortex est assez spéciale, puisque comme évoqué précédemment, l’imagination est une chose rare en Erenthyrm, et lorsqu’elle se manifeste c’est souvent sous la forme de chymeyres inquiétantes qui n’épargnent aucune région et qui lorsqu’elles sont plusieurs peuvent être des menaces très sérieuses. Pour protéger les communautés, différents ordres et métiers se sont créés. On retrouvera également dans le Cortex les personnages jouant avec des forces inconnues et peu maîtrisées.",
+        "label": "Cortex"
+    },
+    {
+        "key": "coeur",
+        "tags": [
+            "voie-de-vie",
+            "erenthyrm"
+        ],
+        "description": "La voie du coeur est celle des individus donnant d’eux-mêmes pour prendre soin des autres et de la communauté, en partageant leur sensibilité au monde, leurs connaissances et leur énergie pour guérir, élever et soigner les corps, les âmes, et les idées. Leurs champs d’expertise un peu atypiques ou qui peuvent sembler mystérieux pour les esprits simples d’Erenthyrm fait qu’ils sont souvent perçus comme des parias vivants dans la communauté mais tout en restant un peu étranges.",
+        "label": "Coeur"
+    }
+]
