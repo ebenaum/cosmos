@@ -827,5 +827,221 @@
             "ebenaum"
         ],
         "label": "Ordre des Crois\u00e9es"
+    },
+    {
+        "key": "aurore",
+        "tags": [
+            "voie-de-vie",
+            "instrument",
+            "ebenaum"
+        ],
+        "label": "Aurore"
+    },
+    {
+        "key": "bourse",
+        "tags": [
+            "voie-de-vie",
+            "instrument",
+            "ebenaum"
+        ],
+        "label": "Bourse"
+    },
+    {
+        "key": "cordes",
+        "tags": [
+            "voie-de-vie",
+            "instrument",
+            "ebenaum"
+        ],
+        "label": "Cordes"
+    },
+    {
+        "key": "jongleurs",
+        "tags": [
+            "voie-de-vie",
+            "instrument",
+            "ebenaum"
+        ],
+        "label": "Jongleurs"
+    },
+    {
+        "key": "instruments",
+        "tags": [
+            "voie-de-vie",
+            "instrument",
+            "ebenaum"
+        ],
+        "label": "Instruments"
+    },
+    {
+        "key": "kessece",
+        "tags": [
+            "voie-de-vie",
+            "instrument",
+            "ebenaum"
+        ],
+        "label": "Kessecé"
+    },
+    {
+        "key": "voyageurie",
+        "tags": [
+            "voie-de-vie",
+            "pied",
+            "erenthyrm"
+        ],
+        "label": "Voyageurie"
+    },
+    {
+        "key": "murmureurie",
+        "tags": [
+            "voie-de-vie",
+            "pied",
+            "erenthyrm"
+        ],
+        "label": "Murmureurie"
+    },
+    {
+        "key": "veilleurie",
+        "tags": [
+            "voie-de-vie",
+            "pied",
+            "erenthyrm"
+        ],
+        "label": "Veilleurie"
+    },
+    {
+        "key": "protecteurie",
+        "tags": [
+            "voie-de-vie",
+            "bras",
+            "erenthyrm"
+        ],
+        "label": "Protecteurie"
+    },
+    {
+        "key": "chasseurie",
+        "tags": [
+            "voie-de-vie",
+            "bras",
+            "erenthyrm"
+        ],
+        "label": "Chasseurie"
+    },
+    {
+        "key": "sauvagerie",
+        "tags": [
+            "voie-de-vie",
+            "bras",
+            "erenthyrm"
+        ],
+        "label": "Sauvagerie"
+    },
+    {
+        "key": "artisanie",
+        "tags": [
+            "voie-de-vie",
+            "main",
+            "erenthyrm"
+        ],
+        "label": "Artisanie"
+    },
+    {
+        "key": "tisanerie",
+        "tags": [
+            "voie-de-vie",
+            "main",
+            "erenthyrm"
+        ],
+        "label": "Tisanerie"
+    },
+    {
+        "key": "dresseurie",
+        "tags": [
+            "voie-de-vie",
+            "main",
+            "erenthyrm"
+        ],
+        "label": "Dresseurie"
+    },
+    {
+        "key": "meneurie",
+        "tags": [
+            "voie-de-vie",
+            "voix",
+            "erenthyrm"
+        ],
+        "label": "Meneurie"
+    },
+    {
+        "key": "conteurie",
+        "tags": [
+            "voie-de-vie",
+            "voix",
+            "erenthyrm"
+        ],
+        "label": "Conteurie"
+    },
+    {
+        "key": "troceurie",
+        "tags": [
+            "voie-de-vie",
+            "voix",
+            "erenthyrm"
+        ],
+        "label": "Troceurie"
+    },
+    {
+        "key": "maitre-kay-sumer-chymeyriste",
+        "tags": [
+            "voie-de-vie",
+            "cortex",
+            "erenthyrm"
+        ],
+        "label": "Maître Kay / Maître Sumer / Maître Chymeyriste"
+    },
+    {
+        "key": "grimerie",
+        "tags": [
+            "voie-de-vie",
+            "cortex",
+            "erenthyrm"
+        ],
+        "label": "Grimerie"
+    },
+    {
+        "key": "cortex-chymeyre",
+        "tags": [
+            "voie-de-vie",
+            "cortex",
+            "erenthyrm"
+        ],
+        "label": "Chymeyre"
+    },
+    {
+        "key": "danseurie-saisons",
+        "tags": [
+            "voie-de-vie",
+            "coeur",
+            "erenthyrm"
+        ],
+        "label": "Danseurie des Saisons"
+    },
+    {
+        "key": "embaumerie",
+        "tags": [
+            "voie-de-vie",
+            "coeur",
+            "erenthyrm"
+        ],
+        "label": "Embaumerie"
+    },
+    {
+        "key": "eveilleurie",
+        "tags": [
+            "voie-de-vie",
+            "coeur",
+            "erenthyrm"
+        ],
+        "label": "Eveilleurie"
     }
 ]
