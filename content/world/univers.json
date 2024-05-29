@@ -4,12 +4,14 @@
         "tags": [
             "monde"
         ]
+	"label": "Ebenaum"
     },
     {
         "key": "erenthyrm",
         "tags": [
             "monde"
         ],
+	"label": "Erenthrym",
         "description": "Le Monde d\u2019Erenthyrm est un disque de terre flottant \u00e0 la surface de ses mers. Parcouru par des Vennets qui ne sont capables que d\u2019aimer et qui se choisissent donc des Amants et des Amantes parmi les humains, le monde d\u2019Erenthyrm est habit\u00e9 par une poign\u00e9e de civilisations."
     },
     {
