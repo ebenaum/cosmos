@@ -529,7 +529,8 @@
             "lycee",
             "ebenaum"
         ],
-        "label": "Lyc\u00e9e Annexe"
+        "label": "Lyc\u00e9e Annexe",
+        "description": "On y forme les Sorciers et ensorceleurs. Ils étudient l’énergie vitale, dans toute sa complexité, depuis la naissance jusqu’à.. après la mort. Oui. Ce ne sont pas les gens les plus gais du monde d'Ebenaum. Leur art consiste donc à corrompre l'esprit de la cible pour l'ensorceler, la drainer ou la guérir."
     },
     {
         "key": "lycee-auriginaux",
@@ -539,7 +540,8 @@
             "lycee",
             "ebenaum"
         ],
-        "label": "Lyc\u00e9e de l'Auriginaux"
+        "label": "Lyc\u00e9e de l'Auriginaux",
+        "description": "Ici vivent les Magiciens et Érudits. Les magiciens sont réputés pour être les plus étranges des étudiants de l’Hygg et de la voie de l’Herpe. En effet ils étudient toutes les formes alternatives de magie, de sciences et de savoir du monde. Certains disent qu'ils sont les plus inutiles des lycéens, d'autres les plus puissants. Ils sont souvent très érudits sur le monde, alchimistes, polyvalents, sachant détecter et identifier la magie et connaissent quelques secrets magiques sur des phénomènes dont les autres n'ont pas idée."
     },
     {
         "key": "lycee-majeur",
@@ -549,7 +551,8 @@
             "lycee",
             "ebenaum"
         ],
-        "label": "Lyc\u00e9e Majeur"
+        "label": "Lyc\u00e9e Majeur",
+        "description": "Les plus farfelus et expérimentateurs des membres d'Hygg. Bien qu’eux diraient qu’ils sont les plus “scientifiques”. Ils étudient principalement l’element magique pur et sa capacité à altérer le monde. Les ingénieurs et les Mages sont issus de ce lycée, qui est le plus répandu et le plus influent du monde. Ils créent à partir de rien et explorent souvent les horizons des possibles dans la téléportation, l'illusion,... Mais leur magie est difficile, fragile et instable."
     },
     {
         "key": "lycee-pouvoir",
@@ -559,7 +562,8 @@
             "lycee",
             "ebenaum"
         ],
-        "label": "Lyc\u00e9e du Pouvoir"
+        "label": "Lyc\u00e9e du Pouvoir",
+        "description": "Ce lycée enseigne comment altérer la nature d’un objet en lui inscrivant une signature magique. En d'autres termes, ils changent les propriétés d'un objet de façon plus ou moins pérenne, et on les nomme ainsi enchanteurs. Ils sont souvent également doués en sciences et alchimie."
     },
     {
         "key": "lycee-incandescent",
@@ -569,7 +573,8 @@
             "lycee",
             "ebenaum"
         ],
-        "label": "Lyc\u00e9e Incandescent"
+        "label": "Lyc\u00e9e Incandescent",
+        "description": "Les élémentalistes apprennent à combiner les éléments et la magie pour obtenir un maximum d’effets avec un minimum d’efforts. Ainsi ils sont particulièrement efficaces dans l’action, mais leur magie demande l’utilisation des éléments existants qu'ils amplifient, déforment, altèrent, déplacent…"
     },
     {
         "key": "lycee-feold",
@@ -579,7 +584,8 @@
             "lycee",
             "ebenaum"
         ],
-        "label": "Lyc\u00e9e de Feold"
+        "label": "Lyc\u00e9e de Feold",
+        "description": "Ce lycée enseigne la dissipation ou la concentration de la magie manipulée ou non. Ils peuvent aider à la concentration d’un autre sortilège ou au contraire à sa dissipation. Sorts : brûlure de magie, dissipation de sort, regain de magie, détection magique… Avec le temps, d'autres disciplines magiques virent le jour et les lycées se multiplièrent ou au contraire fusionnèrent. Avec un succès relatif. Tout le monde se souvient d'Ernestin le magicien illusioniste et ses illusions de sorts de guérison. Il était pourtant plein de volonté. Plus personne ne veut s'en souvenir. Archimages : Melfen ( fondateur des Lycées, le plus puissant, tyran assassiné ) Ismaël ( vieil archimage encore vivant, bienveillant) Myrabel ( Hiéromage/ druide détraqué , talentueux mais égoïste et excentrique) Archichancelier Alacave ( actuel chancelier du lycée Majeur) Pepin Depom (Archimagicien qui sauva les degons de l'extinction en créant le service des gargouilles volantes.)"
     },
     {
         "key": "temple-brame-croc",
@@ -589,7 +595,8 @@
             "temple",
             "ebenaum"
         ],
-        "label": "Temple de Br\u00e2me/du Croc"
+        "label": "Temple de Br\u00e2me/du Croc",
+        "description": "Un mouvement s'imprégnant du comportement animal, que les croyants considèrent comme un dieu. Beaucoup se retrouvent à se lécher l'entrejambe sans comprendre pourquoi. D'autres découvrent la faculté de voler, plus ou moins avec succès. Ceux qui ont le plus de réussite sont les Shahmans qui font fusion avec les fauves...et leur odeur."
     },
     {
         "key": "temple-cener",
@@ -599,7 +606,8 @@
             "temple",
             "ebenaum"
         ],
-        "label": "Temple de Cener"
+        "label": "Temple de Cener",
+        "description": "Contrairement au temple précédent, Cener puise sa foi dans la nature, et les forces élémentaires. Point question de Dieux, Fi des destinées ! Tout réside dans GayaG et ManaM, les amants séparés de la Nature et la magie. Les druides, adeptes de Cener, sont de puissants ritualistes, mais aussi des herboristes et médecins parfois hasardeux, mais qui ont le mérite d'essayer. Certifié bio."
     },
     {
         "key": "temple-vraie-foi",
@@ -609,7 +617,8 @@
             "temple",
             "ebenaum"
         ],
-        "label": "Temple de la Vraie Foi"
+        "label": "Temple de la Vraie Foi",
+        "description": "Les Moines et croisés de la Vraie Foi n’ont qu’une croyance : la force des êtres pensants. Ils réfutent tout besoin de divinités dans leurs vies, disant que c’est déjà assez bien compliqué comme ça. Les Moines ont une foi en eux-mêmes à toute épreuve ce qui en fait de courageux adversaires n’ayant aucune peur et une grande maîtrise d’eux-mêmes. Ils sont également particulièrement résistants à quiconque tente de les influencer. Cet ordre aux accents parfois très bienveillants, parfois très martiaux et intransigeants suscite beaucoup de polémiques dans un monde dominé par des Dieux bien tangibles. Leur symbole est un X qui représente l’être humanoïde car leur leader fut écartelé par des inquisiteurs enragés. Tout ce qui n’est pas humain relève de l’aberration pour cette église."
     },
     {
         "key": "temple-bofrist-dommynion-brashahmus",
@@ -619,7 +628,8 @@
             "temple",
             "ebenaum"
         ],
-        "label": "Temple du Bofrist/Dommynion/Brashahmus"
+        "label": "Temple du Bofrist/Dommynion/Brashahmus",
+        "description": "Ces temples correspondent aux plus répandus sur la croûte d'Ebenaum. Chaque dieu possède un temple, mais il invite volontiers dans ce dernier un voisin. C'est un peu du sponsoring, pour inciter les croyants à prendre un forfait “Divin”. Les pélerins miséreux et fervents et souvent avatars des dieux, les prêtres prêchants et les inquisiteurs inquiétants étudient au sein de ces églises selon leur dieu, pour accéder au pouvoir de la foi. Une guerre oppose depuis de très nombreuses années les dieux du Bofrist à ceux du Dommynion, qu'ils veulent raser. Les dieux du troisième panthéon, les plus puissants, car ils ne dépendent de personne pour exister, sont peu nombreux mais s'accordent presque tous autour de Shahylmarils. Nombreuses sont les guerres de religion, et elles dépassent les frontières de peuples, de politique et de races. A savoir que le peuple le plus croyant est celui des Nelwyns, qui organise régulièrement des croisades de vacances contre les Zylwens."
     },
     {
         "key": "temple-ombreline",
@@ -629,7 +639,8 @@
             "temple",
             "ebenaum"
         ],
-        "label": "Temple d'Ombreline"
+        "label": "Temple d'Ombreline",
+        "description": "Associé au 3e Panthéon, ce temple ne croit pas dans l’omnipotence des divinités mais dans l’harmonie de l’univers et la présence d’entités antérieures aux autres panthéons. Ils pensent que ce sont les histoires qui forgent le monde des hommes qui doit cependant se lier au monde naturel et ses protecteurs, composites. Ils croient dans les entités du Destin, Erole - les Vents, Neïs - la tisseuse de destinée et reine des Abysses, Degonebenor - le Dragon du ciel; L’Ombre - qui chasse la nuit quand l’oeil du cyclope  scrute le monde. Ils reconnaissent aussi Nycanoc la preneuse de souffle et Jaime le randonneur de mondes. Leurs membres les plus nombreux sont celles et ceux qui dirigent et animent la confrérie des Murmures, une société secrete réputée pour être présente partout et rassembler ses membres autour des histoires, des arts et du savoir, sous le patronage d’Erole et la papesse Alizée d’Ebrume et sa soeur Ombreline."
     },
     {
         "key": "temple-kay",
@@ -639,7 +650,8 @@
             "temple",
             "ebenaum"
         ],
-        "label": "Temple Kay"
+        "label": "Temple Kay",
+        "description": "Apparus depuis l'Hembar, les Kay arrivèrent à bord d'une Arche volante dans le monde d'Ebenaum. Arche qui s'écrasa après qu'un paysan ait lancé adroitement une fourche dans sa direction, dit-on. Les Kay possèdent des dons parapsychologiques. Les Moines, chevaliers et maîtres Kay possèdent en plus d'une polyvalence complète la possibilité d’altérer l’esprit de leurs cibles. Ce temple est assez hermétique au monde extérieur."
     },
     {
         "key": "art-apogee",
@@ -649,7 +661,8 @@
             "art",
             "ebenaum"
         ],
-        "label": "Art de l'Apog\u00e9e"
+        "label": "Art de l'Apog\u00e9e",
+        "description": "Spécialisés dans la dérobade, le voleur et les roublards sont capables de voler des informations, de se dissimuler ou d'abréger la vie de personnes un peu gênantes. Arrangez vous pour ne pas en être.. Faites vous tout petit petit, et dispensez généreusement votre argent…."
     },
     {
         "key": "art-solstice",
@@ -659,7 +672,8 @@
             "art",
             "ebenaum"
         ],
-        "label": "Art du Solstice"
+        "label": "Art du Solstice",
+        "description": "Traquer et piéger une proie est sa spécialité, et sa capacité à s'adapter à tous les milieux en fait un genre de personnes, qui si vous savez qu'elle vous cherche, vous provoquera de très fortes migraines, et une tendance à avoir peur de chaque coin de rue un peu ombragé. Chasseurs."
     },
     {
         "key": "art-acme",
@@ -669,7 +683,8 @@
             "art",
             "ebenaum"
         ],
-        "label": "Art de l'Acm\u00e9"
+        "label": "Art de l'Acm\u00e9",
+        "description": "Les courtisans sont ces personnages étranges, qui apparaissent, disparaissent, en même temps que vos bourses se vident…quelles qu'elles soient. Les courtisans sont des nobles instruits aux arts de l'empoisonnement, du duel, du charisme et de quelques autres fioritures permettant de vivre longtemps dans le même corps qui font souvent office de diplomate espion. Beaucoup sont instruits des arts."
     },
     {
         "key": "art-equinoxe",
@@ -679,7 +694,8 @@
             "art",
             "ebenaum"
         ],
-        "label": "Art de l'Equinoxe"
+        "label": "Art de l'Equinoxe",
+        "description": "Le rôdeur ne cherche ni affront, ni profit. Il observe et veille. C'est pourtant un combattant émérite, et un forestier alerte. Apparemment et je sais ce que je dis, on note une forte tendance chez eux à abriter des bâtards royaux. Mis à part cela, ils sont polyvalents et si vous pouvez supporter un mec qui bouffe des graines et sent le bouc, feront de bons compagnons."
     },
     {
         "key": "art-eclispe",
@@ -689,7 +705,8 @@
             "art",
             "ebenaum"
         ],
-        "label": "Art de l'Eclipse"
+        "label": "Art de l'Eclipse",
+        "description": "Noir...Dague...poison...Pas feutré... Y a quelque chose qui a bougé dans l’ombre, là, non? Reflet de lune. Chuintement d’une lame. Shclok la gorge, psssssssst la fontaine de sang. Tout en élégance et en finesse...Que dire d'un assassin qu'on ne sait déjà? Ah si ! ils respectent les codes de leur Art et de la Guilde. C'est aussi la maison des Espions."
     },
     {
         "key": "art-perigee",
@@ -699,7 +716,8 @@
             "art",
             "ebenaum"
         ],
-        "label": "Art du P\u00e9rig\u00e9e"
+        "label": "Art du P\u00e9rig\u00e9e",
+        "description": "La confrérie des Murmures a des membres de par le monde entier. Mais vous ne le savez pas. Ils consignent les secrets, les savoirs, et on dit même qu’ils ont des capacités psychiques hors du commun car ils sont liés au vent. Mais c’est seulement une rumeur, vous en conviendrez. Ils officient en tant que bardes, mendiants et conteurs et vont de cité en cité porter leurs histoires et en récolter d’autres. Certaines professions ne se réunissent jamais tandis que d'autres passent la majorité de leur temps à rédiger des rapports d'une dizaine de pages juste pour pouvoir emprunter un crochet. La loi fondamentale des Guildes est la DISCRETION. Et ceux qui ne sont pas assez discrets, elles les aident à l'être...C'est fou ce que quelqu'un avec du ciment au pied au fond d'un fleuve est discret. En ces temps troubles, une chose reste sûre, le travail ne manque pas pour les Artisans ! Les maîtres de Guilde les plus célèbres ont des alias connus, comme le courtisan Orange Poulain ou l’assassin Mac’h Babelle mais la plupart se font discrets. Ils sont souvent appréciés du peuple car représentent un contre-pouvoir à la force des armées des dirigeants. Les plus prestigieuses Guildes sont chez les Aesirs comme celle de Gal Suintlam ou Gal Galleum. Mais chaque grande cité à ses guildes."
     },
     {
         "key": "lame-claymore",
@@ -709,7 +727,8 @@
             "lame",
             "ebenaum"
         ],
-        "label": "Lame du Claymore"
+        "label": "Lame du Claymore",
+        "description": "Le Claymore est souvent un paysan devenu guerrier. Ce sont des piliers dans un combat, endurants et puissants. Moins sauvages que les berserks. Disons qu'ils cuisent la viande avant de la manger. Les Claymores se moquent des tirs ennemis, et leur courage est exemplaire. Un Claymore doit forger sa propre lame pour gagner ce titre."
     },
     {
         "key": "lame-fleuret",
@@ -719,7 +738,8 @@
             "lame",
             "ebenaum"
         ],
-        "label": "Lame du Fleuret"
+        "label": "Lame du Fleuret",
+        "description": " L'escrimeur rentabilise le fait d'être peu endurant par une maîtrise des arts de l'escrime inégalée. Aucun homme ne manie aussi bien les armes qu'eux et les techniques de combat. Les lames du Fleuret doivent atteindre un certain score dans des compétitions officielles pour obtenir le titre. Les Fleureurs sont donc en nombre limité et ne se cachent souvent pas de le faire savoir."
     },
     {
         "key": "lame-espadon",
@@ -729,7 +749,8 @@
             "lame",
             "ebenaum"
         ],
-        "label": "Lame d'Espadon"
+        "label": "Lame d'Espadon",
+        "description": "Les espadons sont ceux qui plus tard formeront les Gardes et Soldats des armées. Un Espadon n'abandonne jamais sa position. Ce sont les rocs sur lesquels les armes viennent se briser… Ou, selon certains, ces "connards de coffre-fort". Les Gardes reçoivent leur épée d’un commanditaire, et ils ne doivent jamais en être désarmés ou échouer à leur protection, sinon ils perdent leur statut jusqu’à trouver un nouveau commanditaire."
     },
     {
         "key": "lame-sabre",
@@ -739,7 +760,8 @@
             "lame",
             "ebenaum"
         ],
-        "label": "Lame de Sabre"
+        "label": "Lame de Sabre",
+        "description": "Le duelliste est un combattant spécialisé dans le combat en duel. Capable de se sortir de presque n'importe quelle situation, et pouvant officier comme tueur ou garde du corps. Méfiez vous toujours d'ailleurs de votre garde du corps. Une dague dans la botte et un pistolet dans la manche. Les Dagues doivent assassiner une autre Dague en duel pour obtenir ce titre."
     },
     {
         "key": "lame-glaive",
@@ -749,7 +771,8 @@
             "lame",
             "ebenaum"
         ],
-        "label": "Lame du Glaive"
+        "label": "Lame du Glaive",
+        "description": "Le guerrier en est l'aventurier le plus fréquent. Combattant polyvalent entre endurance, courage, habileté, il a des bases solides indispensables. C'est toujours utile de se trimbaler avec quelqu'un arborant une balafre ou deux, surtout quand on est mage. Les mercenaires passent également par cette voie. Plus entreprenants que leurs collègues de l'aiguille à tricoter et de l'espadon, Les Glaive Tranchent, taillent, et courent en faisant feu de toutes leurs armes et compétences car très polyvalents ! Un Glaive doit recevoir ses armes qu’il porte (souvent 3) d’autres Escrimeurs qui lui offrent en reconnaissance."
     },
     {
         "key": "lame-cimeterre",
@@ -759,7 +782,8 @@
             "lame",
             "ebenaum"
         ],
-        "label": "Lame du Cimeterre"
+        "label": "Lame du Cimeterre",
+        "description": "Un guerrier du cimeterre est souvent appelé Danselame. Expert de techniques exotiques mêlant lutte au corps et d’armes en tous genres, il est maître de son style de combat unique. D’ailleurs, Pour conserver ce titre il doit posséder une arme unique et doit éliminer celles et ceux qui voudraient le copier ou leur offrir son arme."
     },
     {
         "key": "ordre-menestrels",
@@ -769,7 +793,8 @@
             "ordre",
             "ebenaum"
         ],
-        "label": "Ordre des M\u00e9nestrels"
+        "label": "Ordre des M\u00e9nestrels",
+        "description": "Les Ménestrels sont un ordre neutre et indépendant qui est chargé d’assister à rendre la justice et protéger les populations reculées loin des cités et villes du monde. Ainsi, tous les états signataires (ils sont nombreux) autorisent les Ménestrels à agir en tant que Shériff nomades. Pour accomplir leurs missions, les Ménestrels suivent un entraînement rigoureux qui leur enseigne des arts du combat magique et une culture vaste du monde, d’où leur nom. Ils ont donc autorité pour rendre la justice sur une terre qui n’en a pas ou avec accord du souverain."
     },
     {
         "key": "ordre-shaher",
@@ -779,7 +804,8 @@
             "ordre",
             "ebenaum"
         ],
-        "label": "Ordre des Chevaliers Loups, les Shaher"
+        "label": "Ordre des Chevaliers Loups, les Shaher",
+        "description": "Issus du Shahylmar, ces hommes-loups sont des enquêteurs hors pairs qui à l’instar des Ménestrels parcourent le monde et sont généralement acceptés bon gré mal gré dans les provinces pour ne pas froisser leur puissant Empereur.  Ils traquent le chaos, les anomalies et mettent leurs talents de rôdeurs et de puissants guerriers au service de la lutte contre Soak et ses entités."
     },
     {
         "key": "ordre-paladins",
@@ -789,7 +815,8 @@
             "ordre",
             "ebenaum"
         ],
-        "label": "Ordre des Paladins"
+        "label": "Ordre des Paladins",
+        "description": "A chaque paladin son temple, royaume ou sa religion ! Les Paladins puisent dans leur propre foi pour combiner à leurs talents guerriers des aides divines. Mais contrairement aux membres des Temples ils ne sont pas trés doués pour les partager avec les autres. Pas ouf les Palouf. Les Chevaliers d’Hoygg, semeurs de chaos quelque soit le corps qu’ils occupent, les Oblivions, des Djinns errants, etc, etc… Les deux plus grands ordres dont celui du Bofrist, le premier Panthéon, et du Dommynion, le second Panthéon."
     },
     {
         "key": "ordre-chevaliers-kays",
@@ -799,7 +826,8 @@
             "ordre",
             "ebenaum"
         ],
-        "label": "Ordre des chevaliers Kays"
+        "label": "Ordre des chevaliers Kays",
+        "description": "Apparus depuis l'Hembar, les Kay arrivèrent à bord d'une Arche volante dans le monde d'Ebenaum. Arche qui s'écrasa après qu'un paysan ait lancé adroitement une fourche dans sa direction, dit-on. Les Kay possèdent des dons parapsychologiques. Les Chevaliers Kays et maîtres Kay possèdent en plus d'une polyvalence complète la possibilité d’altérer l’esprit de leurs cibles. Choisir cette voie en Dogme plutôt qu’en ordre mettra l’accent sur vos talents polyvalents et guerriers."
     },
     {
         "key": "ordre-brisesorts",
@@ -809,7 +837,8 @@
             "ordre",
             "ebenaum"
         ],
-        "label": "Ordre des Brisesorts"
+        "label": "Ordre des Brisesorts",
+        "description": "L’ordre de Feold rassemble ici des guerriers spécialisés dans la lutte contre la magie et les mages. Souvent équipés des précieuses pierres d’anti-magie, les brisesorts sont également de bons combattants, et on ne compte plus les sorciers se marrant en préparant une boule de feu à lancer, en direction d'un mec en armure en train de les charger. Il paraît que leurs têtes rigolent toujours. Leurs corps beaucoup moins."
     },
     {
         "key": "ordre-herauts-aux-plumeaux",
@@ -819,7 +848,8 @@
             "ordre",
             "ebenaum"
         ],
-        "label": "Ordre des Herauts aux Plumeaux"
+        "label": "Ordre des Herauts aux Plumeaux",
+        "description": "Cet ordre un peu exotique forme des individus à devenir des hérauts temporaires. Ces messagers permettent donc des pourparlers par exemple entre des souverains ou n'importe quelle entité. Reconnus d'utilité publique puisqu'ils permettent de limiter le nombre d’ambassadeurs décapités sur un coup de colère et leur assure une certaine protection, ces voyageurs qui portent des plumes très visibles pour éviter les balles perdues sont donc garants de la neutralité et l'exactitude de leurs messages et intentions. Souvent formés à quelques arts martiaux pour protéger leur cargaisons et ayant plus d'un tour dans leur besace, on les dit protégés par Erole et si on ose pas les soupçonner en public, des rumeurs disent qu'ils ont souvent un double rôle et réunissent de par le monde les esprits rebelles, apportant leurs talents à la cause des laissés pour compte. Certains ont aussi des connaissances dans des domaines particuliers de science comme la médecine et leur statut de Plumeaux leur permet d’agir sous bannière neutre partout."
     },
     {
         "key": "ordre-croisees",
