@@ -829,7 +829,8 @@
             "ordre",
             "ebenaum"
         ],
-        "label": "Ordre des Crois\u00e9es"
+        "label": "Ordre des Crois\u00e9es",
+        "description": "Les chevaliers de cet ordre sont considérés comme les protecteurs des faibles, quels qu’ils soient, les accomplisseurs de destinée et les surveillants des Croisées des mondes et des chemins. Courageux, insouciants et équipés d'armes hétéroclites ou très classiques, on les reconnaît à leur panache démodé et leurs valeurs fantaisistes."
     },
     {
         "key": "aurore",
@@ -838,7 +839,8 @@
             "instrument",
             "ebenaum"
         ],
-        "label": "Aurore"
+        "label": "Aurore",
+        "description": "On retrouve dans cette Voie de Vie les travailleurs qui forgent et modèlent le monde pour nourrir, construire ou équiper les peuples. Ils sont souvent très habiles de leurs mains pour construire et réparer toutes sortes de choses ainsi que pour repérer les matières premières intéressantes."
     },
     {
         "key": "bourse",
@@ -847,7 +849,8 @@
             "instrument",
             "ebenaum"
         ],
-        "label": "Bourse"
+        "label": "Bourse",
+        "description": "C’est la voie des négociants en tous genres. Aucun commerce n’est impossible en Ebenaum, qu'il s’agisse d'armes, de magie, de produits exotiques ou d’esclaves. Certains vendent même de la neige. Les Boursiers ont des compétences variées pour se procurer, identifier et marchander tout ce qui peut l'être. Leur métier leur confère souvent une certaine immunité diplomatique. Qui oserait frapper un tavernier ?"
     },
     {
         "key": "cordes",
@@ -856,7 +859,8 @@
             "instrument",
             "ebenaum"
         ],
-        "label": "Cordes"
+        "label": "Cordes",
+        "description": "L’administration est nécessaire dans n’importe quel monde, les Cordeleurs sont les gardiens des lois des pièces et des biens. Ils dressent les ordres et soumettent les textes, régulent les pratiques et mènent les opérations. Ils ont un œil sur tout, collectent les taxes, enregistrent les évènements et gèrent les archives. Bref, des littéraires rigides et journalistes, la pire espèce."
     },
     {
         "key": "jongleurs",
@@ -865,7 +869,8 @@
             "instrument",
             "ebenaum"
         ],
-        "label": "Jongleurs"
+        "label": "Jongleurs",
+        "description": "Erudits, ce sont eux qui jonglent avec les langages et les savoirs. Souvent enseignants, ils sont versés dans toutes sortes de champs scientifiques, de domaines cocasses ou de recherches étranges. Ils sont connus pour voyager et partager leurs savoirs dans de nombreux domaines comme la médecine, la zoologie, etc.."
     },
     {
         "key": "instruments",
@@ -874,7 +879,8 @@
             "instrument",
             "ebenaum"
         ],
-        "label": "Instruments"
+        "label": "Instruments",
+        "description": "Ces aventuriers itinérants souvent nommés Balladins sont des voyageurs ayant des arts divers et multiples mais souvent exotiques, ce qui les rend assez inclassifiables. Ayant des histoires et savoirs à partager, les Balladins intriguent, amusent, effraient. C’est aussi la voie des itinérants et chercheurs d’aventures."
     },
     {
         "key": "kessece",
@@ -883,7 +889,8 @@
             "instrument",
             "ebenaum"
         ],
-        "label": "Kessecé"
+        "label": "Kessecé",
+        "description": "Celles et ceux qu'on ne sait pas bien où foutre ailleurs. Voilà. Ils saoulent tout le monde à ne pas gentiment rentrer dans les cases et n'ont pas d'amis pour la peine. Voilà. C’est aussi là que l’on calera les multi-classés de l'extrême. A une époque, c’est là que figuraient par exemple les esclavagistes Alphens, forts sympathiques mais forts bizarres."
     },
     {
         "key": "voyageurie",
@@ -892,7 +899,8 @@
             "pied",
             "erenthyrm"
         ],
-        "label": "Voyageurie"
+        "label": "Voyageurie",
+        "description": "Voyageurie connaît bien le monde, ou, du moins, mieux que les autres. Il sait souvent quelles plantes choisir et quelques astuces pour survivre dans un monde doué de sociétés et si… hétérogènes.  Ils sont essentiels au fonctionnement de la civilisation, puisque les voyages sont si rares"
     },
     {
         "key": "murmureurie",
@@ -901,7 +909,8 @@
             "pied",
             "erenthyrm"
         ],
-        "label": "Murmureurie"
+        "label": "Murmureurie",
+        "description": "Les Murmureurs sont une confrérie, l’une des rares en Erenthyrm, composée de personnalités ayant la capacité d’enregistrer les connaissances du monde. Souvent amenés à voyager, rencontrer des étrangers et échanger avec eux, ils savent être discrets et diplomates. On les dit également proche des Vents qui les aideraient dans leurs tâches. Ils forment un réseau un peu secret mais d’entraide solide."
     },
     {
         "key": "veilleurie",
@@ -910,7 +919,8 @@
             "pied",
             "erenthyrm"
         ],
-        "label": "Veilleurie"
+        "label": "Veilleurie",
+        "description": "Ces personnages sont chargés de veiller aux environs de la communauté. Ils ne s’en vont que rarement loin, alors ils apprennent à bien repérer un lieu et ses points faibles. Ils savent souvent se faire très discret afin d’accomplir au mieux cette mission. Ils sont également envoyés récolter des ressources intéressantes dans les environs comme de la nourriture et autres."
     },
     {
         "key": "protecteurie",
@@ -919,7 +929,8 @@
             "bras",
             "erenthyrm"
         ],
-        "label": "Protecteurie"
+        "label": "Protecteurie",
+        "description": "Le rôle de garde ou protecteur d’une communauté est le plus souvent bien calme, surtout en l’absence de chymeyres à gérer. Pourtant, on apprécie toujours avoir protecteurie près de soi."
     },
     {
         "key": "chasseurie",
@@ -928,7 +939,8 @@
             "bras",
             "erenthyrm"
         ],
-        "label": "Chasseurie"
+        "label": "Chasseurie",
+        "description": "Ces guerriers sont spécialisés dans l’assaut et la capture d’une cible particulière. Ils se focalisent sur elle et peuvent la traquer des jours durant. Ce sont également des personnes capables de récolter des denrées utiles à la communauté et s’aventurer sans crainte en territoire inconnu."
     },
     {
         "key": "sauvagerie",
@@ -937,7 +949,8 @@
             "bras",
             "erenthyrm"
         ],
-        "label": "Sauvagerie"
+        "label": "Sauvagerie",
+        "description": "Certains habitants du monde d’Erenthyrm ne sont simplement pas faits pour la vie en société. Mais comme la nature est parfois généreuse avec eux, la société a quand même très envie de garder ces forces de la nature sous le coude. Les Sauvagerie apprennent à user de leurs dons naturels pour tirer profit de leurs aptitudes sauvages, au combat mais également en prévention des conflits."
     },
     {
         "key": "artisanie",
@@ -946,7 +959,8 @@
             "main",
             "erenthyrm"
         ],
-        "label": "Artisanie"
+        "label": "Artisanie",
+        "description": "ce sont les responsables de créer toutes sortes d’objets. Ils savent fabriquer, réparer, améliorer, saboter … pas besoin d’avoir les meilleures technologies pour savoir les péter."
     },
     {
         "key": "tisanerie",
@@ -955,7 +969,8 @@
             "main",
             "erenthyrm"
         ],
-        "label": "Tisanerie"
+        "label": "Tisanerie",
+        "description": "Proche de l’Artisanie, le Tisanerie se spécialise cependant dans la transformation des plantes, des éléments naturels et une approche plus scientifique que technologique du monde. Ils sont souvent doués pour faire également pousser les plantes nécessaires à leur art."
     },
     {
         "key": "dresseurie",
@@ -964,7 +979,8 @@
             "main",
             "erenthyrm"
         ],
-        "label": "Dresseurie"
+        "label": "Dresseurie",
+        "description": "Ces individus ont l’expertise dans le domaine de l’apprivoisement et le dressage de la faune ( voire de la Flore) d’Erenthyrm, que cela soit à des fins d’esclavage, d’exploitation ou de hobby malsain.. Les Dresseurs sont souvent liés aux Ven qui leurs sont bien utiles car ces petites créatures brillantes sont des lumières dans l’obscurité et des remparts contre la magie des chymeyres."
     },
     {
         "key": "meneurie",
@@ -973,7 +989,8 @@
             "voix",
             "erenthyrm"
         ],
-        "label": "Meneurie"
+        "label": "Meneurie",
+        "description": "Ce sont les dirigeants des communautés qui montrent le plus de facilités à motiver, coordonner et organiser les tâches de la communauté tout en gérant les différentes personnalités. être Meunerie demande souvent un mélange de compétences de support moral, d’habileté physique et de force mentale. Les Meunerie sont souvent aussi les hérauts des Guides spirituels d’une espèce (comme le Sagittaire…) et ont ainsi des compétences spécifiques."
     },
     {
         "key": "conteurie",
@@ -982,7 +999,8 @@
             "voix",
             "erenthyrm"
         ],
-        "label": "Conteurie"
+        "label": "Conteurie",
+        "description": "Ils sont bien rares en Erenthyrm, celles et ceux qui sont capables de comprendre et de partager des histoires. Les Conteurie sont regardés comme des phénomènes étranges, bien que pourtant on ressente une fascination pour leurs histoires et leurs tours de passe-passe.  Ils sont experts des langages, ce qui est assez rare pour être souligné dans leur monde."
     },
     {
         "key": "troceurie",
@@ -991,7 +1009,8 @@
             "voix",
             "erenthyrm"
         ],
-        "label": "Troceurie"
+        "label": "Troceurie",
+        "description": "Ils emmènent des objets de communauté en communauté et les échangent contre d’autres qui leur plaisent davantage. Les Troceurie ont certainement dans leurs musettes des trésors de tout Erenthyrm et ils savent aussi souvent comment en trouver d’autres, les identifier ou les améliorer."
     },
     {
         "key": "maitre-kay-sumer-chymeyriste",
@@ -1000,7 +1019,8 @@
             "cortex",
             "erenthyrm"
         ],
-        "label": "Maître Kay / Maître Sumer / Maître Chymeyriste"
+        "label": "Maître Kay / Maître Sumer / Maître Chymeyriste",
+        "description": "Les Maîtres sont issus des trois ordres principaux qui forment à la lutte contre les Chymeyres. Les Kays sont le plus répandus surtout dans l’Ouest du monde. Ces guerriers possèdent des talents pour utiliser et absorber l’énergie des Chymeyres et la retourner contre elles, tout en ayant par ailleurs une solide formation dans le maniement des armes pour se défendre lorsqu’elles prennent corps ainsi que diverses connaissances sur le monde qui les aident dans leurs voyages. Certains Kays dissidents ont une approche différente de leurs compétences et se sont éloignés de l’ordre principal. Les Maître de Sumer vivent surtout à l’Est, près du royaume des Chymeyres, et contrairement aux Kays ils s’entraînent à devenir des remparts physiques contre elle en contrôlant leur mental et leur esprit. Ainsi, leur corps devient une arme contre les Chymeyres et ils s’en servent pour les anéantir. Enfin Les Chymeyristes ne font partie d’aucun des deux ordres car dans des communautés délaissées par ces derniers, mais ils se sont forgés leurs propres talents, armes et pièges pour résister à ces créatures de l’ombre."
     },
     {
         "key": "grimerie",
@@ -1009,7 +1029,8 @@
             "cortex",
             "erenthyrm"
         ],
-        "label": "Grimerie"
+        "label": "Grimerie",
+        "description": " Il existe de par le monde d’Erenthyrm quelques personnages particulièrement haut en couleurs qui auraient selon les racontars des talents magiques uniques. Ils sont peu nombreux et rarement vus, mais sont craints et respectés de tous. L’une d’entre eux est la puissante Bavmorga. Il arrive que certains de ces personnages prennent des apprentis ou que des individus s’intéressent beaucoup à leurs connaissances et leur pratique. On les appelle Grimerie et on les regarde souvent avec une désapprobation intense, car il n’est jamais bien vu de jouer avec le feu."
     },
     {
         "key": "cortex-chymeyre",
@@ -1018,7 +1039,8 @@
             "cortex",
             "erenthyrm"
         ],
-        "label": "Chymeyre"
+        "label": "Chymeyre",
+        "description": "Well. Et oui, vous pouvez également décider d’incarner une chymeyre. Il n’en sera pas dit trop sur la nature cauchemardesque des Chymeyres, seulement que ces entités sont mues par l’appétit des esprits, et, pour cela, peuvent passer de leur forme éthérée à la possession des corps d’esprits plus faibles. Ainsi, certaines chymeyres corrompent le corps de leurs victimes qu’elles contrôlent pour passer inaperçues dans une communauté. Bien que perçues comme des prédateurs dangereuses, les Chymeyres parviennent ainsi à saper le chaos, trouver des proies et assouvir leurs instincts. Elles ont pour cela l’appui de capacités hors-normes, que certains appelleraient s’ils en comprenaient le sens “magie”."
     },
     {
         "key": "danseurie-saisons",
@@ -1027,7 +1049,8 @@
             "coeur",
             "erenthyrm"
         ],
-        "label": "Danseurie des Saisons"
+        "label": "Danseurie des Saisons",
+        "description": "Les Saisons sont, en Erenthyrm, portées par les Vents, des entités éthérées qui suivent certains individus dont ils sont épris que l’on appelle Amants. Pour s’assurer que chaque territoire soit visité régulièrement par les saisons, les communautés acceuillent et célèbrent ces dernières avec moultes efforts. Les responsables de la connaissance des Saisons, de leurs rituels et de leurs célébrations sont les Danseurie, qui sont respectés par la communauté comme des prêtres."
     },
     {
         "key": "embaumerie",
@@ -1036,7 +1059,8 @@
             "coeur",
             "erenthyrm"
         ],
-        "label": "Embaumerie"
+        "label": "Embaumerie",
+        "description": "Ce sont eux qui prennent soins des corps meurtris. S’appuyant sur les plantes et les remèdes, les Embaumerie accompagnent les êtres vivants de la naissance à, parfois, l’après-mort. Craints et respectés, ils manipulent les essences vitales comme on jonglerait avec un coeur palpitant. Oui, nobody does that."
     },
     {
         "key": "eveilleurie",
@@ -1045,6 +1069,7 @@
             "coeur",
             "erenthyrm"
         ],
-        "label": "Eveilleurie"
+        "label": "Eveilleurie",
+        "description": "L’Eveilleurie passe pour un médecin de l’esprit, là où l’embaumeur est un médecin du corps. C’est le spécialiste de cette chose étrange que les habitants d’Erenthyrm comprennent mal et que l’on appelle rêves ou cauchemars. Ils sont également souvent perçus comme des sages donneurs de conseils et capables d’encourager les âmes."
     }
 ]
