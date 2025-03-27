@@ -1101,5 +1101,44 @@
         ],
         "label": "Eveilleurie",
         "description": "L’Eveilleurie passe pour un médecin de l’esprit, là où l’embaumeur est un médecin du corps. C’est le spécialiste de cette chose étrange que les habitants d’Erenthyrm comprennent mal et que l’on appelle rêves ou cauchemars. Ils sont également souvent perçus comme des sages donneurs de conseils et capables d’encourager les âmes."
+    },
+    {
+        "key": "alchimie",
+        "tags": [
+            "skill"
+        ],
+        "label": "Alchimie",
+        "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
+    },
+    {
+        "key": "alchimie-novice",
+        "tags": [
+            "skill:alchimie",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Alchimie (Novice)",
+        "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
+    },
+    {
+        "key": "alchimie-expert",
+        "tags": [
+            "skill:alchimie",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Alchimie (Expert)",
+        "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
+    },
+    {
+        "key": "alchimie-maitre",
+        "tags": [
+            "skill:alchimie",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Alchimie (Maître)",
+        "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
     }
+]
 ]
