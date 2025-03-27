@@ -1139,6 +1139,171 @@
         ],
         "label": "Alchimie (Maître)",
         "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
+    },
+    {
+        "key": "herboriste",
+        "tags": [
+            "skill"
+        ],
+        "label": "Herboriste",
+        "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
+    },
+    {
+        "key": "herboriste-novice",
+        "tags": [
+            "skill:herboriste",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Herboriste (Novice)",
+        "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
+    },
+    {
+        "key": "herboriste-expert",
+        "tags": [
+            "skill:herboriste",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Herboriste (Expert)",
+        "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
+    },
+    {
+        "key": "herboriste-maitre",
+        "tags": [
+            "skill:herboriste",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Herboriste (Maître)",
+        "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
+    },
+    {
+        "key": "bricolage",
+        "tags": [
+            "skill"
+        ],
+        "label": "Bricolage",
+        "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
+    },
+    {
+        "key": "bricolage-novice",
+        "tags": [
+            "skill:bricolage",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Bricolage (Novice)",
+        "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
+    },
+    {
+        "key": "bricolage-expert",
+        "tags": [
+            "skill:bricolage",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Bricolage (Expert)",
+        "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
+    },
+    {
+        "key": "bricolage-maitre",
+        "tags": [
+            "skill:bricolage",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Bricolage (Maître)",
+        "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
+    },
+    {
+        "key": "sorts",
+        "tags": [
+            "skill"
+        ],
+        "label": "Sorts",
+        "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
+    },
+    {
+        "key": "sorts-novice",
+        "tags": [
+            "skill:sorts",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Sorts (Novice)",
+        "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
+    },
+    {
+        "key": "sorts-expert",
+        "tags": [
+            "skill:sorts",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Sorts (Expert)",
+        "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
+    },
+    {
+        "key": "sorts-maitre",
+        "tags": [
+            "skill:sorts",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Sorts (Maître)",
+        "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
+    },
+    {
+        "key": "identification-objet",
+        "tags": [
+            "skill",
+            "skill:no-level",
+            "cost:1",
+            "available-for-sorcerer"
+        ],
+        "label": "Identification d’objets",
+        "description": "vous pouvez lire l’étiquette d’un objet et consulter le marchand pour en savoir plus sur l’objet. Vous savez également détecter des contrefaçons et en fabriquer (voir l’orga Marchand)."
+    },
+    {
+        "key": "skill-menestrel",
+        "tags": [
+            "skill",
+            "require:ordre-menestrels"
+        ],
+        "label": "Ménestrels",
+        "description": "Des compétences spécifiques à votre Voie de vie ou votre ordre."
+    },
+    {
+        "key": "skill-menestrel-novice",
+        "tags": [
+            "skill:skill-menestrel",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Ménestrels (Novice)",
+        "description": "2 compétences spécifiques à votre Voie de vie ou votre ordre."
+    },
+    {
+        "key": "skill-menestrel-expert",
+        "tags": [
+            "skill:skill-menestrel",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Ménestrels (Expert)",
+        "description": "4 compétences spécifiques à votre Voie de vie ou votre ordre."
+    },
+    {
+        "key": "skill-menestrel-maitre",
+        "tags": [
+            "skill:skill-menestrel",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Ménestrels (Maître)",
+        "description": "6 compétences spécifiques à votre Voie de vie ou votre ordre."
     }
+    
 ]
-]
+
