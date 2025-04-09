@@ -1,803 +1,964 @@
 [
-  {
-    "key": "ebenaum",
-    "tags": ["monde"],
-    "label": "Ebenaum"
-  },
-  {
-    "key": "erenthyrm",
-    "tags": ["monde"],
-    "label": "Erenthrym",
-    "description": "Le Monde d\u2019Erenthyrm est un disque de terre flottant \u00e0 la surface de ses mers. Parcouru par des Vennets qui ne sont capables que d\u2019aimer et qui se choisissent donc des Amants et des Amantes parmi les humains, le monde d\u2019Erenthyrm est habit\u00e9 par une poign\u00e9e de civilisations."
-  },
-  {
-    "key": "teleportes",
-    "tags": ["faction", "gn2024"],
-    "label": "Les t\u00e9l\u00e9port\u00e9s"
-  },
-  {
-    "key": "non-teleportes",
-    "tags": ["faction", "gn2024"],
-    "label": "Les pas t\u00e9l\u00e9port\u00e9s"
-  },
-  {
-    "key": "occupants-locaux",
-    "tags": ["faction", "gn2024"],
-    "label": "Les occupants locaux"
-  },
-  {
-    "key": "locaux-occupes",
-    "tags": ["faction", "gn2024"],
-    "label": "Les locaux occup\u00e9s"
-  },
-  {
-    "key": "les-autres",
-    "tags": ["faction", "gn2024"],
-    "label": "Les autres"
-  },
-  {
-    "key": "ebenhommes",
-    "tags": ["race", "humains", "ebenaum"],
-    "label": "Ebenhommes",
-    "description": "L'humain est de loin la cr\u00e9ature la plus r\u00e9pandue dans le monde d'Ebenaum. Les Ebenaumer sont des gens pratiques, mais qui aiment la r\u00eaverie et les histoires. Bien que n'ayant pas de dons particuliers dans un monde de cr\u00e9atures diverses, leur malice et leur esprit d'initiative leur a permis de cr\u00e9er la plus d\u00e9velopp\u00e9e et imposante soci\u00e9t\u00e9 au monde, bien que divis\u00e9e en une multitude de couronnes diff\u00e9rentes. Jouets des dieux et de la magie, ce sont pourtant eux, dont l\u2019imagination est fertile, qui ont donn\u00e9 au monde le plus d\u2019h\u00e9ros."
-  },
-  {
-    "key": "bekers",
-    "tags": ["race", "humains", "ebenaum"],
-    "label": "Bekers",
-    "description": "Bekers est le nom que l'on donne aux humains au Nord de la Faille, influenc\u00e9s par Hoygg. Ils ont un temp\u00e9rament froid et durs, fiers mais bons vivants. Habitant en caravanes, dans des hameaux, des tribus ou dans les quelques royaumes de Bekers. ils n'ont cependant pas d'autres diff\u00e9rences avec les Ebenaumers, humains de tous horizons qui peuplent la majeure partie du monde."
-  },
-  {
-    "key": "omonor",
-    "tags": ["race", "humains", "ebenaum"],
-    "label": "Omonor",
-    "description": "Les hommes d'Emonor sont des humains dont la lign\u00e9e remonte aux premiers hommes. On dit d'eux qu'ils ont dans le sang une animalit\u00e9 certaine, qui se traduit par une bravoure et une force souvent sup\u00e9rieure \u00e0 celle des autres hommes, m\u00eame s'ils sont moins dou\u00e9s pour la pratique de la magie. Nobles de sang et de coeur, ces hommes qui ont pourtant parfois le sang chaud ont \u00e9galement beaucoup peupl\u00e9 le nord, devenant des serviteurs de Nydhoygg, l'arbre tortur\u00e9. On les appelle alors des Bekers."
-  },
-  {
-    "key": "kays-ebenaum",
-    "tags": ["race", "humains", "ebenaum"],
-    "label": "Kays",
-    "description": "Les Kay d'Ebenaum sont un peuple d'hommes dont les descendants sont (parait-il) arriv\u00e9s tardivement dans l'histoire du monde, \u00e0 l'aide d'une Arche volante ayant surgi de l'Hembar, la grande faille traversant une partie de la carte. Install\u00e9s aux alentours de cette arche s'\u00e9tant \u00e9chou\u00e9e depuis \u00e0 peine quelques si\u00e8cles, les Kay ont d'\u00e9tranges facult\u00e9s psychiques qui leur permettent de manipuler l'esprit d'autrui. Ils ont gard\u00e9 une discipline stricte, notamment dans les arts de l'escrime, et vivaient reclus jusqu'\u00e0 ce qu'un groupe de leurs membres, la Sombre Opale, parte de l'Arche dans le but d'accomplir une proph\u00e9tie inscrite dans le Codex des Kay. Selon cette proph\u00e9tie, les Kay seraient issus d'un autre monde, cach\u00e9 sous celui d'Ebenaum, et pour rejoindre cet Eden perdu dans lequel ils r\u00e9gnaient en ma\u00eetres, les Kays devraient accomplir un rituel. Ce qu'ils firent. Men\u00e9s selon une hi\u00e9rarchie pr\u00e9cise, les Kays de la Sombre Opale sont donc d\u00e9sormais \u00e0 la recherche de leurs tr\u00f4nes abandonn\u00e9s !"
-  },
-  {
-    "key": "humains",
-    "tags": ["famille-race", "ebenaum", "erenthyrm"],
-    "label": "Humains",
-    "description": ""
-  },
-  {
-    "key": "nybelhungen",
-    "tags": ["famille-race", "ebenaum"],
-    "label": "Nybelhungen",
-    "description": "Les Nybelhungen regroupent les cr\u00e9atures anim\u00e9es par un cristal fluide, l\u2019Arsang, qui s'empare de roches pour se constituer un corps prot\u00e9geant un coeur de cristal. Les Nybels sont les plus sociables et calmes. Les Hungens ont l\u2019Arsang chaud et ch\u00e9rissent les explosions."
-  },
-  {
-    "key": "amoureux",
-    "tags": ["famille-race", "ebenaum"],
-    "label": "Amoureux",
-    "description": "Les Amoureux ont la s\u00e8ve des En dans le sang, et ils sont convaincus que les humains vont mener le monde \u00e0 sa perte. En attendant ils prot\u00e8gent la nature et la beaut\u00e9 du monde en savourant chaque instant avec esth\u00e9tique, raffinement et ma\u00eetrise. Ils vivent plut\u00f4t reclus dans leurs \u00eeles ou for\u00eats et rechignent \u00e0 donner la mort. Ils sont cependant d'habiles guerriers et savants druides. Les Vaelirs sont les plus pacifistes, en paix avec le destin tragique du monde. Les Aesirs veulent entra\u00eener ceux qui le m\u00e9ritent dans leur chute. Les Wawefir vivent en sauvages craintifs et hostiles dans leurs bois. Les Alfirs sont pour la coh\u00e9sion et l'harmonie des peuples et vivent exil\u00e9s"
-  },
-  {
-    "key": "aesir",
-    "tags": ["race", "amoureux", "ebenaum"],
-    "label": "Aesir",
-    "description": "Les Aesir font partie des Amoureux. Ce peuple li\u00e9 aux arbres consid\u00e8re que prot\u00e9ger la nature est le but ultime et unique de l'existence. Pour cela, ils ne voient qu'une solution : d\u00e9truire les hommes. Mais leur go\u00fbt pour l'excellence et la raffinement en font des cr\u00e9atures exigeantes : elles ne dispensent la mort qu'\u00e0 ceux qui le m\u00e9ritent. Les autres n'ont le droit qu'\u00e0 la souffrance. Attir\u00e9s par le Sang, les Aesirs sont des ma\u00eetres dans ce qu'ils entreprennent, bien que souvent acerbes et cyniques face au monde. Leur teint terne et la feuillure pourpre et auburn de leurs cheveux t\u00e9moignent de leur d\u00e9cadence."
-  },
-  {
-    "key": "vaelir",
-    "tags": ["race", "amoureux", "ebenaum"],
-    "label": "Vaelir",
-    "description": "Les Vaelir sont des cr\u00e9atures n\u00e9es dans les gousses des Heygg, les arbres de vie. Vivant en harmonie avec la nature, ces \u00eatres sont comme toute leur race persuad\u00e9s que l'\u00e2ge d'Or s'est achev\u00e9 avec l'apparition d'autres esp\u00e8ces, vou\u00e9es \u00e0 la destruction des for\u00eats et de la nature tranquille et intacte. Mais contrairement aux autres branches de leur esp\u00e8ce, les Vaelir pensent qu'il reste un espoir de sauver la nature, et elles luttent donc pour sinon faire prosp\u00e9rer, sinon profiter en paix de la Flore tant qu'il le sera possible. Cela se traduit par une civilisation de cr\u00e9atures raffin\u00e9es, humano\u00efdes au sang de s\u00e8ve, tr\u00e8s sensible \u00e0 la magie \u00e9manant des arbres, et en balance et harmonie dans tout ce qu'elles entreprennent. Bien qu'ayant peu de compr\u00e9hension pour les pulsions des humains, les Vaelir travaillent avec eux, partageant le go\u00fbt pour l'\u00e9l\u00e9gance et le raffinement."
-  },
-  {
-    "key": "wawefir",
-    "tags": ["race", "amoureux", "ebenaum"],
-    "label": "Wawefir",
-    "description": "Les Wawefir se caract\u00e9risent par leur vocation \u00e0 prot\u00e9ger les for\u00eats de toute intrusion. Ils veulent go\u00fbter de chaque instant de paix qu'il reste avant l'an\u00e9antissement en repoussant autant que possible les intrus. Ils sont donc neutres politiquement et se moquent du monde tant que le monde ne vient pas les chercher. Raffin\u00e9s, mais tr\u00e8s proches de la nature, ce sont de sauvages guerriers."
-  },
-  {
-    "key": "alfir",
-    "tags": ["race", "amoureux", "ebenaum"],
-    "label": "Alfir",
-    "description": "Les Alfir sont des Amoureux qui pensent que dans le temps qu'il reste \u00e0 profiter du monde, seule l'union des races peut permettre de retarder la fin."
-  },
-  {
-    "key": "elifir",
-    "tags": ["race", "amoureux", "ebenaum"],
-    "label": "Elifir",
-    "description": "Les Elifir ont gard\u00e9 leurs cosses de leur naissance et s\u2019en servent comme des ailes. Ils vivent dans les nuages et sont de fervents amis de Lunaumyr. Ils contemplent le monde de loin avec un certaine distance et go\u00fbt pour la barbapapa. Certains sont tr\u00e9s hautains et les autres tr\u00e8s enthousiastes de tout."
-  },
-  {
-    "key": "nybel",
-    "tags": ["race", "nybelhungen", "ebenaum"],
-    "label": "Nybel",
-    "description": "Cr\u00e9atures sculpt\u00e9es dans la roche par leurs \"parents\" et au coeur desquelles on place un cristal anim\u00e9, les Nybels sont l'association entre un corps de roche et un coeur liquide, l\u2019Arsang. Seule la destruction de ce dernier provoque leur mort. C'est un peuple \u00e0 l'\u00e2me sensible, qui r\u00e9fl\u00e9chit \u00e9norm\u00e9ment au monde, bien que passant une partie de sa vie dans son habitat naturel : sous la terre. Ils y appr\u00e9cient le calme et l'\u00e9troitesse. Les Nybel partagent un sang-froid et une pragmaticit\u00e9 rigoureuse. Leur flegme ne les emp\u00eache pas d'\u00eatre des guerriers solides et f\u00e9rus d'ing\u00e9nierie. Ces cr\u00e9atures \u00e0 la peau d\u2019argile, de roche ou de m\u00e9tal ont des yeux faits de pierres pr\u00e9cieuses et vivent dans les montagnes ou les lieux obscurs. Ils sont bons ing\u00e9nieurs et manipulateurs des m\u00e9taux. Ils ont invent\u00e9 et d\u00e9velopp\u00e9 les armes \u00e0 Air f\u00e9e qui projettent de l'\u00e9nergie, alternative aux Armes \u00e0 poudre noire."
-  },
-  {
-    "key": "hungens",
-    "tags": ["race", "nybelhungen", "ebenaum"],
-    "label": "Hungens",
-    "description": "Les Hungen sont des cr\u00e9atures faites de roche, d\u2019argile et de pierres, souvent assez trapues et petites, qui sont parcourues par une \u00e9nergie \u00e9manant d'un crystal cach\u00e9 au coeur de leur corps. Ces \u00eatres intelligents se meuvent donc parfois avec maladresse, mais sont tr\u00e8s solides. Les Hungen sont anim\u00e9s par un liquide en feu, l\u2019Arsang chaud, ce qui les rend tr\u00e8s belliqueux, anim\u00e9s par un besoin de destruction et de consommation, m\u00eame s'ils restent fascin\u00e9s par l'artisanat et la technologie. Constamment pr\u00e9occup\u00e9s par l'envie de comprendre le monde, leur haine vient de leur \u00e9chec \u00e0 y parvenir, ou bien d'\u00e9clairs de folie quand ils y r\u00e9ussissent."
-  },
-  {
-    "key": "nelwyns",
-    "tags": ["race", "ebenaum"],
-    "label": "Nelwyns",
-    "description": "Les Nelwyns sont des cr\u00e9atures passionnantes. Pour qui aiment la tranquillit\u00e9 des l\u00e9gumes. Naissant dans le sol, ils poussent et gardent toute leur vie sur leur t\u00eate de la verdure et un go\u00fbt prononc\u00e9 pour la terre. Ce sont avant tout des paysans, tr\u00e8s attach\u00e9s \u00e0 la croissance des choses et au cycle de la vie. En r\u00e9alit\u00e9, ils ne seraient que des formes de vie banales si ils ne partageaient pas \u00e9galement la conviction profonde que leur peuple aurait \u00e9t\u00e9, selon eux, injustement maudit par les dieux. En effet, ils pensent que leur petite taille et leur manque de force est une punition des dieux qui \u00e9tait destin\u00e9e \u00e0 une autre esp\u00e8ce, les Zylwens. Depuis lors, de nombreux Nelwyns s'engagent dans des croisades contre ces derniers, esp\u00e9rant prouver aux dieux leur valeur, et l'erreur des divinit\u00e9s. C'est donc contre toute attente un peuple tr\u00e8s pieux, suivant religieusement les \"Saints\" et ap\u00f4tres de leur \u00e9glise, quand ils ne sont pas en train de cajoler des citrouilles."
-  },
-  {
-    "key": "zylwens",
-    "tags": ["race", "ebenaum"],
-    "label": "Zylwens",
-    "description": "Les Zylwens ressemblent \u00e0 de petits satyres. Fac\u00e9tieux, ces \u00eatres parcourent surtout le nord d'Ebenaum, toujours \u00e0 la recherche d'un tour \u00e0 jouer, d'une personne \u00e0 amuser. Tr\u00e8s dou\u00e9s avec les arts magiques, les Zylwens sont cependant tr\u00e8s inconstants, et leurs r\u00eaveries les emp\u00eachent de cr\u00e9er une vraie soci\u00e9t\u00e9. Ils vivent donc soit chez les autres, soit en petites communaut\u00e9s. On peut en retrouver partout de par le monde, bien qu'ils soient pourchass\u00e9s comme la peste par une autre esp\u00e8ce, les Nelwyns, des hommes-plantes qui pensent que les Zylwens sont la cause de tous leurs maux."
-  },
-  {
-    "key": "wampyrs",
-    "tags": ["race", "ebenaum"],
-    "label": "Wampyrs",
-    "description": "Les Wampyrs sont des \u00eatres ail\u00e9s se repassant exclusivement de cadavres, ce qui leur vaut mauvaise r\u00e9putation. Ils cachent le plus souvent leurs ailes en soci\u00e9t\u00e9, mais ils gardent de leur nature de rapaces des instincts et des capacit\u00e9s malaisantes. Certains sont accept\u00e9s dans la soci\u00e9t\u00e9 tant qu'ils savent se tenir et lutter contre leurs pulsions, et d'autres sont chass\u00e9s \u00e0 vue. Si les Wampyrs ne sont pas une nation, ils partagent tous en commun des affinit\u00e9s et une compr\u00e9hension presque t\u00e9l\u00e9pathique."
-  },
-  {
-    "key": "merandres",
-    "tags": ["race", "ebenaum"],
-    "label": "Merandres",
-    "description": "Merandres est le nom que l\u2019on donne \u00e0 des cr\u00e9atures qui s\u2019apparentent \u00e0 des morts-vivants m\u00eame si, en r\u00e9alit\u00e9, elles sont tr\u00e8s diff\u00e9rentes. Car un mort-vivant garde le corps qu\u2019il avait de son vivant. Les M\u00e9randres sont les larmes, vestiges des \u00e2mes qui ont \u00e9t\u00e9 recueillies par Nycanoc et sont ensuite achemin\u00e9es par les eaux jusqu\u2019\u00e0 la mer int\u00e9rieure pour \u00eatre gard\u00e9es dans le domaine de Nocmagna, le seigneur des Eaux et des Os, des Mer, de l\u2019Amour et des Morts, pour attendre d\u2019\u00eatre renvoy\u00e9es dans les cieux puis sur la terre par la pluie et se r\u00e9incarner. Mais lorsque certaines de ses armes refusent leur destin, elles parviennent parfois \u00e0 s\u2019\u00e9chapper dans les cours d\u2019eau et contaminer un cadavre sur leur passage ou une forme de vie faiblarde. Elles en prennent alors possession et lentement se construisent un corps avec les formes de vie, v\u00e9g\u00e9tales ou animales, qu\u2019elles contaminent. Les M\u00e9randres sont ainsi des cr\u00e9atures d\u00e9vorantes, hybrides et maudites souvent composites d\u2019animaux. Leur personnalit\u00e9 est parfois multiple, compos\u00e9e de l\u2019h\u00f4te et de l\u2019\u00e2me ou DES \u00e2mes invasives qui peuvent \u00eatre v\u00e9g\u00e9tales ou animales \u00e9galement. Le corps \u00e9tant souvent composite, il est difficile de les faire souffrir pour les \u00e9loigner. Cependant ces cr\u00e9atures usent d\u00e9j\u00e0 de beaucoup de magie pour se maintenir en vie, leurs pouvoirs sont donc souvent tr\u00e8s al\u00e9atoires."
-  },
-  {
-    "key": "shaher",
-    "tags": ["race", "ebenaum"],
-    "label": "Shaher",
-    "description": "Autrefois des loups, les Shaher ont \u00e9t\u00e9 dot\u00e9s de caract\u00e9ristiques humaines par leur empereur-Dieu, Shahylmarils, alors qu'il \u00e9tait encore jeune sur le chemin qui le m\u00e9nerait \u00e0 devenir l'homme le plus puissant du monde. Les Shaher sont son peuple. Protecteurs de leur terre, ces hommes-loups parcourent \u00e9galement le monde pour tenter de lutter contre Soak, le dieu du mal pur, briseur d'espoir, de r\u00eaves, et d'harmonie. Puissants, respect\u00e9s mais jalous\u00e9s, les hommes-loups portent le lourd fardeau de leur mission sur les \u00e9paules. Les faibles les adulent tandis que les autres se m\u00e9fient d'eux, les voyant comme les espions dociles de leur ma\u00eetre, incorruptibles sh\u00e9riffs en maraude."
-  },
-  {
-    "key": "oblivione",
-    "tags": ["race", "ebenaum"],
-    "label": "Oblivione",
-    "description": "Cr\u00e9ature myst\u00e9rieuse qui ne sait elle-m\u00eame peu de choses sur son esp\u00e8ce, les Obliviones vivent dans un gouffre au pied de la montagne des Dieux. D'une nature hautement magique, ce sont des guerriers \u00e0 la peau sombre et parcourue de runes et de tatouages violac\u00e9s ou dor\u00e9s. Ma\u00eetres en magie, les Obliviones n'ont pas vraiment d'autres buts que de d\u00e9couvrir le monde et explorer ses myst\u00e8res. Dot\u00e9s d'un humour incompr\u00e9hensible pour le reste des habitants du monde, ils mettent tout le monde mal \u00e0 l'aise, soyons francs."
-  },
-  {
-    "key": "goulemmes",
-    "tags": ["race", "ebenaum"],
-    "label": "Goulemmes",
-    "description": "Les Goulemmes sont les enfants de Grandlarve, un Ver g\u00e9ant qui depuis la nuit des temps ronge la pomme qu\u2019est Ebenaum, transformant l\u2019espoir en d\u00e9sespoir. Les morceaux du monde qu\u2019il ingurgite et recrache se changent en boue d\u2019o\u00f9 \u00e9mergent des cr\u00e9atures humano\u00efdes et souvent difformes, d\u2019apparence argileuse ou verd\u00e2tres que l\u2019on nomme de fa\u00e7on globale des Goulemmes. Suscitant l\u2019antipathie de la majorit\u00e9 du monde connu, les Goulemmes forment une diaspora  souterraine et nombreuse, qui, pourtant, est connue par celles et ceux qui prennent le temps de comprendre leur langage pour leur profonde app\u00e9tence pour la philosophie, la sociologie et l\u2019envie de profiter du monde. Seulement, pour des raisons qui semblent un peu obscures pour les b\u00e9otiens d\u2019humains, les goulemmes semblent convaincues qu\u2019\u00e9liminer les humains et leurs semblables n\u2019est sujet \u00e0 aucun d\u00e9bat. Leur antagonisme avec toute forme de civilisation est donc pr\u00e9gnant.  Les humains les insultent souvent en les traitant de Dork."
-  },
-  {
-    "key": "ombreux",
-    "tags": ["race", "ebenaum"],
-    "label": "Ombreux",
-    "description": "Vivant dans un royaume souterrain nich\u00e9 dans les anciennes galeries creus\u00e9es par le Ver d'\u00e9ther et l\u2019Enflamm\u00e9, au service d'une puissante sorci\u00e8re, les ombreux ont la capacit\u00e9 de prendre l'apparence de n'importe quelle personne. H\u00e9rauts de l'obscurit\u00e9, ces cr\u00e9atures se sont donn\u00e9es la t\u00e2che d'espionner la surface et d'ourdir des complots pour le compte de leur souveraine."
-  },
-  {
-    "key": "alphen",
-    "tags": ["race", "ebenaum"],
-    "label": "Alphen",
-    "description": "Les Alphen sont un petit peuple des montagnes gel\u00e9es qui, ayant \u00e9volu\u00e9 depuis le peuple des Zylwen pour grandir et partager quelques g\u00e8nes avec des ch\u00e8vres g\u00e9antes des environs, poss\u00e8de une culture de nomade assez primitive. Leurs contacts avec le monde des humains leur a fait prendre conscience de l'\u00e9norme \u00e9cart de mode de vie, et ils tentent toutes sortes de commerces pour obtenir des privil\u00e8ges. Ils sont farceurs et gaffeurs. Surtout quand il s\u2019agit d'esclavage, les coquins."
-  },
-  {
-    "key": "degons",
-    "tags": ["race", "ebenaum"],
-    "label": "Degons",
-    "description": "Nobles cr\u00e9atures h\u00e9rit\u00e9es des Dragons, les Degons sont des hommes-dragons marchant sur leurs pattes arri\u00e8res, et ayant d\u00e9cid\u00e9 de se m\u00ealer au monde des hommes. Ils en ont pris les atours et la culture. Ils sont puissants de corps et de magie, sages et froids, mais leur int\u00e9r\u00eat est d'emp\u00eacher tout cataclysme magique."
-  },
-  {
-    "key": "eren",
-    "tags": ["race", "erenthyrm", "humains"],
-    "label": "Eren",
-    "description": "Les humains ne sont pas vraiment les ma\u00eetres du monde d'Erenthyrm, pour ce que vous en savez. De ce qu'en savent les habitants de Foerlingdon, le monde est vaste et seules quelques civilisations humaines sont parvenues \u00e0 instaurer un semblant de culture. Foerlingdon est la plus v\u00e9n\u00e9rable, paisible, et ancienne d'entre elles, de ce que vous en savez. Cela gr\u00e2ce aux Sages qui gouvernent la ville. Ce sont des hommes d'Eren, c'est \u00e0 dire des \u00eatres li\u00e9s aux arbres, par la s\u00e8ve qui coule dans leur sang. Bien qu'ils naissent au creux d'arbres enlac\u00e9s et que des veines de sinople se dessinent sur leur peau, ils ressemblent en tous points aux hommes de sang, qui sont de loin l'esp\u00e8ce la plus r\u00e9pandue. Ces derniers sont plus agiles, et semblent avoir un coeur et de l'imagination qui manque aux autres peuples. C'est ainsi que les hommes ont r\u00e9ussi \u00e0 s'imposer et \u00e0 fonder la cit\u00e9 de Foerlingdon, dont l'influence couvre la mer int\u00e9rieure et ext\u00e9rieure jusqu'\u00e0 la Sylve. Pendant longtemps, cette immense for\u00eat fut consid\u00e9r\u00e9e comme un lieu dangereux o\u00f9 l'on chassait des cr\u00e9atures hybrides - les Daloryan. Les Ga\u00ebls vivent sur une \u00eele repli\u00e9e sur elle-m\u00eame et les taureaux volants qu\u2019elles ont dress\u00e9 les aident \u00e0 maintenir les navires \u00e0 distance."
-  },
-  {
-    "key": "kays-erenthyrm",
-    "tags": ["race", "erenthyrm", "humains"],
-    "label": "Kays",
-    "description": "Les Kays sont majoritairement des humains ayant des dons pour l'imagination. Entrain\u00e9s par L'Ordre \u00e0 lutter contre les Chymeyres, ils prot\u00e8gent ensuite le monde de ces entit\u00e9s. Vivant dans les Terres de Boue, ils habitent dans des monast\u00e8res de pierre sur des \u00eelots flottants tandis qu'en contrebas les Comisses de boue travaillent pour eux."
-  },
-  {
-    "key": "humains-sumer",
-    "tags": ["race", "erenthyrm"],
-    "label": "Humains de Sumer",
-    "description": "Les Humains de Sumer vivent tr\u00e8s loin, coinc\u00e9s le long d'un immense bras de mer qui se retire et revient tr\u00e8s fr\u00e9quemment et, d'un c\u00f4t\u00e9, les Montagnes sombres et d\u00e9sertiques de Tenebrarum et de l'autre c\u00f4t\u00e9 le d\u00e9sert des Kuergars. Ils sont respect\u00e9s de par le monde et connus pour leur calme et leur sagesse...Mais aussi leur c\u00f4t\u00e9 tr\u00e8s ennuyeux. Les S\u00fbmer vivent dans des cit\u00e9s troglodytes sur les falaises au bord du fleuve rampant, souvent visit\u00e9 par des pirates et maraudeurs vivants dans des cit\u00e9s flottantes sur cette mar\u00e9e sauvage."
-  },
-  {
-    "key": "alfes",
-    "tags": ["race", "erenthyrm"],
-    "label": "Alfes",
-    "description": "Etre un Alfe, c'est \u00eatre per\u00e7u comme la plupart du monde comme une race inf\u00e9rieure, mais dont il faut se m\u00e9fier. A l'\u00e9tat naturel, les Alfes sont des animaux omnivores qui paissent partout dans le monde. Mais, avec le temps, deux cultures ont \u00e9merg\u00e9es parmi eux : les Alfes des Monts et ceux des bois. Ceux-ci vivent par petits groupes ou dans des communaut\u00e9s de Daloryans, profitant de la douceur de la vie tout en marchandant parfois avec les humains de passage, car ils sont les plus \"cultiv\u00e9s\" des peuples de la for\u00eat. Les Alfes qui sont parfois trait\u00e9s comme des esclaves, voire du gibier, savent que leur peuple est puissant dans les montagnes, et cela leur donne de l'hardiesse pour utiliser leurs affinit\u00e9s avec la faune et la flore pour jouer des tours aux humains bien trop orgueilleux, et aux Daloryans trop paresseux. Les Alfes sont avant tout des passeurs, des interm\u00e9diaires entre les peuples, car ils savent s'adapter facilement \u00e0 leur environnement et interlocuteur, m\u00eame si, d'une nature fac\u00e9tieuse, ils n'ont de loyaut\u00e9 qu'envers les leurs."
-  },
-  {
-    "key": "daloryans",
-    "tags": ["race", "erenthyrm"],
-    "label": "Daloryans",
-    "description": "Les Daloryans sont des cr\u00e9atures hybrides en tous genres qui vivent dans une immense for\u00eat nomm\u00e9e \"Sylve\" par les humains. Ils y vivent de fa\u00e7on le plus souvent isol\u00e9e, mais certains se regroupent, et forment de petits villages. Les Daloryan se distinguent des animaux par leur capacit\u00e9 \u00e0 avoir un langage et un semblant de civilisation. Mais tous ne sont pas tr\u00e8s am\u00e8nes avec cette id\u00e9e, et rejettent les hommes destructeurs qui s'aventurent dans les bois. Les Daloryan sont donc multiples, et ils vivent soit seuls, soit en petite communaut\u00e9s, dont certaines essaient de reproduire quelques comportements humains observ\u00e9s ou rapport\u00e9s par des alfes de passage. Ce sont avant tout des cr\u00e9atures paisibles qui n'aspirent \u00e0 rien d'autre qu'\u00e0 leur libert\u00e9 et une vide douce dans les bois. Les Daloryan ne se connaissent que deux ma\u00eetres, qu'ils choisissent de suivre ou non : le Sagittaire, et le Capricorne. Ce dernier est le plus sauvage, celui qui pr\u00f4ne l'isolement, l'individualisme, la libert\u00e9 de chacun et la protection de la Sylve contre les hommes. Le Sagittaire est bien plus ouvert. Les Daloryan souffrent d'\u00eatre consid\u00e9r\u00e9s par les humains comme des animaux bons \u00e0 \u00eatre chass\u00e9s. Une premi\u00e8re tentative de cohabitation a vu jour, dans un lieu nomm\u00e9 le Logis de Bordesylve, qui a permis d'\u00e9tablir un semblant de paix apr\u00e8s de dramatiques incidents entre ces esp\u00e8ces. Pour l'heure, la fragile entente entre les habitants du Logis est ce qui assure la tranquillit\u00e9 de ceux vivant en bordure de bois... Mais la responsabilit\u00e9 de toute homme et tout Daloryan vivant aux abords de la Sylve est engag\u00e9e pour permettre \u00e0 ce projet de r\u00e9ussir."
-  },
-  {
-    "key": "venne-femelle",
-    "tags": ["race", "erenthyrm"],
-    "label": "Venne femelle",
-    "description": "Il n'y a pas vraiment de soci\u00e9t\u00e9 Venne. Le Venne femelle n'a rien \u00e0 voir avec le Venne M\u00e2le, le Rable. Si ces derniers ressemblent \u00e0 des Gobelins moustachus qui passent leur temps \u00e0 se cacher sous de gros amas de feuilles et de v\u00e9g\u00e9tation pour cacher leur laideur, les Femelles sont dot\u00e9es d'ailes, et bien qu'elles aient aussi un long nez, elles sont beaucoup plus belles et leur visage est bariol\u00e9 de couleurs. On dit d'elles qu'elles brillent dans le noir, et c'est pour cela que les enfants Venne sont captur\u00e9s par les aventuriers qui les charment, pour s'\u00e9clairer la nuit. Les Venne femelles adorent tout ce qui brillent, et c'est donc la qu\u00eate ultime des Venne m\u00e2les que de trouver de tels objets. Heureusement, ces cr\u00e9atures sont dot\u00e9es de quelques facult\u00e9s naturelles bien pratiques pour se dissimuler et \u00e9chapper aux agresseurs. Ce sont de bons fouineurs, mais aussi de bons \u00e9couteurs. En parlant avec les arbres, ils entendent beaucoup de choses\u2026"
-  },
-  {
-    "key": "venne-male",
-    "tags": ["race", "erenthyrm"],
-    "label": "Venne m\u00e2le",
-    "description": "Il n'y a pas vraiment de soci\u00e9t\u00e9 Venne. Le Venne femelle n'a rien \u00e0 voir avec le Venne M\u00e2le, le Rable. Si ces derniers ressemblent \u00e0 des Gobelins moustachus qui passent leur temps \u00e0 se cacher sous de gros amas de feuilles et de v\u00e9g\u00e9tation pour cacher leur laideur, les Femelles sont dot\u00e9es d'ailes, et bien qu'elles aient aussi un long nez, elles sont beaucoup plus belles et leur visage est bariol\u00e9 de couleurs. On dit d'elles qu'elles brillent dans le noir, et c'est pour cela que les enfants Venne sont captur\u00e9s par les aventuriers qui les charment, pour s'\u00e9clairer la nuit. Les Venne femelles adorent tout ce qui brillent, et c'est donc la qu\u00eate ultime des Venne m\u00e2les que de trouver de tels objets. Heureusement, ces cr\u00e9atures sont dot\u00e9es de quelques facult\u00e9s naturelles bien pratiques pour se dissimuler et \u00e9chapper aux agresseurs. Ce sont de bons fouineurs, mais aussi de bons \u00e9couteurs. En parlant avec les arbres, ils entendent beaucoup de choses\u2026"
-  },
-  {
-    "key": "kuergars",
-    "tags": ["race", "erenthyrm"],
-    "label": "Kuergars",
-    "description": "Cette esp\u00e8ce vit dans les d\u00e9sert dess\u00e9ch\u00e9s et venteux du Sirdri et Vestri. Ils parcourent ces terres sur le dos de gros insectes et en se nourrissant de kroktus dont ils se font des armures, la nuit. Le jour, ils vivent souvent dans des grottes humides en compagnie de cr\u00e9atures spectrales qui semblent y prendre vie. Les Kuergars sont r\u00e9put\u00e9s assez inhospitaliers, et leur bouche est couverte d\u2019un tissu lorsque leurs grands yeux sondent votre \u00e2me."
-  },
-  {
-    "key": "graou-comisses-de-boue",
-    "tags": ["race", "erenthyrm"],
-    "label": "Graou et Comisses de Boue",
-    "description": "Ces cr\u00e9atures seraient les rejetons de la B\u00ea\u00earich\u00f4\u00f4ne, qu\u2019elle s\u00e8me dans son exode de par le monde. Certains disent qu\u2019elle est l\u2019amante de l\u2019Ours des Temp\u00eates mais c\u2019est s\u00fbrement une rumeur. Les Grao\u00fb sont trait\u00e9s en esclaves dans les terres Kays et si ils savent se d\u00e9fendre en projetant des jets de bave acide, leur carapace dorsale et leurs oreilles tombantes ne les rendent pas tr\u00e8s agiles bien qu\u2019endurants et bons \u00e0 la t\u00e2che. Ils sont donc charg\u00e9s dans les terres Kays de brasser la boue pour assurer que personne ne puisse les envahir, eux qui vivent sur des rochers en quasi l\u00e9vitation au dessus des landes boueuses des Grao\u00fb."
-  },
-  {
-    "key": "chymeyres",
-    "tags": ["race", "erenthyrm"],
-    "label": "Chymeyres",
-    "description": "Les Chymeyres ne sont pas des cr\u00e9atures vivantes. Elles sont en r\u00e9alit\u00e9 l\u2019\u00e9manation des r\u00eaves et des cauchemars des hommes, qui prennent forme. Elles d\u00e9pendent donc d\u2019un r\u00eave ou d\u2019un cauchemar, qui r\u00e9git toutes leurs actions. Elles sont \u00e9galement constamment attir\u00e9es par les sources d\u2019imagination qu\u2019elles drainent et vampirisent. Se faisant, soit elles contaminent d\u2019autres cr\u00e9atures vivantes pour servir leur cause, soit elles prennent possession d\u2019elles (ainsi, vous pourrez jouer parfois des \u201cposs\u00e9d\u00e9s\u201d.). Elles sont cependant soumises \u00e0 la puissance des Maitres Kays qui sont parvenus, pour l\u2019instant, \u00e0 les faire ob\u00e9ir \u00e0 leurs souhaits. Les chymeyres craignent \u00e9galement certaines choses. Enfin, il existe une hi\u00e9rarchie chez elle, et elles ob\u00e9iront toujours \u00e0 un Cavalier, une Reine, ou un Roi Chymeyre. Elles sont l'exacerbation des d\u00e9fauts et vices des hommes."
-  },
-  {
-    "key": "barde",
-    "tags": ["alignement"],
-    "label": "Bard\u00e9"
-  },
-  {
-    "key": "heygg",
-    "tags": ["alignement"],
-    "label": "Heygg"
-  },
-  {
-    "key": "hoygg",
-    "tags": ["alignement"],
-    "label": "Hoygg"
-  },
-  {
-    "key": "capricorne",
-    "tags": ["alignement"],
-    "label": "Capricorne"
-  },
-  {
-    "key": "sagittaire",
-    "tags": ["alignement"],
-    "label": "Sagittaire"
-  },
-  {
-    "key": "chymeyre",
-    "tags": ["alignement"],
-    "label": "Chymeyre"
-  },
-  {
-    "key": "hygg",
-    "tags": ["voie-de-vie", "ebenaum"],
-    "description": "Les lyc\u00e9ens sont envoy\u00e9s tr\u00e8s jeunes dans les \u00e9tablissements d'instructions. Dans ces diff\u00e9rents lyc\u00e9es, on leur apprend \u00e0 percevoir diff\u00e9remment le monde, ainsi que toutes les particules qui le composent. Arriver \u00e0 faire int\u00e9grer \u00e0 une personne qu'elle peut modifier le monde gr\u00e2ce \u00e0 sa volont\u00e9, qu'elle peut faire jaillir d'une braise une colonne de flamme simplement en lui demandant gentiment, c'est assez difficile, et mieux vaut s'y prendre t\u00f4t. De plus, l'apprentissage de la responsabilit\u00e9 qu'entra\u00eene la possession du pouvoir prend \u00e9norm\u00e9ment de temps. Inutile, direz-vous ? Nous en reparlerons quand tous vos champs auront myst\u00e9rieusement pris feu, un soir de f\u00eate au lyc\u00e9e...Quoi qu'il en soit, les \u00e9tudiants ma\u00eetrisent de nombreuses disciplines, allant de la fabrication de pipes en bois \u00e0 comment se fabriquer un lit confortable en milieu hostile. Il existe six grands lyc\u00e9es, chacun d\u00e9cernant un anneau de magie \u00e0 ses \u00e9tudiants dipl\u00f4m\u00e9s. Chaque lyc\u00e9e \u00e9tudie une approche diff\u00e9rente de l'Hygg. Chaque lyc\u00e9en poss\u00e8de un signe distinctif apparent sp\u00e9cifique. Il arrive qu'un lyc\u00e9en ait une formation dans plusieurs lyc\u00e9es, mais tr\u00e8s rarement au del\u00e0 de 3. Il devient alors un polymage, tandis qu'un expert dans son domaine est un archimage. Combiner les deux fait de vous l\u2019un des rares hieromages\u2026",
-    "label": "Hygg"
-  },
-  {
-    "key": "foi",
-    "tags": ["voie-de-vie", "ebenaum"],
-    "description": "La religion sur les terres prend de multiples aspects. Il existe trois Panth\u00e9on de dieux ( le premier, les dieux primaires auxquels il faut croire, et pour certains, les seuls vrais dieux, les dieux du Dommynion, en plus grand nombre mais plus faibles, et les divinit\u00e9s de Brashahmus, des humains devenus des divinit\u00e9s et des entit\u00e9s ant\u00e9rieures aux Dieux). Outre ces trois panth\u00e9on, de nombreuses religions prennent place, apportant \u00e0 leurs d\u00e9fenseurs des facult\u00e9s spirituelles uniques. Etre membre de la VdV foi, c'est s'engager pour devenir un lien entre les dieux et les croyants, et tirer parti de la foi des uns et des autres tout en puisant dans celles-ci et dans les dons des divinit\u00e9s. La foi se r\u00e9pand \u00e0 coup de sermons, mais les d\u00e9fenseurs de cette discipline doivent voyager pour la porter.",
-    "label": "Foi"
-  },
-  {
-    "key": "guilde",
-    "tags": ["voie-de-vie", "ebenaum"],
-    "description": " Les guildes sont \u00e0 la surface d'Ebenaum, et en dessous de la surface, des structures d'apprentissage de m\u00e9tiers d\u2019artisanat. Les Artisans sont fiers de leurs travaux, et poss\u00e8dent des codes d'honneur bien plus rigoureux que ceux de la ligue des boulangers du pain de Seigle de Froyeux; m\u00eame si de nombreux membres des Guildes sont en r\u00e9alit\u00e9s \u00e9duqu\u00e9s \u00e0 utiliser leur dext\u00e9rit\u00e9 pour d\u2019autres t\u00e2ches que la poterie. Faire partie d'une de ces guildes, c'est apprendre \u00e0 survivre, seul, et d\u00e9sarm\u00e9. Nombreux sont les nobles et dignitaires \u00e0 employer les services des guildes, surtout qu'ils en sont souvent issus...! Un tatouage au poignet est sens\u00e9 rappeler \u00e0 tous \u00e0 quelle Guilde chacun appartient. Ah, et j'oubliais, les dirigeants reconnaissent officieusement, et parfois officiellement, l'utilit\u00e9 publique et notoire de toutes les guildes, lorsque ladite guilde tient \u00e0 \u00eatre publiquement et notoirement connue ! Mais au vu de la pression que peut cr\u00e9er une lame aiguis\u00e9e, on ne s'en \u00e9tonnera pas. Ne sont pr\u00e9sent\u00e9es ici que les Guildes les plus \u00e0 m\u00eame d\u2019\u00eatre pr\u00e9sentes lors des aventures.",
-    "label": "Guilde"
-  },
-  {
-    "key": "escrime",
-    "tags": ["voie-de-vie", "ebenaum"],
-    "description": "L'Escrime regroupe tous les combattants, et ce allant du mercenaire au capitaine d'Armes. Chaque membre de l'Escrime suit son entra\u00eenement aupr\u00e8s d'un ma\u00eetre, soit seul, soit avec d'autres \u00e9l\u00e8ves, puis doit faire ses preuves en gagnant un d\u00e9fi.. Vous voyez le niveau quoi. Cette Voie garantit honneur, caisse de retraite exc\u00e9dentaire et vie mouvement\u00e9e. Tout le monde a besoin d'une Lame, et d'autant plus ces temps-ci. Bien que leur nom \u00e9voque des \u00e9p\u00e9es, ils se battent \u00e9videmment avec tout format d\u2019armes. Les meilleurs escrimeurs sont sans nul doute les Moustiquaires d\u2019Allastar, garde rapproch\u00e9e des Princesses-Marchandes, en armure compl\u00e8te et armes \u00e0 Feu, concurrenc\u00e9s par les Glaives des Camp\u00e9a d\u2019Or, protecteurs des fronti\u00e8res de Magdalena. On reconna\u00eet aux Rak du Nord, Omarak, Nodarak ou et de Monor de former les meilleurs Claymore, tandis que les Espadons les plus r\u00e9put\u00e9s sont celles et ceux du Danmark et d\u2019Hygaia au Sud d\u2019Isynthern. Les Cimeterre des Amoureux ou de Kr\u00e9nie sont souvent redoutables tandis que les Dagues form\u00e9es \u00e0 Haesgard ou Al-Waollan sont sans piti\u00e9.",
-    "label": "Escrime"
-  },
-  {
-    "key": "dogme",
-    "tags": ["voie-de-vie", "ebenaum"],
-    "description": "Celles et ceux qui entrent dans un Ordre d\u00e9cident de mettre leurs talents au profit d\u2019une cause. C\u2019est un mode de vie souvent solitaire et nomade qui exigent un sacrifice personnel intense. Les Membres du Dogme sont parfois tr\u00e8s li\u00e9s \u00e0 des divinit\u00e9s mais le plus souvent sont seulement des missionnaires pour une cause. On leur reconna\u00eet pour la majeure partie des dons qui m\u00e9langent diff\u00e9rents domaines et arts bien que souvent des arts martiaux et magiques. Respect\u00e9s dans la plupart du monde cultiv\u00e9, ils n\u2019en sont pas pour autant toujours c\u00e9l\u00e9br\u00e9s, car consid\u00e9r\u00e9s comme, il faut le dire, souvent tr\u00e8s relous et emp\u00eacheurs de comploter en rond.",
-    "label": "Dogme"
-  },
-  {
-    "key": "instrument",
-    "tags": ["voie-de-vie", "ebenaum"],
-    "label": "Instrument"
-  },
-  {
-    "key": "pied",
-    "tags": ["voie-de-vie", "erenthyrm"],
-    "description": "Dans un monde avec peu de science, de technologie et d\u2019\u00e9changes, les vagabonds sont utiles et meme bienvenus. Qu\u2019ils s\u2019aventurent autour du village ou \u00e0 l\u2019autre bout du monde, ils ont souvent l\u2019oeil ac\u00e9r\u00e9 et une ouverture d\u2019esprit tout aussi ac\u00e9r\u00e9e.",
-    "label": "Pied"
-  },
-  {
-    "key": "bras",
-    "tags": ["voie-de-vie", "erenthyrm"],
-    "description": "Les bras sont les muscles de la communaut\u00e9. Dans un monde sans v\u00e9ritable arm\u00e9e, la carriere militaire se r\u00e9sume \u00e0 prot\u00e9ger la communaut\u00e9 ou pourchasses les menaces. Enfin, certains peuples abritent des individus qui sont des muscles plus que des cerveaux, des animaux, presque, dress\u00e9s \u00e0 ob\u00e9ir\u2026",
-    "label": "Bras"
-  },
-  {
-    "key": "main",
-    "tags": ["voie-de-vie", "erenthyrm"],
-    "label": "Main"
-  },
-  {
-    "key": "voix",
-    "tags": ["voie-de-vie", "erenthyrm"],
-    "label": "Voix"
-  },
-  {
-    "key": "cortex",
-    "tags": ["voie-de-vie", "erenthyrm"],
-    "description": "La voie du Cortex est assez sp\u00e9ciale, puisque comme \u00e9voqu\u00e9 pr\u00e9c\u00e9demment, l\u2019imagination est une chose rare en Erenthyrm, et lorsqu\u2019elle se manifeste c\u2019est souvent sous la forme de chymeyres inqui\u00e9tantes qui n\u2019\u00e9pargnent aucune r\u00e9gion et qui lorsqu\u2019elles sont plusieurs peuvent \u00eatre des menaces tr\u00e8s s\u00e9rieuses. Pour prot\u00e9ger les communaut\u00e9s, diff\u00e9rents ordres et m\u00e9tiers se sont cr\u00e9\u00e9s. On retrouvera \u00e9galement dans le Cortex les personnages jouant avec des forces inconnues et peu ma\u00eetris\u00e9es.",
-    "label": "Cortex"
-  },
-  {
-    "key": "coeur",
-    "tags": ["voie-de-vie", "erenthyrm"],
-    "description": "La voie du coeur est celle des individus donnant d\u2019eux-m\u00eames pour prendre soin des autres et de la communaut\u00e9, en partageant leur sensibilit\u00e9 au monde, leurs connaissances et leur \u00e9nergie pour gu\u00e9rir, \u00e9lever et soigner les corps, les \u00e2mes, et les id\u00e9es. Leurs champs d\u2019expertise un peu atypiques ou qui peuvent sembler myst\u00e9rieux pour les esprits simples d\u2019Erenthyrm fait qu\u2019ils sont souvent per\u00e7us comme des parias vivants dans la communaut\u00e9 mais tout en restant un peu \u00e9tranges.",
-    "label": "Coeur"
-  },
-  {
-    "key": "lycee-annexe",
-    "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
-    "label": "Lyc\u00e9e Annexe",
-    "description": "On y forme les Sorciers et ensorceleurs. Ils étudient l’énergie vitale, dans toute sa complexité, depuis la naissance jusqu’à.. après la mort. Oui. Ce ne sont pas les gens les plus gais du monde d'Ebenaum. Leur art consiste donc à corrompre l'esprit de la cible pour l'ensorceler, la drainer ou la guérir."
-  },
-  {
-    "key": "lycee-auriginaux",
-    "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
-    "label": "Lyc\u00e9e de l'Auriginaux",
-    "description": "Ici vivent les Magiciens et Érudits. Les magiciens sont réputés pour être les plus étranges des étudiants de l’Hygg et de la voie de l’Herpe. En effet ils étudient toutes les formes alternatives de magie, de sciences et de savoir du monde. Certains disent qu'ils sont les plus inutiles des lycéens, d'autres les plus puissants. Ils sont souvent très érudits sur le monde, alchimistes, polyvalents, sachant détecter et identifier la magie et connaissent quelques secrets magiques sur des phénomènes dont les autres n'ont pas idée."
-  },
-  {
-    "key": "lycee-majeur",
-    "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
-    "label": "Lyc\u00e9e Majeur",
-    "description": "Les plus farfelus et expérimentateurs des membres d'Hygg. Bien qu’eux diraient qu’ils sont les plus “scientifiques”. Ils étudient principalement l’element magique pur et sa capacité à altérer le monde. Les ingénieurs et les Mages sont issus de ce lycée, qui est le plus répandu et le plus influent du monde. Ils créent à partir de rien et explorent souvent les horizons des possibles dans la téléportation, l'illusion,... Mais leur magie est difficile, fragile et instable."
-  },
-  {
-    "key": "lycee-pouvoir",
-    "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
-    "label": "Lyc\u00e9e du Pouvoir",
-    "description": "Ce lycée enseigne comment altérer la nature d’un objet en lui inscrivant une signature magique. En d'autres termes, ils changent les propriétés d'un objet de façon plus ou moins pérenne, et on les nomme ainsi enchanteurs. Ils sont souvent également doués en sciences et alchimie."
-  },
-  {
-    "key": "lycee-incandescent",
-    "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
-    "label": "Lyc\u00e9e Incandescent",
-    "description": "Les élémentalistes apprennent à combiner les éléments et la magie pour obtenir un maximum d’effets avec un minimum d’efforts. Ainsi ils sont particulièrement efficaces dans l’action, mais leur magie demande l’utilisation des éléments existants qu'ils amplifient, déforment, altèrent, déplacent…"
-  },
-  {
-    "key": "lycee-feold",
-    "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
-    "label": "Lyc\u00e9e de Feold",
-    "description": "Ce lycée enseigne la dissipation ou la concentration de la magie manipulée ou non. Ils peuvent aider à la concentration d’un autre sortilège ou au contraire à sa dissipation. Sorts : brûlure de magie, dissipation de sort, regain de magie, détection magique… Avec le temps, d'autres disciplines magiques virent le jour et les lycées se multiplièrent ou au contraire fusionnèrent. Avec un succès relatif. Tout le monde se souvient d'Ernestin le magicien illusioniste et ses illusions de sorts de guérison. Il était pourtant plein de volonté. Plus personne ne veut s'en souvenir. Archimages : Melfen ( fondateur des Lycées, le plus puissant, tyran assassiné ) Ismaël ( vieil archimage encore vivant, bienveillant) Myrabel ( Hiéromage/ druide détraqué , talentueux mais égoïste et excentrique) Archichancelier Alacave ( actuel chancelier du lycée Majeur) Pepin Depom (Archimagicien qui sauva les degons de l'extinction en créant le service des gargouilles volantes.)"
-  },
-  {
-    "key": "temple-brame-croc",
-    "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
-    "label": "Temple de Br\u00e2me/du Croc",
-    "description": "Un mouvement s'imprégnant du comportement animal, que les croyants considèrent comme un dieu. Beaucoup se retrouvent à se lécher l'entrejambe sans comprendre pourquoi. D'autres découvrent la faculté de voler, plus ou moins avec succès. Ceux qui ont le plus de réussite sont les Shahmans qui font fusion avec les fauves...et leur odeur."
-  },
-  {
-    "key": "temple-cener",
-    "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
-    "label": "Temple de Cener",
-    "description": "Contrairement au temple précédent, Cener puise sa foi dans la nature, et les forces élémentaires. Point question de Dieux, Fi des destinées ! Tout réside dans GayaG et ManaM, les amants séparés de la Nature et la magie. Les druides, adeptes de Cener, sont de puissants ritualistes, mais aussi des herboristes et médecins parfois hasardeux, mais qui ont le mérite d'essayer. Certifié bio."
-  },
-  {
-    "key": "temple-vraie-foi",
-    "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
-    "label": "Temple de la Vraie Foi",
-    "description": "Les Moines et croisés de la Vraie Foi n’ont qu’une croyance : la force des êtres pensants. Ils réfutent tout besoin de divinités dans leurs vies, disant que c’est déjà assez bien compliqué comme ça. Les Moines ont une foi en eux-mêmes à toute épreuve ce qui en fait de courageux adversaires n’ayant aucune peur et une grande maîtrise d’eux-mêmes. Ils sont également particulièrement résistants à quiconque tente de les influencer. Cet ordre aux accents parfois très bienveillants, parfois très martiaux et intransigeants suscite beaucoup de polémiques dans un monde dominé par des Dieux bien tangibles. Leur symbole est un X qui représente l’être humanoïde car leur leader fut écartelé par des inquisiteurs enragés. Tout ce qui n’est pas humain relève de l’aberration pour cette église."
-  },
-  {
-    "key": "temple-bofrist-dommynion-brashahmus",
-    "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
-    "label": "Temple du Bofrist/Dommynion/Brashahmus",
-    "description": "Ces temples correspondent aux plus répandus sur la croûte d'Ebenaum. Chaque dieu possède un temple, mais il invite volontiers dans ce dernier un voisin. C'est un peu du sponsoring, pour inciter les croyants à prendre un forfait “Divin”. Les pélerins miséreux et fervents et souvent avatars des dieux, les prêtres prêchants et les inquisiteurs inquiétants étudient au sein de ces églises selon leur dieu, pour accéder au pouvoir de la foi. Une guerre oppose depuis de très nombreuses années les dieux du Bofrist à ceux du Dommynion, qu'ils veulent raser. Les dieux du troisième panthéon, les plus puissants, car ils ne dépendent de personne pour exister, sont peu nombreux mais s'accordent presque tous autour de Shahylmarils. Nombreuses sont les guerres de religion, et elles dépassent les frontières de peuples, de politique et de races. A savoir que le peuple le plus croyant est celui des Nelwyns, qui organise régulièrement des croisades de vacances contre les Zylwens."
-  },
-  {
-    "key": "temple-ombreline",
-    "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
-    "label": "Temple d'Ombreline",
-    "description": "Associé au 3e Panthéon, ce temple ne croit pas dans l’omnipotence des divinités mais dans l’harmonie de l’univers et la présence d’entités antérieures aux autres panthéons. Ils pensent que ce sont les histoires qui forgent le monde des hommes qui doit cependant se lier au monde naturel et ses protecteurs, composites. Ils croient dans les entités du Destin, Erole - les Vents, Neïs - la tisseuse de destinée et reine des Abysses, Degonebenor - le Dragon du ciel; L’Ombre - qui chasse la nuit quand l’oeil du cyclope  scrute le monde. Ils reconnaissent aussi Nycanoc la preneuse de souffle et Jaime le randonneur de mondes. Leurs membres les plus nombreux sont celles et ceux qui dirigent et animent la confrérie des Murmures, une société secrete réputée pour être présente partout et rassembler ses membres autour des histoires, des arts et du savoir, sous le patronage d’Erole et la papesse Alizée d’Ebrume et sa soeur Ombreline."
-  },
-  {
-    "key": "temple-kay",
-    "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
-    "label": "Temple Kay",
-    "description": "Apparus depuis l'Hembar, les Kay arrivèrent à bord d'une Arche volante dans le monde d'Ebenaum. Arche qui s'écrasa après qu'un paysan ait lancé adroitement une fourche dans sa direction, dit-on. Les Kay possèdent des dons parapsychologiques. Les Moines, chevaliers et maîtres Kay possèdent en plus d'une polyvalence complète la possibilité d’altérer l’esprit de leurs cibles. Ce temple est assez hermétique au monde extérieur."
-  },
-  {
-    "key": "art-apogee",
-    "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
-    "label": "Art de l'Apog\u00e9e",
-    "description": "Spécialisés dans la dérobade, le voleur et les roublards sont capables de voler des informations, de se dissimuler ou d'abréger la vie de personnes un peu gênantes. Arrangez vous pour ne pas en être.. Faites vous tout petit petit, et dispensez généreusement votre argent…."
-  },
-  {
-    "key": "art-solstice",
-    "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
-    "label": "Art du Solstice",
-    "description": "Traquer et piéger une proie est sa spécialité, et sa capacité à s'adapter à tous les milieux en fait un genre de personnes, qui si vous savez qu'elle vous cherche, vous provoquera de très fortes migraines, et une tendance à avoir peur de chaque coin de rue un peu ombragé. Chasseurs."
-  },
-  {
-    "key": "art-acme",
-    "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
-    "label": "Art de l'Acm\u00e9",
-    "description": "Les courtisans sont ces personnages étranges, qui apparaissent, disparaissent, en même temps que vos bourses se vident…quelles qu'elles soient. Les courtisans sont des nobles instruits aux arts de l'empoisonnement, du duel, du charisme et de quelques autres fioritures permettant de vivre longtemps dans le même corps qui font souvent office de diplomate espion. Beaucoup sont instruits des arts."
-  },
-  {
-    "key": "art-equinoxe",
-    "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
-    "label": "Art de l'Equinoxe",
-    "description": "Le rôdeur ne cherche ni affront, ni profit. Il observe et veille. C'est pourtant un combattant émérite, et un forestier alerte. Apparemment et je sais ce que je dis, on note une forte tendance chez eux à abriter des bâtards royaux. Mis à part cela, ils sont polyvalents et si vous pouvez supporter un mec qui bouffe des graines et sent le bouc, feront de bons compagnons."
-  },
-  {
-    "key": "art-eclispe",
-    "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
-    "label": "Art de l'Eclipse",
-    "description": "Noir...Dague...poison...Pas feutré... Y a quelque chose qui a bougé dans l’ombre, là, non? Reflet de lune. Chuintement d’une lame. Shclok la gorge, psssssssst la fontaine de sang. Tout en élégance et en finesse...Que dire d'un assassin qu'on ne sait déjà? Ah si ! ils respectent les codes de leur Art et de la Guilde. C'est aussi la maison des Espions."
-  },
-  {
-    "key": "art-perigee",
-    "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
-    "label": "Art du P\u00e9rig\u00e9e",
-    "description": "La confrérie des Murmures a des membres de par le monde entier. Mais vous ne le savez pas. Ils consignent les secrets, les savoirs, et on dit même qu’ils ont des capacités psychiques hors du commun car ils sont liés au vent. Mais c’est seulement une rumeur, vous en conviendrez. Ils officient en tant que bardes, mendiants et conteurs et vont de cité en cité porter leurs histoires et en récolter d’autres. Certaines professions ne se réunissent jamais tandis que d'autres passent la majorité de leur temps à rédiger des rapports d'une dizaine de pages juste pour pouvoir emprunter un crochet. La loi fondamentale des Guildes est la DISCRETION. Et ceux qui ne sont pas assez discrets, elles les aident à l'être...C'est fou ce que quelqu'un avec du ciment au pied au fond d'un fleuve est discret. En ces temps troubles, une chose reste sûre, le travail ne manque pas pour les Artisans ! Les maîtres de Guilde les plus célèbres ont des alias connus, comme le courtisan Orange Poulain ou l’assassin Mac’h Babelle mais la plupart se font discrets. Ils sont souvent appréciés du peuple car représentent un contre-pouvoir à la force des armées des dirigeants. Les plus prestigieuses Guildes sont chez les Aesirs comme celle de Gal Suintlam ou Gal Galleum. Mais chaque grande cité à ses guildes."
-  },
-  {
-    "key": "lame-claymore",
-    "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
-    "label": "Lame du Claymore",
-    "description": "Le Claymore est souvent un paysan devenu guerrier. Ce sont des piliers dans un combat, endurants et puissants. Moins sauvages que les berserks. Disons qu'ils cuisent la viande avant de la manger. Les Claymores se moquent des tirs ennemis, et leur courage est exemplaire. Un Claymore doit forger sa propre lame pour gagner ce titre."
-  },
-  {
-    "key": "lame-fleuret",
-    "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
-    "label": "Lame du Fleuret",
-    "description": " L'escrimeur rentabilise le fait d'être peu endurant par une maîtrise des arts de l'escrime inégalée. Aucun homme ne manie aussi bien les armes qu'eux et les techniques de combat. Les lames du Fleuret doivent atteindre un certain score dans des compétitions officielles pour obtenir le titre. Les Fleureurs sont donc en nombre limité et ne se cachent souvent pas de le faire savoir."
-  },
-  {
-    "key": "lame-espadon",
-    "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
-    "label": "Lame d'Espadon",
-    "description": "Les espadons sont ceux qui plus tard formeront les Gardes et Soldats des armées. Un Espadon n'abandonne jamais sa position. Ce sont les rocs sur lesquels les armes viennent se briser… Ou, selon certains, ces 'connards de coffre-fort'. Les Gardes reçoivent leur épée d’un commanditaire, et ils ne doivent jamais en être désarmés ou échouer à leur protection, sinon ils perdent leur statut jusqu’à trouver un nouveau commanditaire."
-  },
-  {
-    "key": "lame-sabre",
-    "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
-    "label": "Lame de Sabre",
-    "description": "Le duelliste est un combattant spécialisé dans le combat en duel. Capable de se sortir de presque n'importe quelle situation, et pouvant officier comme tueur ou garde du corps. Méfiez vous toujours d'ailleurs de votre garde du corps. Une dague dans la botte et un pistolet dans la manche. Les Dagues doivent assassiner une autre Dague en duel pour obtenir ce titre."
-  },
-  {
-    "key": "lame-glaive",
-    "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
-    "label": "Lame du Glaive",
-    "description": "Le guerrier en est l'aventurier le plus fréquent. Combattant polyvalent entre endurance, courage, habileté, il a des bases solides indispensables. C'est toujours utile de se trimbaler avec quelqu'un arborant une balafre ou deux, surtout quand on est mage. Les mercenaires passent également par cette voie. Plus entreprenants que leurs collègues de l'aiguille à tricoter et de l'espadon, Les Glaive Tranchent, taillent, et courent en faisant feu de toutes leurs armes et compétences car très polyvalents ! Un Glaive doit recevoir ses armes qu’il porte (souvent 3) d’autres Escrimeurs qui lui offrent en reconnaissance."
-  },
-  {
-    "key": "lame-cimeterre",
-    "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
-    "label": "Lame du Cimeterre",
-    "description": "Un guerrier du cimeterre est souvent appelé Danselame. Expert de techniques exotiques mêlant lutte au corps et d’armes en tous genres, il est maître de son style de combat unique. D’ailleurs, Pour conserver ce titre il doit posséder une arme unique et doit éliminer celles et ceux qui voudraient le copier ou leur offrir son arme."
-  },
-  {
-    "key": "ordre-menestrels",
-    "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
-    "label": "Ordre des M\u00e9nestrels",
-    "description": "Les Ménestrels sont un ordre neutre et indépendant qui est chargé d’assister à rendre la justice et protéger les populations reculées loin des cités et villes du monde. Ainsi, tous les états signataires (ils sont nombreux) autorisent les Ménestrels à agir en tant que Shériff nomades. Pour accomplir leurs missions, les Ménestrels suivent un entraînement rigoureux qui leur enseigne des arts du combat magique et une culture vaste du monde, d’où leur nom. Ils ont donc autorité pour rendre la justice sur une terre qui n’en a pas ou avec accord du souverain."
-  },
-  {
-    "key": "ordre-shaher",
-    "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
-    "label": "Ordre des Chevaliers Loups, les Shaher",
-    "description": "Issus du Shahylmar, ces hommes-loups sont des enquêteurs hors pairs qui à l’instar des Ménestrels parcourent le monde et sont généralement acceptés bon gré mal gré dans les provinces pour ne pas froisser leur puissant Empereur.  Ils traquent le chaos, les anomalies et mettent leurs talents de rôdeurs et de puissants guerriers au service de la lutte contre Soak et ses entités."
-  },
-  {
-    "key": "ordre-paladins",
-    "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
-    "label": "Ordre des Paladins",
-    "description": "A chaque paladin son temple, royaume ou sa religion ! Les Paladins puisent dans leur propre foi pour combiner à leurs talents guerriers des aides divines. Mais contrairement aux membres des Temples ils ne sont pas trés doués pour les partager avec les autres. Pas ouf les Palouf. Les Chevaliers d’Hoygg, semeurs de chaos quelque soit le corps qu’ils occupent, les Oblivions, des Djinns errants, etc, etc… Les deux plus grands ordres dont celui du Bofrist, le premier Panthéon, et du Dommynion, le second Panthéon."
-  },
-  {
-    "key": "ordre-chevaliers-kays",
-    "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
-    "label": "Ordre des chevaliers Kays",
-    "description": "Apparus depuis l'Hembar, les Kay arrivèrent à bord d'une Arche volante dans le monde d'Ebenaum. Arche qui s'écrasa après qu'un paysan ait lancé adroitement une fourche dans sa direction, dit-on. Les Kay possèdent des dons parapsychologiques. Les Chevaliers Kays et maîtres Kay possèdent en plus d'une polyvalence complète la possibilité d’altérer l’esprit de leurs cibles. Choisir cette voie en Dogme plutôt qu’en ordre mettra l’accent sur vos talents polyvalents et guerriers."
-  },
-  {
-    "key": "ordre-brisesorts",
-    "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
-    "label": "Ordre des Brisesorts",
-    "description": "L’ordre de Feold rassemble ici des guerriers spécialisés dans la lutte contre la magie et les mages. Souvent équipés des précieuses pierres d’anti-magie, les brisesorts sont également de bons combattants, et on ne compte plus les sorciers se marrant en préparant une boule de feu à lancer, en direction d'un mec en armure en train de les charger. Il paraît que leurs têtes rigolent toujours. Leurs corps beaucoup moins."
-  },
-  {
-    "key": "ordre-herauts-aux-plumeaux",
-    "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
-    "label": "Ordre des Herauts aux Plumeaux",
-    "description": "Cet ordre un peu exotique forme des individus à devenir des hérauts temporaires. Ces messagers permettent donc des pourparlers par exemple entre des souverains ou n'importe quelle entité. Reconnus d'utilité publique puisqu'ils permettent de limiter le nombre d’ambassadeurs décapités sur un coup de colère et leur assure une certaine protection, ces voyageurs qui portent des plumes très visibles pour éviter les balles perdues sont donc garants de la neutralité et l'exactitude de leurs messages et intentions. Souvent formés à quelques arts martiaux pour protéger leur cargaisons et ayant plus d'un tour dans leur besace, on les dit protégés par Erole et si on ose pas les soupçonner en public, des rumeurs disent qu'ils ont souvent un double rôle et réunissent de par le monde les esprits rebelles, apportant leurs talents à la cause des laissés pour compte. Certains ont aussi des connaissances dans des domaines particuliers de science comme la médecine et leur statut de Plumeaux leur permet d’agir sous bannière neutre partout."
-  },
-  {
-    "key": "ordre-croisees",
-    "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
-    "label": "Ordre des Crois\u00e9es",
-    "description": "Les chevaliers de cet ordre sont considérés comme les protecteurs des faibles, quels qu’ils soient, les accomplisseurs de destinée et les surveillants des Croisées des mondes et des chemins. Courageux, insouciants et équipés d'armes hétéroclites ou très classiques, on les reconnaît à leur panache démodé et leurs valeurs fantaisistes."
-  },
-  {
-    "key": "aurore",
-    "tags": ["voie-de-vie", "instrument", "ebenaum"],
-    "label": "Aurore",
-    "description": "On retrouve dans cette Voie de Vie les travailleurs qui forgent et modèlent le monde pour nourrir, construire ou équiper les peuples. Ils sont souvent très habiles de leurs mains pour construire et réparer toutes sortes de choses ainsi que pour repérer les matières premières intéressantes."
-  },
-  {
-    "key": "bourse",
-    "tags": ["voie-de-vie", "instrument", "ebenaum"],
-    "label": "Bourse",
-    "description": "C’est la voie des négociants en tous genres. Aucun commerce n’est impossible en Ebenaum, qu'il s’agisse d'armes, de magie, de produits exotiques ou d’esclaves. Certains vendent même de la neige. Les Boursiers ont des compétences variées pour se procurer, identifier et marchander tout ce qui peut l'être. Leur métier leur confère souvent une certaine immunité diplomatique. Qui oserait frapper un tavernier ?"
-  },
-  {
-    "key": "cordes",
-    "tags": ["voie-de-vie", "instrument", "ebenaum"],
-    "label": "Cordes",
-    "description": "L’administration est nécessaire dans n’importe quel monde, les Cordeleurs sont les gardiens des lois des pièces et des biens. Ils dressent les ordres et soumettent les textes, régulent les pratiques et mènent les opérations. Ils ont un œil sur tout, collectent les taxes, enregistrent les évènements et gèrent les archives. Bref, des littéraires rigides et journalistes, la pire espèce."
-  },
-  {
-    "key": "jongleurs",
-    "tags": ["voie-de-vie", "instrument", "ebenaum"],
-    "label": "Jongleurs",
-    "description": "Erudits, ce sont eux qui jonglent avec les langages et les savoirs. Souvent enseignants, ils sont versés dans toutes sortes de champs scientifiques, de domaines cocasses ou de recherches étranges. Ils sont connus pour voyager et partager leurs savoirs dans de nombreux domaines comme la médecine, la zoologie, etc.."
-  },
-  {
-    "key": "instruments",
-    "tags": ["voie-de-vie", "instrument", "ebenaum"],
-    "label": "Instruments",
-    "description": "Ces aventuriers itinérants souvent nommés Balladins sont des voyageurs ayant des arts divers et multiples mais souvent exotiques, ce qui les rend assez inclassifiables. Ayant des histoires et savoirs à partager, les Balladins intriguent, amusent, effraient. C’est aussi la voie des itinérants et chercheurs d’aventures."
-  },
-  {
-    "key": "kessece",
-    "tags": ["voie-de-vie", "instrument", "ebenaum"],
-    "label": "Kessecé",
-    "description": "Celles et ceux qu'on ne sait pas bien où foutre ailleurs. Voilà. Ils saoulent tout le monde à ne pas gentiment rentrer dans les cases et n'ont pas d'amis pour la peine. Voilà. C’est aussi là que l’on calera les multi-classés de l'extrême. A une époque, c’est là que figuraient par exemple les esclavagistes Alphens, forts sympathiques mais forts bizarres."
-  },
-  {
-    "key": "voyageurie",
-    "tags": ["voie-de-vie", "pied", "erenthyrm"],
-    "label": "Voyageurie",
-    "description": "Voyageurie connaît bien le monde, ou, du moins, mieux que les autres. Il sait souvent quelles plantes choisir et quelques astuces pour survivre dans un monde doué de sociétés et si… hétérogènes.  Ils sont essentiels au fonctionnement de la civilisation, puisque les voyages sont si rares"
-  },
-  {
-    "key": "murmureurie",
-    "tags": ["voie-de-vie", "pied", "erenthyrm"],
-    "label": "Murmureurie",
-    "description": "Les Murmureurs sont une confrérie, l’une des rares en Erenthyrm, composée de personnalités ayant la capacité d’enregistrer les connaissances du monde. Souvent amenés à voyager, rencontrer des étrangers et échanger avec eux, ils savent être discrets et diplomates. On les dit également proche des Vents qui les aideraient dans leurs tâches. Ils forment un réseau un peu secret mais d’entraide solide."
-  },
-  {
-    "key": "veilleurie",
-    "tags": ["voie-de-vie", "pied", "erenthyrm"],
-    "label": "Veilleurie",
-    "description": "Ces personnages sont chargés de veiller aux environs de la communauté. Ils ne s’en vont que rarement loin, alors ils apprennent à bien repérer un lieu et ses points faibles. Ils savent souvent se faire très discret afin d’accomplir au mieux cette mission. Ils sont également envoyés récolter des ressources intéressantes dans les environs comme de la nourriture et autres."
-  },
-  {
-    "key": "protecteurie",
-    "tags": ["voie-de-vie", "bras", "erenthyrm"],
-    "label": "Protecteurie",
-    "description": "Le rôle de garde ou protecteur d’une communauté est le plus souvent bien calme, surtout en l’absence de chymeyres à gérer. Pourtant, on apprécie toujours avoir protecteurie près de soi."
-  },
-  {
-    "key": "chasseurie",
-    "tags": ["voie-de-vie", "bras", "erenthyrm"],
-    "label": "Chasseurie",
-    "description": "Ces guerriers sont spécialisés dans l’assaut et la capture d’une cible particulière. Ils se focalisent sur elle et peuvent la traquer des jours durant. Ce sont également des personnes capables de récolter des denrées utiles à la communauté et s’aventurer sans crainte en territoire inconnu."
-  },
-  {
-    "key": "sauvagerie",
-    "tags": ["voie-de-vie", "bras", "erenthyrm"],
-    "label": "Sauvagerie",
-    "description": "Certains habitants du monde d’Erenthyrm ne sont simplement pas faits pour la vie en société. Mais comme la nature est parfois généreuse avec eux, la société a quand même très envie de garder ces forces de la nature sous le coude. Les Sauvagerie apprennent à user de leurs dons naturels pour tirer profit de leurs aptitudes sauvages, au combat mais également en prévention des conflits."
-  },
-  {
-    "key": "artisanie",
-    "tags": ["voie-de-vie", "main", "erenthyrm"],
-    "label": "Artisanie",
-    "description": "ce sont les responsables de créer toutes sortes d’objets. Ils savent fabriquer, réparer, améliorer, saboter … pas besoin d’avoir les meilleures technologies pour savoir les péter."
-  },
-  {
-    "key": "tisanerie",
-    "tags": ["voie-de-vie", "main", "erenthyrm"],
-    "label": "Tisanerie",
-    "description": "Proche de l’Artisanie, le Tisanerie se spécialise cependant dans la transformation des plantes, des éléments naturels et une approche plus scientifique que technologique du monde. Ils sont souvent doués pour faire également pousser les plantes nécessaires à leur art."
-  },
-  {
-    "key": "dresseurie",
-    "tags": ["voie-de-vie", "main", "erenthyrm"],
-    "label": "Dresseurie",
-    "description": "Ces individus ont l’expertise dans le domaine de l’apprivoisement et le dressage de la faune ( voire de la Flore) d’Erenthyrm, que cela soit à des fins d’esclavage, d’exploitation ou de hobby malsain.. Les Dresseurs sont souvent liés aux Ven qui leurs sont bien utiles car ces petites créatures brillantes sont des lumières dans l’obscurité et des remparts contre la magie des chymeyres."
-  },
-  {
-    "key": "meneurie",
-    "tags": ["voie-de-vie", "voix", "erenthyrm"],
-    "label": "Meneurie",
-    "description": "Ce sont les dirigeants des communautés qui montrent le plus de facilités à motiver, coordonner et organiser les tâches de la communauté tout en gérant les différentes personnalités. être Meunerie demande souvent un mélange de compétences de support moral, d’habileté physique et de force mentale. Les Meunerie sont souvent aussi les hérauts des Guides spirituels d’une espèce (comme le Sagittaire…) et ont ainsi des compétences spécifiques."
-  },
-  {
-    "key": "conteurie",
-    "tags": ["voie-de-vie", "voix", "erenthyrm"],
-    "label": "Conteurie",
-    "description": "Ils sont bien rares en Erenthyrm, celles et ceux qui sont capables de comprendre et de partager des histoires. Les Conteurie sont regardés comme des phénomènes étranges, bien que pourtant on ressente une fascination pour leurs histoires et leurs tours de passe-passe.  Ils sont experts des langages, ce qui est assez rare pour être souligné dans leur monde."
-  },
-  {
-    "key": "troceurie",
-    "tags": ["voie-de-vie", "voix", "erenthyrm"],
-    "label": "Troceurie",
-    "description": "Ils emmènent des objets de communauté en communauté et les échangent contre d’autres qui leur plaisent davantage. Les Troceurie ont certainement dans leurs musettes des trésors de tout Erenthyrm et ils savent aussi souvent comment en trouver d’autres, les identifier ou les améliorer."
-  },
-  {
-    "key": "maitre-kay-sumer-chymeyriste",
-    "tags": ["voie-de-vie", "cortex", "erenthyrm"],
-    "label": "Maître Kay / Maître Sumer / Maître Chymeyriste",
-    "description": "Les Maîtres sont issus des trois ordres principaux qui forment à la lutte contre les Chymeyres. Les Kays sont le plus répandus surtout dans l’Ouest du monde. Ces guerriers possèdent des talents pour utiliser et absorber l’énergie des Chymeyres et la retourner contre elles, tout en ayant par ailleurs une solide formation dans le maniement des armes pour se défendre lorsqu’elles prennent corps ainsi que diverses connaissances sur le monde qui les aident dans leurs voyages. Certains Kays dissidents ont une approche différente de leurs compétences et se sont éloignés de l’ordre principal. Les Maître de Sumer vivent surtout à l’Est, près du royaume des Chymeyres, et contrairement aux Kays ils s’entraînent à devenir des remparts physiques contre elle en contrôlant leur mental et leur esprit. Ainsi, leur corps devient une arme contre les Chymeyres et ils s’en servent pour les anéantir. Enfin Les Chymeyristes ne font partie d’aucun des deux ordres car dans des communautés délaissées par ces derniers, mais ils se sont forgés leurs propres talents, armes et pièges pour résister à ces créatures de l’ombre."
-  },
-  {
-    "key": "grimerie",
-    "tags": ["voie-de-vie", "cortex", "erenthyrm"],
-    "label": "Grimerie",
-    "description": " Il existe de par le monde d’Erenthyrm quelques personnages particulièrement haut en couleurs qui auraient selon les racontars des talents magiques uniques. Ils sont peu nombreux et rarement vus, mais sont craints et respectés de tous. L’une d’entre eux est la puissante Bavmorga. Il arrive que certains de ces personnages prennent des apprentis ou que des individus s’intéressent beaucoup à leurs connaissances et leur pratique. On les appelle Grimerie et on les regarde souvent avec une désapprobation intense, car il n’est jamais bien vu de jouer avec le feu."
-  },
-  {
-    "key": "cortex-chymeyre",
-    "tags": ["voie-de-vie", "cortex", "erenthyrm"],
-    "label": "Chymeyre",
-    "description": "Well. Et oui, vous pouvez également décider d’incarner une chymeyre. Il n’en sera pas dit trop sur la nature cauchemardesque des Chymeyres, seulement que ces entités sont mues par l’appétit des esprits, et, pour cela, peuvent passer de leur forme éthérée à la possession des corps d’esprits plus faibles. Ainsi, certaines chymeyres corrompent le corps de leurs victimes qu’elles contrôlent pour passer inaperçues dans une communauté. Bien que perçues comme des prédateurs dangereuses, les Chymeyres parviennent ainsi à saper le chaos, trouver des proies et assouvir leurs instincts. Elles ont pour cela l’appui de capacités hors-normes, que certains appelleraient s’ils en comprenaient le sens “magie”."
-  },
-  {
-    "key": "danseurie-saisons",
-    "tags": ["voie-de-vie", "coeur", "erenthyrm"],
-    "label": "Danseurie des Saisons",
-    "description": "Les Saisons sont, en Erenthyrm, portées par les Vents, des entités éthérées qui suivent certains individus dont ils sont épris que l’on appelle Amants. Pour s’assurer que chaque territoire soit visité régulièrement par les saisons, les communautés acceuillent et célèbrent ces dernières avec moultes efforts. Les responsables de la connaissance des Saisons, de leurs rituels et de leurs célébrations sont les Danseurie, qui sont respectés par la communauté comme des prêtres."
-  },
-  {
-    "key": "embaumerie",
-    "tags": ["voie-de-vie", "coeur", "erenthyrm"],
-    "label": "Embaumerie",
-    "description": "Ce sont eux qui prennent soins des corps meurtris. S’appuyant sur les plantes et les remèdes, les Embaumerie accompagnent les êtres vivants de la naissance à, parfois, l’après-mort. Craints et respectés, ils manipulent les essences vitales comme on jonglerait avec un coeur palpitant. Oui, nobody does that."
-  },
-  {
-    "key": "eveilleurie",
-    "tags": ["voie-de-vie", "coeur", "erenthyrm"],
-    "label": "Eveilleurie",
-    "description": "L’Eveilleurie passe pour un médecin de l’esprit, là où l’embaumeur est un médecin du corps. C’est le spécialiste de cette chose étrange que les habitants d’Erenthyrm comprennent mal et que l’on appelle rêves ou cauchemars. Ils sont également souvent perçus comme des sages donneurs de conseils et capables d’encourager les âmes."
-  },
-  {
-    "key": "alchimie",
-    "tags": ["skill"],
-    "label": "Alchimie",
-    "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
-  },
-  {
-    "key": "alchimie-novice",
-    "tags": ["skill:alchimie", "level:1", "cost:1"],
-    "label": "Alchimie (Novice)",
-    "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
-  },
-  {
-    "key": "alchimie-expert",
-    "tags": ["skill:alchimie", "level:2", "cost:1"],
-    "label": "Alchimie (Expert)",
-    "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
-  },
-  {
-    "key": "alchimie-maitre",
-    "tags": ["skill:alchimie", "level:3", "cost:1"],
-    "label": "Alchimie (Maître)",
-    "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
-  },
-  {
-    "key": "herboriste",
-    "tags": ["skill"],
-    "label": "Herboriste",
-    "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
-  },
-  {
-    "key": "herboriste-novice",
-    "tags": ["skill:herboriste", "level:1", "cost:1"],
-    "label": "Herboriste (Novice)",
-    "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
-  },
-  {
-    "key": "herboriste-expert",
-    "tags": ["skill:herboriste", "level:2", "cost:1"],
-    "label": "Herboriste (Expert)",
-    "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
-  },
-  {
-    "key": "herboriste-maitre",
-    "tags": ["skill:herboriste", "level:3", "cost:1"],
-    "label": "Herboriste (Maître)",
-    "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
-  },
-  {
-    "key": "bricolage",
-    "tags": ["skill"],
-    "label": "Bricolage",
-    "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
-  },
-  {
-    "key": "bricolage-novice",
-    "tags": ["skill:bricolage", "level:1", "cost:1"],
-    "label": "Bricolage (Novice)",
-    "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
-  },
-  {
-    "key": "bricolage-expert",
-    "tags": ["skill:bricolage", "level:2", "cost:1"],
-    "label": "Bricolage (Expert)",
-    "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
-  },
-  {
-    "key": "bricolage-maitre",
-    "tags": ["skill:bricolage", "level:3", "cost:1"],
-    "label": "Bricolage (Maître)",
-    "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
-  },
-  {
-    "key": "sorts",
-    "tags": ["skill"],
-    "label": "Sorts",
-    "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
-  },
-  {
-    "key": "sorts-novice",
-    "tags": ["skill:sorts", "level:1", "cost:1"],
-    "label": "Sorts (Novice)",
-    "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
-  },
-  {
-    "key": "sorts-expert",
-    "tags": ["skill:sorts", "level:2", "cost:1"],
-    "label": "Sorts (Expert)",
-    "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
-  },
-  {
-    "key": "sorts-maitre",
-    "tags": ["skill:sorts", "level:3", "cost:1"],
-    "label": "Sorts (Maître)",
-    "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
-  },
-  {
-    "key": "identification-objet",
-    "tags": [
-      "skill",
-      "skill:identification-objet",
-      "level:1",
-      "cost:1",
-      "available-for-sorcerer"
-    ],
-    "label": "Identification d’objets",
-    "description": "vous pouvez lire l’étiquette d’un objet et consulter le marchand pour en savoir plus sur l’objet. Vous savez également détecter des contrefaçons et en fabriquer (voir l’orga Marchand)."
-  },
-  {
-    "key": "skill-menestrel",
-    "tags": ["skill", "require:ordre-menestrels"],
-    "label": "Ménestrels",
-    "description": "Des compétences spécifiques à votre Voie de vie ou votre ordre."
-  },
-  {
-    "key": "skill-menestrel-novice",
-    "tags": ["skill:skill-menestrel", "level:1", "cost:1"],
-    "label": "Ménestrels (Novice)",
-    "description": "2 compétences spécifiques à votre Voie de vie ou votre ordre."
-  },
-  {
-    "key": "skill-menestrel-expert",
-    "tags": ["skill:skill-menestrel", "level:2", "cost:1"],
-    "label": "Ménestrels (Expert)",
-    "description": "4 compétences spécifiques à votre Voie de vie ou votre ordre."
-  },
-  {
-    "key": "skill-menestrel-maitre",
-    "tags": ["skill:skill-menestrel", "level:3", "cost:1"],
-    "label": "Ménestrels (Maître)",
-    "description": "6 compétences spécifiques à votre Voie de vie ou votre ordre."
-  }
-]
+    {
+      "key": "corps",
+      "tags": ["characteristic"],
+      "label": "Corps"
+    },
+    {
+      "key": "savoir",
+      "tags": ["characteristic"],
+      "label": "Savoir"
+    },
+    {
+      "key": "dexterite",
+      "tags": ["characteristic"],
+      "label": "Dextérité"
+    },
+    {
+      "key": "influence",
+      "tags": ["characteristic"],
+      "label": "Influence"
+    },
+    {
+      "key": "corps-2",
+      "tags": ["characteristic:corps", "level:-2"],
+      "description": "1 PV"
+    },
+    {
+      "key": "corps-1",
+      "tags": ["characteristic:corps", "level:-1"],
+      "description": "2 PV"
+    },
+    {
+      "key": "corps0",
+      "tags": ["characteristic:corps", "level:0"],
+      "description": "3 PV"
+    },
+    {
+      "key": "corps+1",
+      "tags": ["characteristic:corps", "level:1"],
+      "description": "4 PV"
+    },
+    {
+      "key": "corps+2",
+      "tags": ["characteristic:corps", "level:2"],
+      "description": "5 PV"
+    },
+    {
+      "key": "corps+3",
+      "tags": ["characteristic:corps", "level:3"],
+      "description": "6 PV"
+    },
+    {
+      "key": "corps+4",
+      "tags": ["characteristic:corps", "level:4"],
+      "description": "7 PV"
+    },
+    {
+      "key": "savoir-2",
+      "tags": ["characteristic:savoir", "level:-2"],
+      "description": "0 PC"
+    },
+    {
+      "key": "savoir-1",
+      "tags": ["characteristic:savoir", "level:-1"],
+      "description": "1 PC"
+    },
+    {
+      "key": "savoir",
+      "tags": ["characteristic:savoir", "level:0"],
+      "description": "3 PC"
+    },
+    {
+      "key": "savoir+1",
+      "tags": ["characteristic:savoir", "level:1"],
+      "description": "4 PC"
+    },
+    {
+      "key": "savoir+2",
+      "tags": ["characteristic:savoir", "level:2"],
+      "description": "5 PC"
+    },
+    {
+      "key": "savoir+3",
+      "tags": ["characteristic:savoir", "level:3"],
+      "description": "6 PC"
+    },
+    {
+      "key": "savoir+4",
+      "tags": ["characteristic:savoir", "level:4"],
+      "description": "7 PC"
+    },
+    {
+      "key": "dexterite-2",
+      "tags": ["characteristic:dexterite", "level:-2"],
+      "description": "Vous avez une Dette et vous ne pouvez pas manier d’armes."
+    },
+    {
+      "key": "dexterite-1",
+      "tags": ["characteristic:dexterite", "level:-1"],
+      "description": "Vous ne pouvez manier que des dagues."
+    },
+    {
+      "key": "dexterite0",
+      "tags": ["characteristic:dexterite", "level:0"],
+      "description": "1 Gemme"
+    },
+    {
+      "key": "dexterite+1",
+      "tags": ["characteristic:dexterite", "level:1"],
+      "description": "2 Gemmes"
+    },
+    {
+      "key": "dexterite+2",
+      "tags": ["characteristic:dexterite", "level:2"],
+      "description": "3 Gemmes"
+    },
+    {
+      "key": "dexterite+3",
+      "tags": ["characteristic:dexterite", "level:3"],
+      "description": "4 Gemmes"
+    },
+    {
+      "key": "dexterite+4",
+      "tags": ["characteristic:dexterite", "level:4"],
+      "description": "5 Gemmes"
+    },
+    {
+      "key": "influence-2",
+      "tags": ["characteristic:influence", "level:-2"],
+      "description": "Réputation à -1"
+    },
+    {
+      "key": "influence-1",
+      "tags": ["characteristic:influence", "level:-1"],
+      "description": "Réputation neutre"
+    },
+    {
+      "key": "influence0",
+      "tags": ["characteristic:influence", "level:0"],
+      "description": "Réputation à +1"
+    },
+    {
+      "key": "influence+1",
+      "tags": ["characteristic:influence", "level:1"],
+      "description": "Réputation à +2"
+    },
+    {
+      "key": "influence+2",
+      "tags": ["characteristic:influence", "level:2"],
+      "description": "Réputation à +3"
+    },
+    {
+      "key": "influence+3",
+      "tags": ["characteristic:influence", "level:3"],
+      "description": "Réputation à +4"
+    },
+    {
+      "key": "influence+4",
+      "tags": ["characteristic:influence", "level:4"],
+      "description": "Inaltérable"
+    },
+    {
+      "key": "ebenaum",
+      "tags": ["monde"],
+      "label": "Ebenaum"
+    },
+    {
+      "key": "erenthyrm",
+      "tags": ["monde"],
+      "label": "Erenthrym",
+      "description": "Le Monde d\u2019Erenthyrm est un disque de terre flottant \u00e0 la surface de ses mers. Parcouru par des Vennets qui ne sont capables que d\u2019aimer et qui se choisissent donc des Amants et des Amantes parmi les humains, le monde d\u2019Erenthyrm est habit\u00e9 par une poign\u00e9e de civilisations."
+    },
+    {
+      "key": "teleportes",
+      "tags": ["faction", "gn2024"],
+      "label": "Les t\u00e9l\u00e9port\u00e9s"
+    },
+    {
+      "key": "non-teleportes",
+      "tags": ["faction", "gn2024"],
+      "label": "Les pas t\u00e9l\u00e9port\u00e9s"
+    },
+    {
+      "key": "occupants-locaux",
+      "tags": ["faction", "gn2024"],
+      "label": "Les occupants locaux"
+    },
+    {
+      "key": "locaux-occupes",
+      "tags": ["faction", "gn2024"],
+      "label": "Les locaux occup\u00e9s"
+    },
+    {
+      "key": "les-autres",
+      "tags": ["faction", "gn2024"],
+      "label": "Les autres"
+    },
+    {
+      "key": "ebenhommes",
+      "tags": ["race", "humains", "ebenaum"],
+      "label": "Ebenhommes",
+      "description": "L'humain est de loin la cr\u00e9ature la plus r\u00e9pandue dans le monde d'Ebenaum. Les Ebenaumer sont des gens pratiques, mais qui aiment la r\u00eaverie et les histoires. Bien que n'ayant pas de dons particuliers dans un monde de cr\u00e9atures diverses, leur malice et leur esprit d'initiative leur a permis de cr\u00e9er la plus d\u00e9velopp\u00e9e et imposante soci\u00e9t\u00e9 au monde, bien que divis\u00e9e en une multitude de couronnes diff\u00e9rentes. Jouets des dieux et de la magie, ce sont pourtant eux, dont l\u2019imagination est fertile, qui ont donn\u00e9 au monde le plus d\u2019h\u00e9ros."
+    },
+    {
+      "key": "bekers",
+      "tags": ["race", "humains", "ebenaum"],
+      "label": "Bekers",
+      "description": "Bekers est le nom que l'on donne aux humains au Nord de la Faille, influenc\u00e9s par Hoygg. Ils ont un temp\u00e9rament froid et durs, fiers mais bons vivants. Habitant en caravanes, dans des hameaux, des tribus ou dans les quelques royaumes de Bekers. ils n'ont cependant pas d'autres diff\u00e9rences avec les Ebenaumers, humains de tous horizons qui peuplent la majeure partie du monde."
+    },
+    {
+      "key": "omonor",
+      "tags": ["race", "humains", "ebenaum"],
+      "label": "Omonor",
+      "description": "Les hommes d'Emonor sont des humains dont la lign\u00e9e remonte aux premiers hommes. On dit d'eux qu'ils ont dans le sang une animalit\u00e9 certaine, qui se traduit par une bravoure et une force souvent sup\u00e9rieure \u00e0 celle des autres hommes, m\u00eame s'ils sont moins dou\u00e9s pour la pratique de la magie. Nobles de sang et de coeur, ces hommes qui ont pourtant parfois le sang chaud ont \u00e9galement beaucoup peupl\u00e9 le nord, devenant des serviteurs de Nydhoygg, l'arbre tortur\u00e9. On les appelle alors des Bekers."
+    },
+    {
+      "key": "kays-ebenaum",
+      "tags": ["race", "humains", "ebenaum"],
+      "label": "Kays",
+      "description": "Les Kay d'Ebenaum sont un peuple d'hommes dont les descendants sont (parait-il) arriv\u00e9s tardivement dans l'histoire du monde, \u00e0 l'aide d'une Arche volante ayant surgi de l'Hembar, la grande faille traversant une partie de la carte. Install\u00e9s aux alentours de cette arche s'\u00e9tant \u00e9chou\u00e9e depuis \u00e0 peine quelques si\u00e8cles, les Kay ont d'\u00e9tranges facult\u00e9s psychiques qui leur permettent de manipuler l'esprit d'autrui. Ils ont gard\u00e9 une discipline stricte, notamment dans les arts de l'escrime, et vivaient reclus jusqu'\u00e0 ce qu'un groupe de leurs membres, la Sombre Opale, parte de l'Arche dans le but d'accomplir une proph\u00e9tie inscrite dans le Codex des Kay. Selon cette proph\u00e9tie, les Kay seraient issus d'un autre monde, cach\u00e9 sous celui d'Ebenaum, et pour rejoindre cet Eden perdu dans lequel ils r\u00e9gnaient en ma\u00eetres, les Kays devraient accomplir un rituel. Ce qu'ils firent. Men\u00e9s selon une hi\u00e9rarchie pr\u00e9cise, les Kays de la Sombre Opale sont donc d\u00e9sormais \u00e0 la recherche de leurs tr\u00f4nes abandonn\u00e9s !"
+    },
+    {
+      "key": "humains",
+      "tags": ["famille-race", "ebenaum", "erenthyrm"],
+      "label": "Humains",
+      "description": ""
+    },
+    {
+      "key": "nybelhungen",
+      "tags": ["famille-race", "ebenaum"],
+      "label": "Nybelhungen",
+      "description": "Les Nybelhungen regroupent les cr\u00e9atures anim\u00e9es par un cristal fluide, l\u2019Arsang, qui s'empare de roches pour se constituer un corps prot\u00e9geant un coeur de cristal. Les Nybels sont les plus sociables et calmes. Les Hungens ont l\u2019Arsang chaud et ch\u00e9rissent les explosions."
+    },
+    {
+      "key": "amoureux",
+      "tags": ["famille-race", "ebenaum"],
+      "label": "Amoureux",
+      "description": "Les Amoureux ont la s\u00e8ve des En dans le sang, et ils sont convaincus que les humains vont mener le monde \u00e0 sa perte. En attendant ils prot\u00e8gent la nature et la beaut\u00e9 du monde en savourant chaque instant avec esth\u00e9tique, raffinement et ma\u00eetrise. Ils vivent plut\u00f4t reclus dans leurs \u00eeles ou for\u00eats et rechignent \u00e0 donner la mort. Ils sont cependant d'habiles guerriers et savants druides. Les Vaelirs sont les plus pacifistes, en paix avec le destin tragique du monde. Les Aesirs veulent entra\u00eener ceux qui le m\u00e9ritent dans leur chute. Les Wawefir vivent en sauvages craintifs et hostiles dans leurs bois. Les Alfirs sont pour la coh\u00e9sion et l'harmonie des peuples et vivent exil\u00e9s"
+    },
+    {
+      "key": "aesir",
+      "tags": ["race", "amoureux", "ebenaum"],
+      "label": "Aesir",
+      "description": "Les Aesir font partie des Amoureux. Ce peuple li\u00e9 aux arbres consid\u00e8re que prot\u00e9ger la nature est le but ultime et unique de l'existence. Pour cela, ils ne voient qu'une solution : d\u00e9truire les hommes. Mais leur go\u00fbt pour l'excellence et la raffinement en font des cr\u00e9atures exigeantes : elles ne dispensent la mort qu'\u00e0 ceux qui le m\u00e9ritent. Les autres n'ont le droit qu'\u00e0 la souffrance. Attir\u00e9s par le Sang, les Aesirs sont des ma\u00eetres dans ce qu'ils entreprennent, bien que souvent acerbes et cyniques face au monde. Leur teint terne et la feuillure pourpre et auburn de leurs cheveux t\u00e9moignent de leur d\u00e9cadence."
+    },
+    {
+      "key": "vaelir",
+      "tags": ["race", "amoureux", "ebenaum"],
+      "label": "Vaelir",
+      "description": "Les Vaelir sont des cr\u00e9atures n\u00e9es dans les gousses des Heygg, les arbres de vie. Vivant en harmonie avec la nature, ces \u00eatres sont comme toute leur race persuad\u00e9s que l'\u00e2ge d'Or s'est achev\u00e9 avec l'apparition d'autres esp\u00e8ces, vou\u00e9es \u00e0 la destruction des for\u00eats et de la nature tranquille et intacte. Mais contrairement aux autres branches de leur esp\u00e8ce, les Vaelir pensent qu'il reste un espoir de sauver la nature, et elles luttent donc pour sinon faire prosp\u00e9rer, sinon profiter en paix de la Flore tant qu'il le sera possible. Cela se traduit par une civilisation de cr\u00e9atures raffin\u00e9es, humano\u00efdes au sang de s\u00e8ve, tr\u00e8s sensible \u00e0 la magie \u00e9manant des arbres, et en balance et harmonie dans tout ce qu'elles entreprennent. Bien qu'ayant peu de compr\u00e9hension pour les pulsions des humains, les Vaelir travaillent avec eux, partageant le go\u00fbt pour l'\u00e9l\u00e9gance et le raffinement."
+    },
+    {
+      "key": "wawefir",
+      "tags": ["race", "amoureux", "ebenaum"],
+      "label": "Wawefir",
+      "description": "Les Wawefir se caract\u00e9risent par leur vocation \u00e0 prot\u00e9ger les for\u00eats de toute intrusion. Ils veulent go\u00fbter de chaque instant de paix qu'il reste avant l'an\u00e9antissement en repoussant autant que possible les intrus. Ils sont donc neutres politiquement et se moquent du monde tant que le monde ne vient pas les chercher. Raffin\u00e9s, mais tr\u00e8s proches de la nature, ce sont de sauvages guerriers."
+    },
+    {
+      "key": "alfir",
+      "tags": ["race", "amoureux", "ebenaum"],
+      "label": "Alfir",
+      "description": "Les Alfir sont des Amoureux qui pensent que dans le temps qu'il reste \u00e0 profiter du monde, seule l'union des races peut permettre de retarder la fin."
+    },
+    {
+      "key": "elifir",
+      "tags": ["race", "amoureux", "ebenaum"],
+      "label": "Elifir",
+      "description": "Les Elifir ont gard\u00e9 leurs cosses de leur naissance et s\u2019en servent comme des ailes. Ils vivent dans les nuages et sont de fervents amis de Lunaumyr. Ils contemplent le monde de loin avec un certaine distance et go\u00fbt pour la barbapapa. Certains sont tr\u00e9s hautains et les autres tr\u00e8s enthousiastes de tout."
+    },
+    {
+      "key": "nybel",
+      "tags": ["race", "nybelhungen", "ebenaum"],
+      "label": "Nybel",
+      "description": "Cr\u00e9atures sculpt\u00e9es dans la roche par leurs \"parents\" et au coeur desquelles on place un cristal anim\u00e9, les Nybels sont l'association entre un corps de roche et un coeur liquide, l\u2019Arsang. Seule la destruction de ce dernier provoque leur mort. C'est un peuple \u00e0 l'\u00e2me sensible, qui r\u00e9fl\u00e9chit \u00e9norm\u00e9ment au monde, bien que passant une partie de sa vie dans son habitat naturel : sous la terre. Ils y appr\u00e9cient le calme et l'\u00e9troitesse. Les Nybel partagent un sang-froid et une pragmaticit\u00e9 rigoureuse. Leur flegme ne les emp\u00eache pas d'\u00eatre des guerriers solides et f\u00e9rus d'ing\u00e9nierie. Ces cr\u00e9atures \u00e0 la peau d\u2019argile, de roche ou de m\u00e9tal ont des yeux faits de pierres pr\u00e9cieuses et vivent dans les montagnes ou les lieux obscurs. Ils sont bons ing\u00e9nieurs et manipulateurs des m\u00e9taux. Ils ont invent\u00e9 et d\u00e9velopp\u00e9 les armes \u00e0 Air f\u00e9e qui projettent de l'\u00e9nergie, alternative aux Armes \u00e0 poudre noire."
+    },
+    {
+      "key": "hungens",
+      "tags": ["race", "nybelhungen", "ebenaum"],
+      "label": "Hungens",
+      "description": "Les Hungen sont des cr\u00e9atures faites de roche, d\u2019argile et de pierres, souvent assez trapues et petites, qui sont parcourues par une \u00e9nergie \u00e9manant d'un crystal cach\u00e9 au coeur de leur corps. Ces \u00eatres intelligents se meuvent donc parfois avec maladresse, mais sont tr\u00e8s solides. Les Hungen sont anim\u00e9s par un liquide en feu, l\u2019Arsang chaud, ce qui les rend tr\u00e8s belliqueux, anim\u00e9s par un besoin de destruction et de consommation, m\u00eame s'ils restent fascin\u00e9s par l'artisanat et la technologie. Constamment pr\u00e9occup\u00e9s par l'envie de comprendre le monde, leur haine vient de leur \u00e9chec \u00e0 y parvenir, ou bien d'\u00e9clairs de folie quand ils y r\u00e9ussissent."
+    },
+    {
+      "key": "nelwyns",
+      "tags": ["race", "ebenaum"],
+      "label": "Nelwyns",
+      "description": "Les Nelwyns sont des cr\u00e9atures passionnantes. Pour qui aiment la tranquillit\u00e9 des l\u00e9gumes. Naissant dans le sol, ils poussent et gardent toute leur vie sur leur t\u00eate de la verdure et un go\u00fbt prononc\u00e9 pour la terre. Ce sont avant tout des paysans, tr\u00e8s attach\u00e9s \u00e0 la croissance des choses et au cycle de la vie. En r\u00e9alit\u00e9, ils ne seraient que des formes de vie banales si ils ne partageaient pas \u00e9galement la conviction profonde que leur peuple aurait \u00e9t\u00e9, selon eux, injustement maudit par les dieux. En effet, ils pensent que leur petite taille et leur manque de force est une punition des dieux qui \u00e9tait destin\u00e9e \u00e0 une autre esp\u00e8ce, les Zylwens. Depuis lors, de nombreux Nelwyns s'engagent dans des croisades contre ces derniers, esp\u00e9rant prouver aux dieux leur valeur, et l'erreur des divinit\u00e9s. C'est donc contre toute attente un peuple tr\u00e8s pieux, suivant religieusement les \"Saints\" et ap\u00f4tres de leur \u00e9glise, quand ils ne sont pas en train de cajoler des citrouilles."
+    },
+    {
+      "key": "zylwens",
+      "tags": ["race", "ebenaum"],
+      "label": "Zylwens",
+      "description": "Les Zylwens ressemblent \u00e0 de petits satyres. Fac\u00e9tieux, ces \u00eatres parcourent surtout le nord d'Ebenaum, toujours \u00e0 la recherche d'un tour \u00e0 jouer, d'une personne \u00e0 amuser. Tr\u00e8s dou\u00e9s avec les arts magiques, les Zylwens sont cependant tr\u00e8s inconstants, et leurs r\u00eaveries les emp\u00eachent de cr\u00e9er une vraie soci\u00e9t\u00e9. Ils vivent donc soit chez les autres, soit en petites communaut\u00e9s. On peut en retrouver partout de par le monde, bien qu'ils soient pourchass\u00e9s comme la peste par une autre esp\u00e8ce, les Nelwyns, des hommes-plantes qui pensent que les Zylwens sont la cause de tous leurs maux."
+    },
+    {
+      "key": "wampyrs",
+      "tags": ["race", "ebenaum"],
+      "label": "Wampyrs",
+      "description": "Les Wampyrs sont des \u00eatres ail\u00e9s se repassant exclusivement de cadavres, ce qui leur vaut mauvaise r\u00e9putation. Ils cachent le plus souvent leurs ailes en soci\u00e9t\u00e9, mais ils gardent de leur nature de rapaces des instincts et des capacit\u00e9s malaisantes. Certains sont accept\u00e9s dans la soci\u00e9t\u00e9 tant qu'ils savent se tenir et lutter contre leurs pulsions, et d'autres sont chass\u00e9s \u00e0 vue. Si les Wampyrs ne sont pas une nation, ils partagent tous en commun des affinit\u00e9s et une compr\u00e9hension presque t\u00e9l\u00e9pathique."
+    },
+    {
+      "key": "merandres",
+      "tags": ["race", "ebenaum"],
+      "label": "Merandres",
+      "description": "Merandres est le nom que l\u2019on donne \u00e0 des cr\u00e9atures qui s\u2019apparentent \u00e0 des morts-vivants m\u00eame si, en r\u00e9alit\u00e9, elles sont tr\u00e8s diff\u00e9rentes. Car un mort-vivant garde le corps qu\u2019il avait de son vivant. Les M\u00e9randres sont les larmes, vestiges des \u00e2mes qui ont \u00e9t\u00e9 recueillies par Nycanoc et sont ensuite achemin\u00e9es par les eaux jusqu\u2019\u00e0 la mer int\u00e9rieure pour \u00eatre gard\u00e9es dans le domaine de Nocmagna, le seigneur des Eaux et des Os, des Mer, de l\u2019Amour et des Morts, pour attendre d\u2019\u00eatre renvoy\u00e9es dans les cieux puis sur la terre par la pluie et se r\u00e9incarner. Mais lorsque certaines de ses armes refusent leur destin, elles parviennent parfois \u00e0 s\u2019\u00e9chapper dans les cours d\u2019eau et contaminer un cadavre sur leur passage ou une forme de vie faiblarde. Elles en prennent alors possession et lentement se construisent un corps avec les formes de vie, v\u00e9g\u00e9tales ou animales, qu\u2019elles contaminent. Les M\u00e9randres sont ainsi des cr\u00e9atures d\u00e9vorantes, hybrides et maudites souvent composites d\u2019animaux. Leur personnalit\u00e9 est parfois multiple, compos\u00e9e de l\u2019h\u00f4te et de l\u2019\u00e2me ou DES \u00e2mes invasives qui peuvent \u00eatre v\u00e9g\u00e9tales ou animales \u00e9galement. Le corps \u00e9tant souvent composite, il est difficile de les faire souffrir pour les \u00e9loigner. Cependant ces cr\u00e9atures usent d\u00e9j\u00e0 de beaucoup de magie pour se maintenir en vie, leurs pouvoirs sont donc souvent tr\u00e8s al\u00e9atoires."
+    },
+    {
+      "key": "shaher",
+      "tags": ["race", "ebenaum"],
+      "label": "Shaher",
+      "description": "Autrefois des loups, les Shaher ont \u00e9t\u00e9 dot\u00e9s de caract\u00e9ristiques humaines par leur empereur-Dieu, Shahylmarils, alors qu'il \u00e9tait encore jeune sur le chemin qui le m\u00e9nerait \u00e0 devenir l'homme le plus puissant du monde. Les Shaher sont son peuple. Protecteurs de leur terre, ces hommes-loups parcourent \u00e9galement le monde pour tenter de lutter contre Soak, le dieu du mal pur, briseur d'espoir, de r\u00eaves, et d'harmonie. Puissants, respect\u00e9s mais jalous\u00e9s, les hommes-loups portent le lourd fardeau de leur mission sur les \u00e9paules. Les faibles les adulent tandis que les autres se m\u00e9fient d'eux, les voyant comme les espions dociles de leur ma\u00eetre, incorruptibles sh\u00e9riffs en maraude."
+    },
+    {
+      "key": "oblivione",
+      "tags": ["race", "ebenaum"],
+      "label": "Oblivione",
+      "description": "Cr\u00e9ature myst\u00e9rieuse qui ne sait elle-m\u00eame peu de choses sur son esp\u00e8ce, les Obliviones vivent dans un gouffre au pied de la montagne des Dieux. D'une nature hautement magique, ce sont des guerriers \u00e0 la peau sombre et parcourue de runes et de tatouages violac\u00e9s ou dor\u00e9s. Ma\u00eetres en magie, les Obliviones n'ont pas vraiment d'autres buts que de d\u00e9couvrir le monde et explorer ses myst\u00e8res. Dot\u00e9s d'un humour incompr\u00e9hensible pour le reste des habitants du monde, ils mettent tout le monde mal \u00e0 l'aise, soyons francs."
+    },
+    {
+      "key": "goulemmes",
+      "tags": ["race", "ebenaum"],
+      "label": "Goulemmes",
+      "description": "Les Goulemmes sont les enfants de Grandlarve, un Ver g\u00e9ant qui depuis la nuit des temps ronge la pomme qu\u2019est Ebenaum, transformant l\u2019espoir en d\u00e9sespoir. Les morceaux du monde qu\u2019il ingurgite et recrache se changent en boue d\u2019o\u00f9 \u00e9mergent des cr\u00e9atures humano\u00efdes et souvent difformes, d\u2019apparence argileuse ou verd\u00e2tres que l\u2019on nomme de fa\u00e7on globale des Goulemmes. Suscitant l\u2019antipathie de la majorit\u00e9 du monde connu, les Goulemmes forment une diaspora  souterraine et nombreuse, qui, pourtant, est connue par celles et ceux qui prennent le temps de comprendre leur langage pour leur profonde app\u00e9tence pour la philosophie, la sociologie et l\u2019envie de profiter du monde. Seulement, pour des raisons qui semblent un peu obscures pour les b\u00e9otiens d\u2019humains, les goulemmes semblent convaincues qu\u2019\u00e9liminer les humains et leurs semblables n\u2019est sujet \u00e0 aucun d\u00e9bat. Leur antagonisme avec toute forme de civilisation est donc pr\u00e9gnant.  Les humains les insultent souvent en les traitant de Dork."
+    },
+    {
+      "key": "ombreux",
+      "tags": ["race", "ebenaum"],
+      "label": "Ombreux",
+      "description": "Vivant dans un royaume souterrain nich\u00e9 dans les anciennes galeries creus\u00e9es par le Ver d'\u00e9ther et l\u2019Enflamm\u00e9, au service d'une puissante sorci\u00e8re, les ombreux ont la capacit\u00e9 de prendre l'apparence de n'importe quelle personne. H\u00e9rauts de l'obscurit\u00e9, ces cr\u00e9atures se sont donn\u00e9es la t\u00e2che d'espionner la surface et d'ourdir des complots pour le compte de leur souveraine."
+    },
+    {
+      "key": "alphen",
+      "tags": ["race", "ebenaum"],
+      "label": "Alphen",
+      "description": "Les Alphen sont un petit peuple des montagnes gel\u00e9es qui, ayant \u00e9volu\u00e9 depuis le peuple des Zylwen pour grandir et partager quelques g\u00e8nes avec des ch\u00e8vres g\u00e9antes des environs, poss\u00e8de une culture de nomade assez primitive. Leurs contacts avec le monde des humains leur a fait prendre conscience de l'\u00e9norme \u00e9cart de mode de vie, et ils tentent toutes sortes de commerces pour obtenir des privil\u00e8ges. Ils sont farceurs et gaffeurs. Surtout quand il s\u2019agit d'esclavage, les coquins."
+    },
+    {
+      "key": "degons",
+      "tags": ["race", "ebenaum"],
+      "label": "Degons",
+      "description": "Nobles cr\u00e9atures h\u00e9rit\u00e9es des Dragons, les Degons sont des hommes-dragons marchant sur leurs pattes arri\u00e8res, et ayant d\u00e9cid\u00e9 de se m\u00ealer au monde des hommes. Ils en ont pris les atours et la culture. Ils sont puissants de corps et de magie, sages et froids, mais leur int\u00e9r\u00eat est d'emp\u00eacher tout cataclysme magique."
+    },
+    {
+      "key": "eren",
+      "tags": ["race", "erenthyrm", "humains"],
+      "label": "Eren",
+      "description": "Les humains ne sont pas vraiment les ma\u00eetres du monde d'Erenthyrm, pour ce que vous en savez. De ce qu'en savent les habitants de Foerlingdon, le monde est vaste et seules quelques civilisations humaines sont parvenues \u00e0 instaurer un semblant de culture. Foerlingdon est la plus v\u00e9n\u00e9rable, paisible, et ancienne d'entre elles, de ce que vous en savez. Cela gr\u00e2ce aux Sages qui gouvernent la ville. Ce sont des hommes d'Eren, c'est \u00e0 dire des \u00eatres li\u00e9s aux arbres, par la s\u00e8ve qui coule dans leur sang. Bien qu'ils naissent au creux d'arbres enlac\u00e9s et que des veines de sinople se dessinent sur leur peau, ils ressemblent en tous points aux hommes de sang, qui sont de loin l'esp\u00e8ce la plus r\u00e9pandue. Ces derniers sont plus agiles, et semblent avoir un coeur et de l'imagination qui manque aux autres peuples. C'est ainsi que les hommes ont r\u00e9ussi \u00e0 s'imposer et \u00e0 fonder la cit\u00e9 de Foerlingdon, dont l'influence couvre la mer int\u00e9rieure et ext\u00e9rieure jusqu'\u00e0 la Sylve. Pendant longtemps, cette immense for\u00eat fut consid\u00e9r\u00e9e comme un lieu dangereux o\u00f9 l'on chassait des cr\u00e9atures hybrides - les Daloryan. Les Ga\u00ebls vivent sur une \u00eele repli\u00e9e sur elle-m\u00eame et les taureaux volants qu\u2019elles ont dress\u00e9 les aident \u00e0 maintenir les navires \u00e0 distance."
+    },
+    {
+      "key": "kays-erenthyrm",
+      "tags": ["race", "erenthyrm", "humains"],
+      "label": "Kays",
+      "description": "Les Kays sont majoritairement des humains ayant des dons pour l'imagination. Entrain\u00e9s par L'Ordre \u00e0 lutter contre les Chymeyres, ils prot\u00e8gent ensuite le monde de ces entit\u00e9s. Vivant dans les Terres de Boue, ils habitent dans des monast\u00e8res de pierre sur des \u00eelots flottants tandis qu'en contrebas les Comisses de boue travaillent pour eux."
+    },
+    {
+      "key": "humains-sumer",
+      "tags": ["race", "erenthyrm"],
+      "label": "Humains de Sumer",
+      "description": "Les Humains de Sumer vivent tr\u00e8s loin, coinc\u00e9s le long d'un immense bras de mer qui se retire et revient tr\u00e8s fr\u00e9quemment et, d'un c\u00f4t\u00e9, les Montagnes sombres et d\u00e9sertiques de Tenebrarum et de l'autre c\u00f4t\u00e9 le d\u00e9sert des Kuergars. Ils sont respect\u00e9s de par le monde et connus pour leur calme et leur sagesse...Mais aussi leur c\u00f4t\u00e9 tr\u00e8s ennuyeux. Les S\u00fbmer vivent dans des cit\u00e9s troglodytes sur les falaises au bord du fleuve rampant, souvent visit\u00e9 par des pirates et maraudeurs vivants dans des cit\u00e9s flottantes sur cette mar\u00e9e sauvage."
+    },
+    {
+      "key": "alfes",
+      "tags": ["race", "erenthyrm"],
+      "label": "Alfes",
+      "description": "Etre un Alfe, c'est \u00eatre per\u00e7u comme la plupart du monde comme une race inf\u00e9rieure, mais dont il faut se m\u00e9fier. A l'\u00e9tat naturel, les Alfes sont des animaux omnivores qui paissent partout dans le monde. Mais, avec le temps, deux cultures ont \u00e9merg\u00e9es parmi eux : les Alfes des Monts et ceux des bois. Ceux-ci vivent par petits groupes ou dans des communaut\u00e9s de Daloryans, profitant de la douceur de la vie tout en marchandant parfois avec les humains de passage, car ils sont les plus \"cultiv\u00e9s\" des peuples de la for\u00eat. Les Alfes qui sont parfois trait\u00e9s comme des esclaves, voire du gibier, savent que leur peuple est puissant dans les montagnes, et cela leur donne de l'hardiesse pour utiliser leurs affinit\u00e9s avec la faune et la flore pour jouer des tours aux humains bien trop orgueilleux, et aux Daloryans trop paresseux. Les Alfes sont avant tout des passeurs, des interm\u00e9diaires entre les peuples, car ils savent s'adapter facilement \u00e0 leur environnement et interlocuteur, m\u00eame si, d'une nature fac\u00e9tieuse, ils n'ont de loyaut\u00e9 qu'envers les leurs."
+    },
+    {
+      "key": "daloryans",
+      "tags": ["race", "erenthyrm"],
+      "label": "Daloryans",
+      "description": "Les Daloryans sont des cr\u00e9atures hybrides en tous genres qui vivent dans une immense for\u00eat nomm\u00e9e \"Sylve\" par les humains. Ils y vivent de fa\u00e7on le plus souvent isol\u00e9e, mais certains se regroupent, et forment de petits villages. Les Daloryan se distinguent des animaux par leur capacit\u00e9 \u00e0 avoir un langage et un semblant de civilisation. Mais tous ne sont pas tr\u00e8s am\u00e8nes avec cette id\u00e9e, et rejettent les hommes destructeurs qui s'aventurent dans les bois. Les Daloryan sont donc multiples, et ils vivent soit seuls, soit en petite communaut\u00e9s, dont certaines essaient de reproduire quelques comportements humains observ\u00e9s ou rapport\u00e9s par des alfes de passage. Ce sont avant tout des cr\u00e9atures paisibles qui n'aspirent \u00e0 rien d'autre qu'\u00e0 leur libert\u00e9 et une vide douce dans les bois. Les Daloryan ne se connaissent que deux ma\u00eetres, qu'ils choisissent de suivre ou non : le Sagittaire, et le Capricorne. Ce dernier est le plus sauvage, celui qui pr\u00f4ne l'isolement, l'individualisme, la libert\u00e9 de chacun et la protection de la Sylve contre les hommes. Le Sagittaire est bien plus ouvert. Les Daloryan souffrent d'\u00eatre consid\u00e9r\u00e9s par les humains comme des animaux bons \u00e0 \u00eatre chass\u00e9s. Une premi\u00e8re tentative de cohabitation a vu jour, dans un lieu nomm\u00e9 le Logis de Bordesylve, qui a permis d'\u00e9tablir un semblant de paix apr\u00e8s de dramatiques incidents entre ces esp\u00e8ces. Pour l'heure, la fragile entente entre les habitants du Logis est ce qui assure la tranquillit\u00e9 de ceux vivant en bordure de bois... Mais la responsabilit\u00e9 de toute homme et tout Daloryan vivant aux abords de la Sylve est engag\u00e9e pour permettre \u00e0 ce projet de r\u00e9ussir."
+    },
+    {
+      "key": "venne-femelle",
+      "tags": ["race", "erenthyrm"],
+      "label": "Venne femelle",
+      "description": "Il n'y a pas vraiment de soci\u00e9t\u00e9 Venne. Le Venne femelle n'a rien \u00e0 voir avec le Venne M\u00e2le, le Rable. Si ces derniers ressemblent \u00e0 des Gobelins moustachus qui passent leur temps \u00e0 se cacher sous de gros amas de feuilles et de v\u00e9g\u00e9tation pour cacher leur laideur, les Femelles sont dot\u00e9es d'ailes, et bien qu'elles aient aussi un long nez, elles sont beaucoup plus belles et leur visage est bariol\u00e9 de couleurs. On dit d'elles qu'elles brillent dans le noir, et c'est pour cela que les enfants Venne sont captur\u00e9s par les aventuriers qui les charment, pour s'\u00e9clairer la nuit. Les Venne femelles adorent tout ce qui brillent, et c'est donc la qu\u00eate ultime des Venne m\u00e2les que de trouver de tels objets. Heureusement, ces cr\u00e9atures sont dot\u00e9es de quelques facult\u00e9s naturelles bien pratiques pour se dissimuler et \u00e9chapper aux agresseurs. Ce sont de bons fouineurs, mais aussi de bons \u00e9couteurs. En parlant avec les arbres, ils entendent beaucoup de choses\u2026"
+    },
+    {
+      "key": "venne-male",
+      "tags": ["race", "erenthyrm"],
+      "label": "Venne m\u00e2le",
+      "description": "Il n'y a pas vraiment de soci\u00e9t\u00e9 Venne. Le Venne femelle n'a rien \u00e0 voir avec le Venne M\u00e2le, le Rable. Si ces derniers ressemblent \u00e0 des Gobelins moustachus qui passent leur temps \u00e0 se cacher sous de gros amas de feuilles et de v\u00e9g\u00e9tation pour cacher leur laideur, les Femelles sont dot\u00e9es d'ailes, et bien qu'elles aient aussi un long nez, elles sont beaucoup plus belles et leur visage est bariol\u00e9 de couleurs. On dit d'elles qu'elles brillent dans le noir, et c'est pour cela que les enfants Venne sont captur\u00e9s par les aventuriers qui les charment, pour s'\u00e9clairer la nuit. Les Venne femelles adorent tout ce qui brillent, et c'est donc la qu\u00eate ultime des Venne m\u00e2les que de trouver de tels objets. Heureusement, ces cr\u00e9atures sont dot\u00e9es de quelques facult\u00e9s naturelles bien pratiques pour se dissimuler et \u00e9chapper aux agresseurs. Ce sont de bons fouineurs, mais aussi de bons \u00e9couteurs. En parlant avec les arbres, ils entendent beaucoup de choses\u2026"
+    },
+    {
+      "key": "kuergars",
+      "tags": ["race", "erenthyrm"],
+      "label": "Kuergars",
+      "description": "Cette esp\u00e8ce vit dans les d\u00e9sert dess\u00e9ch\u00e9s et venteux du Sirdri et Vestri. Ils parcourent ces terres sur le dos de gros insectes et en se nourrissant de kroktus dont ils se font des armures, la nuit. Le jour, ils vivent souvent dans des grottes humides en compagnie de cr\u00e9atures spectrales qui semblent y prendre vie. Les Kuergars sont r\u00e9put\u00e9s assez inhospitaliers, et leur bouche est couverte d\u2019un tissu lorsque leurs grands yeux sondent votre \u00e2me."
+    },
+    {
+      "key": "graou-comisses-de-boue",
+      "tags": ["race", "erenthyrm"],
+      "label": "Graou et Comisses de Boue",
+      "description": "Ces cr\u00e9atures seraient les rejetons de la B\u00ea\u00earich\u00f4\u00f4ne, qu\u2019elle s\u00e8me dans son exode de par le monde. Certains disent qu\u2019elle est l\u2019amante de l\u2019Ours des Temp\u00eates mais c\u2019est s\u00fbrement une rumeur. Les Grao\u00fb sont trait\u00e9s en esclaves dans les terres Kays et si ils savent se d\u00e9fendre en projetant des jets de bave acide, leur carapace dorsale et leurs oreilles tombantes ne les rendent pas tr\u00e8s agiles bien qu\u2019endurants et bons \u00e0 la t\u00e2che. Ils sont donc charg\u00e9s dans les terres Kays de brasser la boue pour assurer que personne ne puisse les envahir, eux qui vivent sur des rochers en quasi l\u00e9vitation au dessus des landes boueuses des Grao\u00fb."
+    },
+    {
+      "key": "chymeyres",
+      "tags": ["race", "erenthyrm"],
+      "label": "Chymeyres",
+      "description": "Les Chymeyres ne sont pas des cr\u00e9atures vivantes. Elles sont en r\u00e9alit\u00e9 l\u2019\u00e9manation des r\u00eaves et des cauchemars des hommes, qui prennent forme. Elles d\u00e9pendent donc d\u2019un r\u00eave ou d\u2019un cauchemar, qui r\u00e9git toutes leurs actions. Elles sont \u00e9galement constamment attir\u00e9es par les sources d\u2019imagination qu\u2019elles drainent et vampirisent. Se faisant, soit elles contaminent d\u2019autres cr\u00e9atures vivantes pour servir leur cause, soit elles prennent possession d\u2019elles (ainsi, vous pourrez jouer parfois des \u201cposs\u00e9d\u00e9s\u201d.). Elles sont cependant soumises \u00e0 la puissance des Maitres Kays qui sont parvenus, pour l\u2019instant, \u00e0 les faire ob\u00e9ir \u00e0 leurs souhaits. Les chymeyres craignent \u00e9galement certaines choses. Enfin, il existe une hi\u00e9rarchie chez elle, et elles ob\u00e9iront toujours \u00e0 un Cavalier, une Reine, ou un Roi Chymeyre. Elles sont l'exacerbation des d\u00e9fauts et vices des hommes."
+    },
+    {
+      "key": "barde",
+      "tags": ["alignement"],
+      "label": "Bard\u00e9"
+    },
+    {
+      "key": "heygg",
+      "tags": ["alignement"],
+      "label": "Heygg"
+    },
+    {
+      "key": "hoygg",
+      "tags": ["alignement"],
+      "label": "Hoygg"
+    },
+    {
+      "key": "capricorne",
+      "tags": ["alignement"],
+      "label": "Capricorne"
+    },
+    {
+      "key": "sagittaire",
+      "tags": ["alignement"],
+      "label": "Sagittaire"
+    },
+    {
+      "key": "chymeyre",
+      "tags": ["alignement"],
+      "label": "Chymeyre"
+    },
+    {
+      "key": "hygg",
+      "tags": ["voie-de-vie", "ebenaum"],
+      "description": "Les lyc\u00e9ens sont envoy\u00e9s tr\u00e8s jeunes dans les \u00e9tablissements d'instructions. Dans ces diff\u00e9rents lyc\u00e9es, on leur apprend \u00e0 percevoir diff\u00e9remment le monde, ainsi que toutes les particules qui le composent. Arriver \u00e0 faire int\u00e9grer \u00e0 une personne qu'elle peut modifier le monde gr\u00e2ce \u00e0 sa volont\u00e9, qu'elle peut faire jaillir d'une braise une colonne de flamme simplement en lui demandant gentiment, c'est assez difficile, et mieux vaut s'y prendre t\u00f4t. De plus, l'apprentissage de la responsabilit\u00e9 qu'entra\u00eene la possession du pouvoir prend \u00e9norm\u00e9ment de temps. Inutile, direz-vous ? Nous en reparlerons quand tous vos champs auront myst\u00e9rieusement pris feu, un soir de f\u00eate au lyc\u00e9e...Quoi qu'il en soit, les \u00e9tudiants ma\u00eetrisent de nombreuses disciplines, allant de la fabrication de pipes en bois \u00e0 comment se fabriquer un lit confortable en milieu hostile. Il existe six grands lyc\u00e9es, chacun d\u00e9cernant un anneau de magie \u00e0 ses \u00e9tudiants dipl\u00f4m\u00e9s. Chaque lyc\u00e9e \u00e9tudie une approche diff\u00e9rente de l'Hygg. Chaque lyc\u00e9en poss\u00e8de un signe distinctif apparent sp\u00e9cifique. Il arrive qu'un lyc\u00e9en ait une formation dans plusieurs lyc\u00e9es, mais tr\u00e8s rarement au del\u00e0 de 3. Il devient alors un polymage, tandis qu'un expert dans son domaine est un archimage. Combiner les deux fait de vous l\u2019un des rares hieromages\u2026",
+      "label": "Hygg"
+    },
+    {
+      "key": "foi",
+      "tags": ["voie-de-vie", "ebenaum"],
+      "description": "La religion sur les terres prend de multiples aspects. Il existe trois Panth\u00e9on de dieux ( le premier, les dieux primaires auxquels il faut croire, et pour certains, les seuls vrais dieux, les dieux du Dommynion, en plus grand nombre mais plus faibles, et les divinit\u00e9s de Brashahmus, des humains devenus des divinit\u00e9s et des entit\u00e9s ant\u00e9rieures aux Dieux). Outre ces trois panth\u00e9on, de nombreuses religions prennent place, apportant \u00e0 leurs d\u00e9fenseurs des facult\u00e9s spirituelles uniques. Etre membre de la VdV foi, c'est s'engager pour devenir un lien entre les dieux et les croyants, et tirer parti de la foi des uns et des autres tout en puisant dans celles-ci et dans les dons des divinit\u00e9s. La foi se r\u00e9pand \u00e0 coup de sermons, mais les d\u00e9fenseurs de cette discipline doivent voyager pour la porter.",
+      "label": "Foi"
+    },
+    {
+      "key": "guilde",
+      "tags": ["voie-de-vie", "ebenaum"],
+      "description": " Les guildes sont \u00e0 la surface d'Ebenaum, et en dessous de la surface, des structures d'apprentissage de m\u00e9tiers d\u2019artisanat. Les Artisans sont fiers de leurs travaux, et poss\u00e8dent des codes d'honneur bien plus rigoureux que ceux de la ligue des boulangers du pain de Seigle de Froyeux; m\u00eame si de nombreux membres des Guildes sont en r\u00e9alit\u00e9s \u00e9duqu\u00e9s \u00e0 utiliser leur dext\u00e9rit\u00e9 pour d\u2019autres t\u00e2ches que la poterie. Faire partie d'une de ces guildes, c'est apprendre \u00e0 survivre, seul, et d\u00e9sarm\u00e9. Nombreux sont les nobles et dignitaires \u00e0 employer les services des guildes, surtout qu'ils en sont souvent issus...! Un tatouage au poignet est sens\u00e9 rappeler \u00e0 tous \u00e0 quelle Guilde chacun appartient. Ah, et j'oubliais, les dirigeants reconnaissent officieusement, et parfois officiellement, l'utilit\u00e9 publique et notoire de toutes les guildes, lorsque ladite guilde tient \u00e0 \u00eatre publiquement et notoirement connue ! Mais au vu de la pression que peut cr\u00e9er une lame aiguis\u00e9e, on ne s'en \u00e9tonnera pas. Ne sont pr\u00e9sent\u00e9es ici que les Guildes les plus \u00e0 m\u00eame d\u2019\u00eatre pr\u00e9sentes lors des aventures.",
+      "label": "Guilde"
+    },
+    {
+      "key": "escrime",
+      "tags": ["voie-de-vie", "ebenaum"],
+      "description": "L'Escrime regroupe tous les combattants, et ce allant du mercenaire au capitaine d'Armes. Chaque membre de l'Escrime suit son entra\u00eenement aupr\u00e8s d'un ma\u00eetre, soit seul, soit avec d'autres \u00e9l\u00e8ves, puis doit faire ses preuves en gagnant un d\u00e9fi.. Vous voyez le niveau quoi. Cette Voie garantit honneur, caisse de retraite exc\u00e9dentaire et vie mouvement\u00e9e. Tout le monde a besoin d'une Lame, et d'autant plus ces temps-ci. Bien que leur nom \u00e9voque des \u00e9p\u00e9es, ils se battent \u00e9videmment avec tout format d\u2019armes. Les meilleurs escrimeurs sont sans nul doute les Moustiquaires d\u2019Allastar, garde rapproch\u00e9e des Princesses-Marchandes, en armure compl\u00e8te et armes \u00e0 Feu, concurrenc\u00e9s par les Glaives des Camp\u00e9a d\u2019Or, protecteurs des fronti\u00e8res de Magdalena. On reconna\u00eet aux Rak du Nord, Omarak, Nodarak ou et de Monor de former les meilleurs Claymore, tandis que les Espadons les plus r\u00e9put\u00e9s sont celles et ceux du Danmark et d\u2019Hygaia au Sud d\u2019Isynthern. Les Cimeterre des Amoureux ou de Kr\u00e9nie sont souvent redoutables tandis que les Dagues form\u00e9es \u00e0 Haesgard ou Al-Waollan sont sans piti\u00e9.",
+      "label": "Escrime"
+    },
+    {
+      "key": "dogme",
+      "tags": ["voie-de-vie", "ebenaum"],
+      "description": "Celles et ceux qui entrent dans un Ordre d\u00e9cident de mettre leurs talents au profit d\u2019une cause. C\u2019est un mode de vie souvent solitaire et nomade qui exigent un sacrifice personnel intense. Les Membres du Dogme sont parfois tr\u00e8s li\u00e9s \u00e0 des divinit\u00e9s mais le plus souvent sont seulement des missionnaires pour une cause. On leur reconna\u00eet pour la majeure partie des dons qui m\u00e9langent diff\u00e9rents domaines et arts bien que souvent des arts martiaux et magiques. Respect\u00e9s dans la plupart du monde cultiv\u00e9, ils n\u2019en sont pas pour autant toujours c\u00e9l\u00e9br\u00e9s, car consid\u00e9r\u00e9s comme, il faut le dire, souvent tr\u00e8s relous et emp\u00eacheurs de comploter en rond.",
+      "label": "Dogme"
+    },
+    {
+      "key": "instrument",
+      "tags": ["voie-de-vie", "ebenaum"],
+      "label": "Instrument"
+    },
+    {
+      "key": "pied",
+      "tags": ["voie-de-vie", "erenthyrm"],
+      "description": "Dans un monde avec peu de science, de technologie et d\u2019\u00e9changes, les vagabonds sont utiles et meme bienvenus. Qu\u2019ils s\u2019aventurent autour du village ou \u00e0 l\u2019autre bout du monde, ils ont souvent l\u2019oeil ac\u00e9r\u00e9 et une ouverture d\u2019esprit tout aussi ac\u00e9r\u00e9e.",
+      "label": "Pied"
+    },
+    {
+      "key": "bras",
+      "tags": ["voie-de-vie", "erenthyrm"],
+      "description": "Les bras sont les muscles de la communaut\u00e9. Dans un monde sans v\u00e9ritable arm\u00e9e, la carriere militaire se r\u00e9sume \u00e0 prot\u00e9ger la communaut\u00e9 ou pourchasses les menaces. Enfin, certains peuples abritent des individus qui sont des muscles plus que des cerveaux, des animaux, presque, dress\u00e9s \u00e0 ob\u00e9ir\u2026",
+      "label": "Bras"
+    },
+    {
+      "key": "main",
+      "tags": ["voie-de-vie", "erenthyrm"],
+      "label": "Main"
+    },
+    {
+      "key": "voix",
+      "tags": ["voie-de-vie", "erenthyrm"],
+      "label": "Voix"
+    },
+    {
+      "key": "cortex",
+      "tags": ["voie-de-vie", "erenthyrm"],
+      "description": "La voie du Cortex est assez sp\u00e9ciale, puisque comme \u00e9voqu\u00e9 pr\u00e9c\u00e9demment, l\u2019imagination est une chose rare en Erenthyrm, et lorsqu\u2019elle se manifeste c\u2019est souvent sous la forme de chymeyres inqui\u00e9tantes qui n\u2019\u00e9pargnent aucune r\u00e9gion et qui lorsqu\u2019elles sont plusieurs peuvent \u00eatre des menaces tr\u00e8s s\u00e9rieuses. Pour prot\u00e9ger les communaut\u00e9s, diff\u00e9rents ordres et m\u00e9tiers se sont cr\u00e9\u00e9s. On retrouvera \u00e9galement dans le Cortex les personnages jouant avec des forces inconnues et peu ma\u00eetris\u00e9es.",
+      "label": "Cortex"
+    },
+    {
+      "key": "coeur",
+      "tags": ["voie-de-vie", "erenthyrm"],
+      "description": "La voie du coeur est celle des individus donnant d\u2019eux-m\u00eames pour prendre soin des autres et de la communaut\u00e9, en partageant leur sensibilit\u00e9 au monde, leurs connaissances et leur \u00e9nergie pour gu\u00e9rir, \u00e9lever et soigner les corps, les \u00e2mes, et les id\u00e9es. Leurs champs d\u2019expertise un peu atypiques ou qui peuvent sembler myst\u00e9rieux pour les esprits simples d\u2019Erenthyrm fait qu\u2019ils sont souvent per\u00e7us comme des parias vivants dans la communaut\u00e9 mais tout en restant un peu \u00e9tranges.",
+      "label": "Coeur"
+    },
+    {
+      "key": "lycee-annexe",
+      "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
+      "label": "Lyc\u00e9e Annexe",
+      "description": "On y forme les Sorciers et ensorceleurs. Ils étudient l’énergie vitale, dans toute sa complexité, depuis la naissance jusqu’à.. après la mort. Oui. Ce ne sont pas les gens les plus gais du monde d'Ebenaum. Leur art consiste donc à corrompre l'esprit de la cible pour l'ensorceler, la drainer ou la guérir."
+    },
+    {
+      "key": "lycee-auriginaux",
+      "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
+      "label": "Lyc\u00e9e de l'Auriginaux",
+      "description": "Ici vivent les Magiciens et Érudits. Les magiciens sont réputés pour être les plus étranges des étudiants de l’Hygg et de la voie de l’Herpe. En effet ils étudient toutes les formes alternatives de magie, de sciences et de savoir du monde. Certains disent qu'ils sont les plus inutiles des lycéens, d'autres les plus puissants. Ils sont souvent très érudits sur le monde, alchimistes, polyvalents, sachant détecter et identifier la magie et connaissent quelques secrets magiques sur des phénomènes dont les autres n'ont pas idée."
+    },
+    {
+      "key": "lycee-majeur",
+      "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
+      "label": "Lyc\u00e9e Majeur",
+      "description": "Les plus farfelus et expérimentateurs des membres d'Hygg. Bien qu’eux diraient qu’ils sont les plus “scientifiques”. Ils étudient principalement l’element magique pur et sa capacité à altérer le monde. Les ingénieurs et les Mages sont issus de ce lycée, qui est le plus répandu et le plus influent du monde. Ils créent à partir de rien et explorent souvent les horizons des possibles dans la téléportation, l'illusion,... Mais leur magie est difficile, fragile et instable."
+    },
+    {
+      "key": "lycee-pouvoir",
+      "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
+      "label": "Lyc\u00e9e du Pouvoir",
+      "description": "Ce lycée enseigne comment altérer la nature d’un objet en lui inscrivant une signature magique. En d'autres termes, ils changent les propriétés d'un objet de façon plus ou moins pérenne, et on les nomme ainsi enchanteurs. Ils sont souvent également doués en sciences et alchimie."
+    },
+    {
+      "key": "lycee-incandescent",
+      "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
+      "label": "Lyc\u00e9e Incandescent",
+      "description": "Les élémentalistes apprennent à combiner les éléments et la magie pour obtenir un maximum d’effets avec un minimum d’efforts. Ainsi ils sont particulièrement efficaces dans l’action, mais leur magie demande l’utilisation des éléments existants qu'ils amplifient, déforment, altèrent, déplacent…"
+    },
+    {
+      "key": "lycee-feold",
+      "tags": ["voie-de-vie", "hygg", "lycee", "ebenaum"],
+      "label": "Lyc\u00e9e de Feold",
+      "description": "Ce lycée enseigne la dissipation ou la concentration de la magie manipulée ou non. Ils peuvent aider à la concentration d’un autre sortilège ou au contraire à sa dissipation. Sorts : brûlure de magie, dissipation de sort, regain de magie, détection magique… Avec le temps, d'autres disciplines magiques virent le jour et les lycées se multiplièrent ou au contraire fusionnèrent. Avec un succès relatif. Tout le monde se souvient d'Ernestin le magicien illusioniste et ses illusions de sorts de guérison. Il était pourtant plein de volonté. Plus personne ne veut s'en souvenir. Archimages : Melfen ( fondateur des Lycées, le plus puissant, tyran assassiné ) Ismaël ( vieil archimage encore vivant, bienveillant) Myrabel ( Hiéromage/ druide détraqué , talentueux mais égoïste et excentrique) Archichancelier Alacave ( actuel chancelier du lycée Majeur) Pepin Depom (Archimagicien qui sauva les degons de l'extinction en créant le service des gargouilles volantes.)"
+    },
+    {
+      "key": "temple-brame-croc",
+      "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
+      "label": "Temple de Br\u00e2me/du Croc",
+      "description": "Un mouvement s'imprégnant du comportement animal, que les croyants considèrent comme un dieu. Beaucoup se retrouvent à se lécher l'entrejambe sans comprendre pourquoi. D'autres découvrent la faculté de voler, plus ou moins avec succès. Ceux qui ont le plus de réussite sont les Shahmans qui font fusion avec les fauves...et leur odeur."
+    },
+    {
+      "key": "temple-cener",
+      "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
+      "label": "Temple de Cener",
+      "description": "Contrairement au temple précédent, Cener puise sa foi dans la nature, et les forces élémentaires. Point question de Dieux, Fi des destinées ! Tout réside dans GayaG et ManaM, les amants séparés de la Nature et la magie. Les druides, adeptes de Cener, sont de puissants ritualistes, mais aussi des herboristes et médecins parfois hasardeux, mais qui ont le mérite d'essayer. Certifié bio."
+    },
+    {
+      "key": "temple-vraie-foi",
+      "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
+      "label": "Temple de la Vraie Foi",
+      "description": "Les Moines et croisés de la Vraie Foi n’ont qu’une croyance : la force des êtres pensants. Ils réfutent tout besoin de divinités dans leurs vies, disant que c’est déjà assez bien compliqué comme ça. Les Moines ont une foi en eux-mêmes à toute épreuve ce qui en fait de courageux adversaires n’ayant aucune peur et une grande maîtrise d’eux-mêmes. Ils sont également particulièrement résistants à quiconque tente de les influencer. Cet ordre aux accents parfois très bienveillants, parfois très martiaux et intransigeants suscite beaucoup de polémiques dans un monde dominé par des Dieux bien tangibles. Leur symbole est un X qui représente l’être humanoïde car leur leader fut écartelé par des inquisiteurs enragés. Tout ce qui n’est pas humain relève de l’aberration pour cette église."
+    },
+    {
+      "key": "temple-bofrist-dommynion-brashahmus",
+      "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
+      "label": "Temple du Bofrist/Dommynion/Brashahmus",
+      "description": "Ces temples correspondent aux plus répandus sur la croûte d'Ebenaum. Chaque dieu possède un temple, mais il invite volontiers dans ce dernier un voisin. C'est un peu du sponsoring, pour inciter les croyants à prendre un forfait “Divin”. Les pélerins miséreux et fervents et souvent avatars des dieux, les prêtres prêchants et les inquisiteurs inquiétants étudient au sein de ces églises selon leur dieu, pour accéder au pouvoir de la foi. Une guerre oppose depuis de très nombreuses années les dieux du Bofrist à ceux du Dommynion, qu'ils veulent raser. Les dieux du troisième panthéon, les plus puissants, car ils ne dépendent de personne pour exister, sont peu nombreux mais s'accordent presque tous autour de Shahylmarils. Nombreuses sont les guerres de religion, et elles dépassent les frontières de peuples, de politique et de races. A savoir que le peuple le plus croyant est celui des Nelwyns, qui organise régulièrement des croisades de vacances contre les Zylwens."
+    },
+    {
+      "key": "temple-ombreline",
+      "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
+      "label": "Temple d'Ombreline",
+      "description": "Associé au 3e Panthéon, ce temple ne croit pas dans l’omnipotence des divinités mais dans l’harmonie de l’univers et la présence d’entités antérieures aux autres panthéons. Ils pensent que ce sont les histoires qui forgent le monde des hommes qui doit cependant se lier au monde naturel et ses protecteurs, composites. Ils croient dans les entités du Destin, Erole - les Vents, Neïs - la tisseuse de destinée et reine des Abysses, Degonebenor - le Dragon du ciel; L’Ombre - qui chasse la nuit quand l’oeil du cyclope  scrute le monde. Ils reconnaissent aussi Nycanoc la preneuse de souffle et Jaime le randonneur de mondes. Leurs membres les plus nombreux sont celles et ceux qui dirigent et animent la confrérie des Murmures, une société secrete réputée pour être présente partout et rassembler ses membres autour des histoires, des arts et du savoir, sous le patronage d’Erole et la papesse Alizée d’Ebrume et sa soeur Ombreline."
+    },
+    {
+      "key": "temple-kay",
+      "tags": ["voie-de-vie", "foi", "temple", "ebenaum"],
+      "label": "Temple Kay",
+      "description": "Apparus depuis l'Hembar, les Kay arrivèrent à bord d'une Arche volante dans le monde d'Ebenaum. Arche qui s'écrasa après qu'un paysan ait lancé adroitement une fourche dans sa direction, dit-on. Les Kay possèdent des dons parapsychologiques. Les Moines, chevaliers et maîtres Kay possèdent en plus d'une polyvalence complète la possibilité d’altérer l’esprit de leurs cibles. Ce temple est assez hermétique au monde extérieur."
+    },
+    {
+      "key": "art-apogee",
+      "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
+      "label": "Art de l'Apog\u00e9e",
+      "description": "Spécialisés dans la dérobade, le voleur et les roublards sont capables de voler des informations, de se dissimuler ou d'abréger la vie de personnes un peu gênantes. Arrangez vous pour ne pas en être.. Faites vous tout petit petit, et dispensez généreusement votre argent…."
+    },
+    {
+      "key": "art-solstice",
+      "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
+      "label": "Art du Solstice",
+      "description": "Traquer et piéger une proie est sa spécialité, et sa capacité à s'adapter à tous les milieux en fait un genre de personnes, qui si vous savez qu'elle vous cherche, vous provoquera de très fortes migraines, et une tendance à avoir peur de chaque coin de rue un peu ombragé. Chasseurs."
+    },
+    {
+      "key": "art-acme",
+      "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
+      "label": "Art de l'Acm\u00e9",
+      "description": "Les courtisans sont ces personnages étranges, qui apparaissent, disparaissent, en même temps que vos bourses se vident…quelles qu'elles soient. Les courtisans sont des nobles instruits aux arts de l'empoisonnement, du duel, du charisme et de quelques autres fioritures permettant de vivre longtemps dans le même corps qui font souvent office de diplomate espion. Beaucoup sont instruits des arts."
+    },
+    {
+      "key": "art-equinoxe",
+      "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
+      "label": "Art de l'Equinoxe",
+      "description": "Le rôdeur ne cherche ni affront, ni profit. Il observe et veille. C'est pourtant un combattant émérite, et un forestier alerte. Apparemment et je sais ce que je dis, on note une forte tendance chez eux à abriter des bâtards royaux. Mis à part cela, ils sont polyvalents et si vous pouvez supporter un mec qui bouffe des graines et sent le bouc, feront de bons compagnons."
+    },
+    {
+      "key": "art-eclispe",
+      "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
+      "label": "Art de l'Eclipse",
+      "description": "Noir...Dague...poison...Pas feutré... Y a quelque chose qui a bougé dans l’ombre, là, non? Reflet de lune. Chuintement d’une lame. Shclok la gorge, psssssssst la fontaine de sang. Tout en élégance et en finesse...Que dire d'un assassin qu'on ne sait déjà? Ah si ! ils respectent les codes de leur Art et de la Guilde. C'est aussi la maison des Espions."
+    },
+    {
+      "key": "art-perigee",
+      "tags": ["voie-de-vie", "guilde", "art", "ebenaum"],
+      "label": "Art du P\u00e9rig\u00e9e",
+      "description": "La confrérie des Murmures a des membres de par le monde entier. Mais vous ne le savez pas. Ils consignent les secrets, les savoirs, et on dit même qu’ils ont des capacités psychiques hors du commun car ils sont liés au vent. Mais c’est seulement une rumeur, vous en conviendrez. Ils officient en tant que bardes, mendiants et conteurs et vont de cité en cité porter leurs histoires et en récolter d’autres. Certaines professions ne se réunissent jamais tandis que d'autres passent la majorité de leur temps à rédiger des rapports d'une dizaine de pages juste pour pouvoir emprunter un crochet. La loi fondamentale des Guildes est la DISCRETION. Et ceux qui ne sont pas assez discrets, elles les aident à l'être...C'est fou ce que quelqu'un avec du ciment au pied au fond d'un fleuve est discret. En ces temps troubles, une chose reste sûre, le travail ne manque pas pour les Artisans ! Les maîtres de Guilde les plus célèbres ont des alias connus, comme le courtisan Orange Poulain ou l’assassin Mac’h Babelle mais la plupart se font discrets. Ils sont souvent appréciés du peuple car représentent un contre-pouvoir à la force des armées des dirigeants. Les plus prestigieuses Guildes sont chez les Aesirs comme celle de Gal Suintlam ou Gal Galleum. Mais chaque grande cité à ses guildes."
+    },
+    {
+      "key": "lame-claymore",
+      "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
+      "label": "Lame du Claymore",
+      "description": "Le Claymore est souvent un paysan devenu guerrier. Ce sont des piliers dans un combat, endurants et puissants. Moins sauvages que les berserks. Disons qu'ils cuisent la viande avant de la manger. Les Claymores se moquent des tirs ennemis, et leur courage est exemplaire. Un Claymore doit forger sa propre lame pour gagner ce titre."
+    },
+    {
+      "key": "lame-fleuret",
+      "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
+      "label": "Lame du Fleuret",
+      "description": " L'escrimeur rentabilise le fait d'être peu endurant par une maîtrise des arts de l'escrime inégalée. Aucun homme ne manie aussi bien les armes qu'eux et les techniques de combat. Les lames du Fleuret doivent atteindre un certain score dans des compétitions officielles pour obtenir le titre. Les Fleureurs sont donc en nombre limité et ne se cachent souvent pas de le faire savoir."
+    },
+    {
+      "key": "lame-espadon",
+      "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
+      "label": "Lame d'Espadon",
+      "description": "Les espadons sont ceux qui plus tard formeront les Gardes et Soldats des armées. Un Espadon n'abandonne jamais sa position. Ce sont les rocs sur lesquels les armes viennent se briser… Ou, selon certains, ces 'connards de coffre-fort'. Les Gardes reçoivent leur épée d’un commanditaire, et ils ne doivent jamais en être désarmés ou échouer à leur protection, sinon ils perdent leur statut jusqu’à trouver un nouveau commanditaire."
+    },
+    {
+      "key": "lame-sabre",
+      "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
+      "label": "Lame de Sabre",
+      "description": "Le duelliste est un combattant spécialisé dans le combat en duel. Capable de se sortir de presque n'importe quelle situation, et pouvant officier comme tueur ou garde du corps. Méfiez vous toujours d'ailleurs de votre garde du corps. Une dague dans la botte et un pistolet dans la manche. Les Dagues doivent assassiner une autre Dague en duel pour obtenir ce titre."
+    },
+    {
+      "key": "lame-glaive",
+      "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
+      "label": "Lame du Glaive",
+      "description": "Le guerrier en est l'aventurier le plus fréquent. Combattant polyvalent entre endurance, courage, habileté, il a des bases solides indispensables. C'est toujours utile de se trimbaler avec quelqu'un arborant une balafre ou deux, surtout quand on est mage. Les mercenaires passent également par cette voie. Plus entreprenants que leurs collègues de l'aiguille à tricoter et de l'espadon, Les Glaive Tranchent, taillent, et courent en faisant feu de toutes leurs armes et compétences car très polyvalents ! Un Glaive doit recevoir ses armes qu’il porte (souvent 3) d’autres Escrimeurs qui lui offrent en reconnaissance."
+    },
+    {
+      "key": "lame-cimeterre",
+      "tags": ["voie-de-vie", "escrime", "lame", "ebenaum"],
+      "label": "Lame du Cimeterre",
+      "description": "Un guerrier du cimeterre est souvent appelé Danselame. Expert de techniques exotiques mêlant lutte au corps et d’armes en tous genres, il est maître de son style de combat unique. D’ailleurs, Pour conserver ce titre il doit posséder une arme unique et doit éliminer celles et ceux qui voudraient le copier ou leur offrir son arme."
+    },
+    {
+      "key": "ordre-menestrels",
+      "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
+      "label": "Ordre des M\u00e9nestrels",
+      "description": "Les Ménestrels sont un ordre neutre et indépendant qui est chargé d’assister à rendre la justice et protéger les populations reculées loin des cités et villes du monde. Ainsi, tous les états signataires (ils sont nombreux) autorisent les Ménestrels à agir en tant que Shériff nomades. Pour accomplir leurs missions, les Ménestrels suivent un entraînement rigoureux qui leur enseigne des arts du combat magique et une culture vaste du monde, d’où leur nom. Ils ont donc autorité pour rendre la justice sur une terre qui n’en a pas ou avec accord du souverain."
+    },
+    {
+      "key": "ordre-shaher",
+      "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
+      "label": "Ordre des Chevaliers Loups, les Shaher",
+      "description": "Issus du Shahylmar, ces hommes-loups sont des enquêteurs hors pairs qui à l’instar des Ménestrels parcourent le monde et sont généralement acceptés bon gré mal gré dans les provinces pour ne pas froisser leur puissant Empereur.  Ils traquent le chaos, les anomalies et mettent leurs talents de rôdeurs et de puissants guerriers au service de la lutte contre Soak et ses entités."
+    },
+    {
+      "key": "ordre-paladins",
+      "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
+      "label": "Ordre des Paladins",
+      "description": "A chaque paladin son temple, royaume ou sa religion ! Les Paladins puisent dans leur propre foi pour combiner à leurs talents guerriers des aides divines. Mais contrairement aux membres des Temples ils ne sont pas trés doués pour les partager avec les autres. Pas ouf les Palouf. Les Chevaliers d’Hoygg, semeurs de chaos quelque soit le corps qu’ils occupent, les Oblivions, des Djinns errants, etc, etc… Les deux plus grands ordres dont celui du Bofrist, le premier Panthéon, et du Dommynion, le second Panthéon."
+    },
+    {
+      "key": "ordre-chevaliers-kays",
+      "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
+      "label": "Ordre des chevaliers Kays",
+      "description": "Apparus depuis l'Hembar, les Kay arrivèrent à bord d'une Arche volante dans le monde d'Ebenaum. Arche qui s'écrasa après qu'un paysan ait lancé adroitement une fourche dans sa direction, dit-on. Les Kay possèdent des dons parapsychologiques. Les Chevaliers Kays et maîtres Kay possèdent en plus d'une polyvalence complète la possibilité d’altérer l’esprit de leurs cibles. Choisir cette voie en Dogme plutôt qu’en ordre mettra l’accent sur vos talents polyvalents et guerriers."
+    },
+    {
+      "key": "ordre-brisesorts",
+      "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
+      "label": "Ordre des Brisesorts",
+      "description": "L’ordre de Feold rassemble ici des guerriers spécialisés dans la lutte contre la magie et les mages. Souvent équipés des précieuses pierres d’anti-magie, les brisesorts sont également de bons combattants, et on ne compte plus les sorciers se marrant en préparant une boule de feu à lancer, en direction d'un mec en armure en train de les charger. Il paraît que leurs têtes rigolent toujours. Leurs corps beaucoup moins."
+    },
+    {
+      "key": "ordre-herauts-aux-plumeaux",
+      "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
+      "label": "Ordre des Herauts aux Plumeaux",
+      "description": "Cet ordre un peu exotique forme des individus à devenir des hérauts temporaires. Ces messagers permettent donc des pourparlers par exemple entre des souverains ou n'importe quelle entité. Reconnus d'utilité publique puisqu'ils permettent de limiter le nombre d’ambassadeurs décapités sur un coup de colère et leur assure une certaine protection, ces voyageurs qui portent des plumes très visibles pour éviter les balles perdues sont donc garants de la neutralité et l'exactitude de leurs messages et intentions. Souvent formés à quelques arts martiaux pour protéger leur cargaisons et ayant plus d'un tour dans leur besace, on les dit protégés par Erole et si on ose pas les soupçonner en public, des rumeurs disent qu'ils ont souvent un double rôle et réunissent de par le monde les esprits rebelles, apportant leurs talents à la cause des laissés pour compte. Certains ont aussi des connaissances dans des domaines particuliers de science comme la médecine et leur statut de Plumeaux leur permet d’agir sous bannière neutre partout."
+    },
+    {
+      "key": "ordre-croisees",
+      "tags": ["voie-de-vie", "dogme", "ordre", "ebenaum"],
+      "label": "Ordre des Crois\u00e9es",
+      "description": "Les chevaliers de cet ordre sont considérés comme les protecteurs des faibles, quels qu’ils soient, les accomplisseurs de destinée et les surveillants des Croisées des mondes et des chemins. Courageux, insouciants et équipés d'armes hétéroclites ou très classiques, on les reconnaît à leur panache démodé et leurs valeurs fantaisistes."
+    },
+    {
+      "key": "aurore",
+      "tags": ["voie-de-vie", "instrument", "ebenaum"],
+      "label": "Aurore",
+      "description": "On retrouve dans cette Voie de Vie les travailleurs qui forgent et modèlent le monde pour nourrir, construire ou équiper les peuples. Ils sont souvent très habiles de leurs mains pour construire et réparer toutes sortes de choses ainsi que pour repérer les matières premières intéressantes."
+    },
+    {
+      "key": "bourse",
+      "tags": ["voie-de-vie", "instrument", "ebenaum"],
+      "label": "Bourse",
+      "description": "C’est la voie des négociants en tous genres. Aucun commerce n’est impossible en Ebenaum, qu'il s’agisse d'armes, de magie, de produits exotiques ou d’esclaves. Certains vendent même de la neige. Les Boursiers ont des compétences variées pour se procurer, identifier et marchander tout ce qui peut l'être. Leur métier leur confère souvent une certaine immunité diplomatique. Qui oserait frapper un tavernier ?"
+    },
+    {
+      "key": "cordes",
+      "tags": ["voie-de-vie", "instrument", "ebenaum"],
+      "label": "Cordes",
+      "description": "L’administration est nécessaire dans n’importe quel monde, les Cordeleurs sont les gardiens des lois des pièces et des biens. Ils dressent les ordres et soumettent les textes, régulent les pratiques et mènent les opérations. Ils ont un œil sur tout, collectent les taxes, enregistrent les évènements et gèrent les archives. Bref, des littéraires rigides et journalistes, la pire espèce."
+    },
+    {
+      "key": "jongleurs",
+      "tags": ["voie-de-vie", "instrument", "ebenaum"],
+      "label": "Jongleurs",
+      "description": "Erudits, ce sont eux qui jonglent avec les langages et les savoirs. Souvent enseignants, ils sont versés dans toutes sortes de champs scientifiques, de domaines cocasses ou de recherches étranges. Ils sont connus pour voyager et partager leurs savoirs dans de nombreux domaines comme la médecine, la zoologie, etc.."
+    },
+    {
+      "key": "instruments",
+      "tags": ["voie-de-vie", "instrument", "ebenaum"],
+      "label": "Instruments",
+      "description": "Ces aventuriers itinérants souvent nommés Balladins sont des voyageurs ayant des arts divers et multiples mais souvent exotiques, ce qui les rend assez inclassifiables. Ayant des histoires et savoirs à partager, les Balladins intriguent, amusent, effraient. C’est aussi la voie des itinérants et chercheurs d’aventures."
+    },
+    {
+      "key": "kessece",
+      "tags": ["voie-de-vie", "instrument", "ebenaum"],
+      "label": "Kessecé",
+      "description": "Celles et ceux qu'on ne sait pas bien où foutre ailleurs. Voilà. Ils saoulent tout le monde à ne pas gentiment rentrer dans les cases et n'ont pas d'amis pour la peine. Voilà. C’est aussi là que l’on calera les multi-classés de l'extrême. A une époque, c’est là que figuraient par exemple les esclavagistes Alphens, forts sympathiques mais forts bizarres."
+    },
+    {
+      "key": "voyageurie",
+      "tags": ["voie-de-vie", "pied", "erenthyrm"],
+      "label": "Voyageurie",
+      "description": "Voyageurie connaît bien le monde, ou, du moins, mieux que les autres. Il sait souvent quelles plantes choisir et quelques astuces pour survivre dans un monde doué de sociétés et si… hétérogènes.  Ils sont essentiels au fonctionnement de la civilisation, puisque les voyages sont si rares"
+    },
+    {
+      "key": "murmureurie",
+      "tags": ["voie-de-vie", "pied", "erenthyrm"],
+      "label": "Murmureurie",
+      "description": "Les Murmureurs sont une confrérie, l’une des rares en Erenthyrm, composée de personnalités ayant la capacité d’enregistrer les connaissances du monde. Souvent amenés à voyager, rencontrer des étrangers et échanger avec eux, ils savent être discrets et diplomates. On les dit également proche des Vents qui les aideraient dans leurs tâches. Ils forment un réseau un peu secret mais d’entraide solide."
+    },
+    {
+      "key": "veilleurie",
+      "tags": ["voie-de-vie", "pied", "erenthyrm"],
+      "label": "Veilleurie",
+      "description": "Ces personnages sont chargés de veiller aux environs de la communauté. Ils ne s’en vont que rarement loin, alors ils apprennent à bien repérer un lieu et ses points faibles. Ils savent souvent se faire très discret afin d’accomplir au mieux cette mission. Ils sont également envoyés récolter des ressources intéressantes dans les environs comme de la nourriture et autres."
+    },
+    {
+      "key": "protecteurie",
+      "tags": ["voie-de-vie", "bras", "erenthyrm"],
+      "label": "Protecteurie",
+      "description": "Le rôle de garde ou protecteur d’une communauté est le plus souvent bien calme, surtout en l’absence de chymeyres à gérer. Pourtant, on apprécie toujours avoir protecteurie près de soi."
+    },
+    {
+      "key": "chasseurie",
+      "tags": ["voie-de-vie", "bras", "erenthyrm"],
+      "label": "Chasseurie",
+      "description": "Ces guerriers sont spécialisés dans l’assaut et la capture d’une cible particulière. Ils se focalisent sur elle et peuvent la traquer des jours durant. Ce sont également des personnes capables de récolter des denrées utiles à la communauté et s’aventurer sans crainte en territoire inconnu."
+    },
+    {
+      "key": "sauvagerie",
+      "tags": ["voie-de-vie", "bras", "erenthyrm"],
+      "label": "Sauvagerie",
+      "description": "Certains habitants du monde d’Erenthyrm ne sont simplement pas faits pour la vie en société. Mais comme la nature est parfois généreuse avec eux, la société a quand même très envie de garder ces forces de la nature sous le coude. Les Sauvagerie apprennent à user de leurs dons naturels pour tirer profit de leurs aptitudes sauvages, au combat mais également en prévention des conflits."
+    },
+    {
+      "key": "artisanie",
+      "tags": ["voie-de-vie", "main", "erenthyrm"],
+      "label": "Artisanie",
+      "description": "ce sont les responsables de créer toutes sortes d’objets. Ils savent fabriquer, réparer, améliorer, saboter … pas besoin d’avoir les meilleures technologies pour savoir les péter."
+    },
+    {
+      "key": "tisanerie",
+      "tags": ["voie-de-vie", "main", "erenthyrm"],
+      "label": "Tisanerie",
+      "description": "Proche de l’Artisanie, le Tisanerie se spécialise cependant dans la transformation des plantes, des éléments naturels et une approche plus scientifique que technologique du monde. Ils sont souvent doués pour faire également pousser les plantes nécessaires à leur art."
+    },
+    {
+      "key": "dresseurie",
+      "tags": ["voie-de-vie", "main", "erenthyrm"],
+      "label": "Dresseurie",
+      "description": "Ces individus ont l’expertise dans le domaine de l’apprivoisement et le dressage de la faune ( voire de la Flore) d’Erenthyrm, que cela soit à des fins d’esclavage, d’exploitation ou de hobby malsain.. Les Dresseurs sont souvent liés aux Ven qui leurs sont bien utiles car ces petites créatures brillantes sont des lumières dans l’obscurité et des remparts contre la magie des chymeyres."
+    },
+    {
+      "key": "meneurie",
+      "tags": ["voie-de-vie", "voix", "erenthyrm"],
+      "label": "Meneurie",
+      "description": "Ce sont les dirigeants des communautés qui montrent le plus de facilités à motiver, coordonner et organiser les tâches de la communauté tout en gérant les différentes personnalités. être Meunerie demande souvent un mélange de compétences de support moral, d’habileté physique et de force mentale. Les Meunerie sont souvent aussi les hérauts des Guides spirituels d’une espèce (comme le Sagittaire…) et ont ainsi des compétences spécifiques."
+    },
+    {
+      "key": "conteurie",
+      "tags": ["voie-de-vie", "voix", "erenthyrm"],
+      "label": "Conteurie",
+      "description": "Ils sont bien rares en Erenthyrm, celles et ceux qui sont capables de comprendre et de partager des histoires. Les Conteurie sont regardés comme des phénomènes étranges, bien que pourtant on ressente une fascination pour leurs histoires et leurs tours de passe-passe.  Ils sont experts des langages, ce qui est assez rare pour être souligné dans leur monde."
+    },
+    {
+      "key": "troceurie",
+      "tags": ["voie-de-vie", "voix", "erenthyrm"],
+      "label": "Troceurie",
+      "description": "Ils emmènent des objets de communauté en communauté et les échangent contre d’autres qui leur plaisent davantage. Les Troceurie ont certainement dans leurs musettes des trésors de tout Erenthyrm et ils savent aussi souvent comment en trouver d’autres, les identifier ou les améliorer."
+    },
+    {
+      "key": "maitre-kay-sumer-chymeyriste",
+      "tags": ["voie-de-vie", "cortex", "erenthyrm"],
+      "label": "Maître Kay / Maître Sumer / Maître Chymeyriste",
+      "description": "Les Maîtres sont issus des trois ordres principaux qui forment à la lutte contre les Chymeyres. Les Kays sont le plus répandus surtout dans l’Ouest du monde. Ces guerriers possèdent des talents pour utiliser et absorber l’énergie des Chymeyres et la retourner contre elles, tout en ayant par ailleurs une solide formation dans le maniement des armes pour se défendre lorsqu’elles prennent corps ainsi que diverses connaissances sur le monde qui les aident dans leurs voyages. Certains Kays dissidents ont une approche différente de leurs compétences et se sont éloignés de l’ordre principal. Les Maître de Sumer vivent surtout à l’Est, près du royaume des Chymeyres, et contrairement aux Kays ils s’entraînent à devenir des remparts physiques contre elle en contrôlant leur mental et leur esprit. Ainsi, leur corps devient une arme contre les Chymeyres et ils s’en servent pour les anéantir. Enfin Les Chymeyristes ne font partie d’aucun des deux ordres car dans des communautés délaissées par ces derniers, mais ils se sont forgés leurs propres talents, armes et pièges pour résister à ces créatures de l’ombre."
+    },
+    {
+      "key": "grimerie",
+      "tags": ["voie-de-vie", "cortex", "erenthyrm"],
+      "label": "Grimerie",
+      "description": " Il existe de par le monde d’Erenthyrm quelques personnages particulièrement haut en couleurs qui auraient selon les racontars des talents magiques uniques. Ils sont peu nombreux et rarement vus, mais sont craints et respectés de tous. L’une d’entre eux est la puissante Bavmorga. Il arrive que certains de ces personnages prennent des apprentis ou que des individus s’intéressent beaucoup à leurs connaissances et leur pratique. On les appelle Grimerie et on les regarde souvent avec une désapprobation intense, car il n’est jamais bien vu de jouer avec le feu."
+    },
+    {
+      "key": "cortex-chymeyre",
+      "tags": ["voie-de-vie", "cortex", "erenthyrm"],
+      "label": "Chymeyre",
+      "description": "Well. Et oui, vous pouvez également décider d’incarner une chymeyre. Il n’en sera pas dit trop sur la nature cauchemardesque des Chymeyres, seulement que ces entités sont mues par l’appétit des esprits, et, pour cela, peuvent passer de leur forme éthérée à la possession des corps d’esprits plus faibles. Ainsi, certaines chymeyres corrompent le corps de leurs victimes qu’elles contrôlent pour passer inaperçues dans une communauté. Bien que perçues comme des prédateurs dangereuses, les Chymeyres parviennent ainsi à saper le chaos, trouver des proies et assouvir leurs instincts. Elles ont pour cela l’appui de capacités hors-normes, que certains appelleraient s’ils en comprenaient le sens “magie”."
+    },
+    {
+      "key": "danseurie-saisons",
+      "tags": ["voie-de-vie", "coeur", "erenthyrm"],
+      "label": "Danseurie des Saisons",
+      "description": "Les Saisons sont, en Erenthyrm, portées par les Vents, des entités éthérées qui suivent certains individus dont ils sont épris que l’on appelle Amants. Pour s’assurer que chaque territoire soit visité régulièrement par les saisons, les communautés acceuillent et célèbrent ces dernières avec moultes efforts. Les responsables de la connaissance des Saisons, de leurs rituels et de leurs célébrations sont les Danseurie, qui sont respectés par la communauté comme des prêtres."
+    },
+    {
+      "key": "embaumerie",
+      "tags": ["voie-de-vie", "coeur", "erenthyrm"],
+      "label": "Embaumerie",
+      "description": "Ce sont eux qui prennent soins des corps meurtris. S’appuyant sur les plantes et les remèdes, les Embaumerie accompagnent les êtres vivants de la naissance à, parfois, l’après-mort. Craints et respectés, ils manipulent les essences vitales comme on jonglerait avec un coeur palpitant. Oui, nobody does that."
+    },
+    {
+      "key": "eveilleurie",
+      "tags": ["voie-de-vie", "coeur", "erenthyrm"],
+      "label": "Eveilleurie",
+      "description": "L’Eveilleurie passe pour un médecin de l’esprit, là où l’embaumeur est un médecin du corps. C’est le spécialiste de cette chose étrange que les habitants d’Erenthyrm comprennent mal et que l’on appelle rêves ou cauchemars. Ils sont également souvent perçus comme des sages donneurs de conseils et capables d’encourager les âmes."
+    },
+    {
+      "key": "alchimie",
+      "tags": ["skill"],
+      "label": "Alchimie",
+      "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
+    },
+    {
+      "key": "alchimie-novice",
+      "tags": ["skill:alchimie", "level:1", "cost:1"],
+      "label": "Alchimie (Novice)",
+      "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
+    },
+    {
+      "key": "alchimie-expert",
+      "tags": ["skill:alchimie", "level:2", "cost:1"],
+      "label": "Alchimie (Expert)",
+      "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
+    },
+    {
+      "key": "alchimie-maitre",
+      "tags": ["skill:alchimie", "level:3", "cost:1"],
+      "label": "Alchimie (Maître)",
+      "description": "Vous permet par des manipulations scientifiques à partir de matières brutes de créer de nouvelles substances ou des objets rares, magiques et puissants."
+    },
+    {
+      "key": "herboriste",
+      "tags": ["skill"],
+      "label": "Herboriste",
+      "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
+    },
+    {
+      "key": "herboriste-novice",
+      "tags": ["skill:herboriste", "level:1", "cost:1"],
+      "label": "Herboriste (Novice)",
+      "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
+    },
+    {
+      "key": "herboriste-expert",
+      "tags": ["skill:herboriste", "level:2", "cost:1"],
+      "label": "Herboriste (Expert)",
+      "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
+    },
+    {
+      "key": "herboriste-maitre",
+      "tags": ["skill:herboriste", "level:3", "cost:1"],
+      "label": "Herboriste (Maître)",
+      "description": "Vous savez planter et préparer des plantes de diverses manières afin de créer des substances aux capacités surprenantes."
+    },
+    {
+      "key": "bricolage",
+      "tags": ["skill"],
+      "label": "Bricolage",
+      "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
+    },
+    {
+      "key": "bricolage-novice",
+      "tags": ["skill:bricolage", "level:1", "cost:1"],
+      "label": "Bricolage (Novice)",
+      "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
+    },
+    {
+      "key": "bricolage-expert",
+      "tags": ["skill:bricolage", "level:2", "cost:1"],
+      "label": "Bricolage (Expert)",
+      "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
+    },
+    {
+      "key": "bricolage-maitre",
+      "tags": ["skill:bricolage", "level:3", "cost:1"],
+      "label": "Bricolage (Maître)",
+      "description": "Vous permet de réparer, saboter, concevoir ou améliorer des objets et notamment des armes et armures."
+    },
+    {
+      "key": "sorts",
+      "tags": ["skill"],
+      "label": "Sorts",
+      "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
+    },
+    {
+      "key": "sorts-novice",
+      "tags": ["skill:sorts", "level:1", "cost:1"],
+      "label": "Sorts (Novice)",
+      "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
+    },
+    {
+      "key": "sorts-expert",
+      "tags": ["skill:sorts", "level:2", "cost:1"],
+      "label": "Sorts (Expert)",
+      "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
+    },
+    {
+      "key": "sorts-maitre",
+      "tags": ["skill:sorts", "level:3", "cost:1"],
+      "label": "Sorts (Maître)",
+      "description": "Vous donne la capacité de sacrifier l’un de vos points de vie pour lancer un sort basique (les compétences avec une astérisque ci-dessous) au contact / à distance / général en déclamant un vers. Vous ajoutez l’effet “magique” à la compétence, auquel peuvent résister certaines personnes."
+    },
+    {
+      "key": "identification-objet",
+      "tags": [
+        "skill",
+        "skill:identification-objet",
+        "level:1",
+        "cost:1",
+        "available-for-sorcerer"
+      ],
+      "label": "Identification d’objets",
+      "description": "vous pouvez lire l’étiquette d’un objet et consulter le marchand pour en savoir plus sur l’objet. Vous savez également détecter des contrefaçons et en fabriquer (voir l’orga Marchand)."
+    },
+    {
+      "key": "skill-menestrel",
+      "tags": ["skill", "require:ordre-menestrels"],
+      "label": "Ménestrels",
+      "description": "Des compétences spécifiques à votre Voie de vie ou votre ordre."
+    },
+    {
+      "key": "skill-menestrel-novice",
+      "tags": ["skill:skill-menestrel", "level:1", "cost:1"],
+      "label": "Ménestrels (Novice)",
+      "description": "2 compétences spécifiques à votre Voie de vie ou votre ordre."
+    },
+    {
+      "key": "skill-menestrel-expert",
+      "tags": ["skill:skill-menestrel", "level:2", "cost:1"],
+      "label": "Ménestrels (Expert)",
+      "description": "4 compétences spécifiques à votre Voie de vie ou votre ordre."
+    },
+    {
+      "key": "skill-menestrel-maitre",
+      "tags": ["skill:skill-menestrel", "level:3", "cost:1"],
+      "label": "Ménestrels (Maître)",
+      "description": "6 compétences spécifiques à votre Voie de vie ou votre ordre."
+    }
+  ]
+  
