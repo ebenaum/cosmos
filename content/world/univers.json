@@ -56,38 +56,38 @@
     },
     {
       "key": "savoir-2",
-      "tags": ["characteristic:savoir", "level:-2"],
-      "description": "0 PC"
+      "tags": ["characteristic:savoir", "level:-2", "pc:-2"],
+      "description": "-2 PC"
     },
     {
       "key": "savoir-1",
-      "tags": ["characteristic:savoir", "level:-1"],
-      "description": "1 PC"
+      "tags": ["characteristic:savoir", "level:-1", "pc:-1"],
+      "description": "-1 PC"
     },
     {
       "key": "savoir",
-      "tags": ["characteristic:savoir", "level:0"],
-      "description": "3 PC"
+      "tags": ["characteristic:savoir", "level:0", "pc:0"],
+      "description": "No bonus point"
     },
     {
       "key": "savoir+1",
-      "tags": ["characteristic:savoir", "level:1"],
-      "description": "4 PC"
+      "tags": ["characteristic:savoir", "level:1", "pc:1"],
+      "description": "1 PC"
     },
     {
       "key": "savoir+2",
-      "tags": ["characteristic:savoir", "level:2"],
-      "description": "5 PC"
+      "tags": ["characteristic:savoir", "level:2", "pc:2"],
+      "description": "2 PC"
     },
     {
       "key": "savoir+3",
-      "tags": ["characteristic:savoir", "level:3"],
-      "description": "6 PC"
+      "tags": ["characteristic:savoir", "level:3", "pc:3"],
+      "description": "3 PC"
     },
     {
       "key": "savoir+4",
-      "tags": ["characteristic:savoir", "level:4"],
-      "description": "7 PC"
+      "tags": ["characteristic:savoir", "level:4", "pc:4"],
+      "description": "4 PC"
     },
     {
       "key": "dexterite-2",
