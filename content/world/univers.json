@@ -217,6 +217,7 @@
     "key": "kays-ebenaum",
     "tags": ["race", "humains", "monde:ebenaum"],
     "label": "Kays",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/kays.jpeg",
     "description": "Les Kay d'Ebenaum sont un peuple d'hommes dont les descendants sont (parait-il) arriv\u00e9s tardivement dans l'histoire du monde, \u00e0 l'aide d'une Arche volante ayant surgi de l'Hembar, la grande faille traversant une partie de la carte. Install\u00e9s aux alentours de cette arche s'\u00e9tant \u00e9chou\u00e9e depuis \u00e0 peine quelques si\u00e8cles, les Kay ont d'\u00e9tranges facult\u00e9s psychiques qui leur permettent de manipuler l'esprit d'autrui. Ils ont gard\u00e9 une discipline stricte, notamment dans les arts de l'escrime, et vivaient reclus jusqu'\u00e0 ce qu'un groupe de leurs membres, la Sombre Opale, parte de l'Arche dans le but d'accomplir une proph\u00e9tie inscrite dans le Codex des Kay. Selon cette proph\u00e9tie, les Kay seraient issus d'un autre monde, cach\u00e9 sous celui d'Ebenaum, et pour rejoindre cet Eden perdu dans lequel ils r\u00e9gnaient en ma\u00eetres, les Kays devraient accomplir un rituel. Ce qu'ils firent. Men\u00e9s selon une hi\u00e9rarchie pr\u00e9cise, les Kays de la Sombre Opale sont donc d\u00e9sormais \u00e0 la recherche de leurs tr\u00f4nes abandonn\u00e9s !"
   },
   {
@@ -295,6 +296,7 @@
     "key": "wampyrs",
     "tags": ["race", "monde:ebenaum"],
     "label": "Wampyrs",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/wampyrs.png",
     "description": "Les Wampyrs sont des \u00eatres ail\u00e9s se repassant exclusivement de cadavres, ce qui leur vaut mauvaise r\u00e9putation. Ils cachent le plus souvent leurs ailes en soci\u00e9t\u00e9, mais ils gardent de leur nature de rapaces des instincts et des capacit\u00e9s malaisantes. Certains sont accept\u00e9s dans la soci\u00e9t\u00e9 tant qu'ils savent se tenir et lutter contre leurs pulsions, et d'autres sont chass\u00e9s \u00e0 vue. Si les Wampyrs ne sont pas une nation, ils partagent tous en commun des affinit\u00e9s et une compr\u00e9hension presque t\u00e9l\u00e9pathique."
   },
   {
@@ -307,6 +309,7 @@
     "key": "shaher",
     "tags": ["race", "monde:ebenaum"],
     "label": "Shaher",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/shahers.png",
     "description": "Autrefois des loups, les Shaher ont \u00e9t\u00e9 dot\u00e9s de caract\u00e9ristiques humaines par leur empereur-Dieu, Shahylmarils, alors qu'il \u00e9tait encore jeune sur le chemin qui le m\u00e9nerait \u00e0 devenir l'homme le plus puissant du monde. Les Shaher sont son peuple. Protecteurs de leur terre, ces hommes-loups parcourent \u00e9galement le monde pour tenter de lutter contre Soak, le dieu du mal pur, briseur d'espoir, de r\u00eaves, et d'harmonie. Puissants, respect\u00e9s mais jalous\u00e9s, les hommes-loups portent le lourd fardeau de leur mission sur les \u00e9paules. Les faibles les adulent tandis que les autres se m\u00e9fient d'eux, les voyant comme les espions dociles de leur ma\u00eetre, incorruptibles sh\u00e9riffs en maraude."
   },
   {
@@ -367,6 +370,7 @@
     "key": "daloryans",
     "tags": ["race", "monde:erenthyrm"],
     "label": "Daloryans",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/daloryans.png",
     "description": "Les Daloryans sont des cr\u00e9atures hybrides en tous genres qui vivent dans une immense for\u00eat nomm\u00e9e \"Sylve\" par les humains. Ils y vivent de fa\u00e7on le plus souvent isol\u00e9e, mais certains se regroupent, et forment de petits villages. Les Daloryan se distinguent des animaux par leur capacit\u00e9 \u00e0 avoir un langage et un semblant de civilisation. Mais tous ne sont pas tr\u00e8s am\u00e8nes avec cette id\u00e9e, et rejettent les hommes destructeurs qui s'aventurent dans les bois. Les Daloryan sont donc multiples, et ils vivent soit seuls, soit en petite communaut\u00e9s, dont certaines essaient de reproduire quelques comportements humains observ\u00e9s ou rapport\u00e9s par des alfes de passage. Ce sont avant tout des cr\u00e9atures paisibles qui n'aspirent \u00e0 rien d'autre qu'\u00e0 leur libert\u00e9 et une vide douce dans les bois. Les Daloryan ne se connaissent que deux ma\u00eetres, qu'ils choisissent de suivre ou non : le Sagittaire, et le Capricorne. Ce dernier est le plus sauvage, celui qui pr\u00f4ne l'isolement, l'individualisme, la libert\u00e9 de chacun et la protection de la Sylve contre les hommes. Le Sagittaire est bien plus ouvert. Les Daloryan souffrent d'\u00eatre consid\u00e9r\u00e9s par les humains comme des animaux bons \u00e0 \u00eatre chass\u00e9s. Une premi\u00e8re tentative de cohabitation a vu jour, dans un lieu nomm\u00e9 le Logis de Bordesylve, qui a permis d'\u00e9tablir un semblant de paix apr\u00e8s de dramatiques incidents entre ces esp\u00e8ces. Pour l'heure, la fragile entente entre les habitants du Logis est ce qui assure la tranquillit\u00e9 de ceux vivant en bordure de bois... Mais la responsabilit\u00e9 de toute homme et tout Daloryan vivant aux abords de la Sylve est engag\u00e9e pour permettre \u00e0 ce projet de r\u00e9ussir."
   },
   {
@@ -397,6 +401,7 @@
     "key": "chymeyres",
     "tags": ["race", "monde:erenthyrm"],
     "label": "Chymeyres",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/chymeyres.png",
     "description": "Les Chymeyres ne sont pas des cr\u00e9atures vivantes. Elles sont en r\u00e9alit\u00e9 l\u2019\u00e9manation des r\u00eaves et des cauchemars des hommes, qui prennent forme. Elles d\u00e9pendent donc d\u2019un r\u00eave ou d\u2019un cauchemar, qui r\u00e9git toutes leurs actions. Elles sont \u00e9galement constamment attir\u00e9es par les sources d\u2019imagination qu\u2019elles drainent et vampirisent. Se faisant, soit elles contaminent d\u2019autres cr\u00e9atures vivantes pour servir leur cause, soit elles prennent possession d\u2019elles (ainsi, vous pourrez jouer parfois des \u201cposs\u00e9d\u00e9s\u201d.). Elles sont cependant soumises \u00e0 la puissance des Maitres Kays qui sont parvenus, pour l\u2019instant, \u00e0 les faire ob\u00e9ir \u00e0 leurs souhaits. Les chymeyres craignent \u00e9galement certaines choses. Enfin, il existe une hi\u00e9rarchie chez elle, et elles ob\u00e9iront toujours \u00e0 un Cavalier, une Reine, ou un Roi Chymeyre. Elles sont l'exacerbation des d\u00e9fauts et vices des hommes."
   },
   {
@@ -998,14 +1003,38 @@
   },
   {
     "key": "gambison",
-    "tags": ["inventory", "cost:1"],
+    "tags": ["inventory", "cost:1", "bonus:corps:1"],
     "label": "Gambison",
     "description": "Vous ajoute 1 Pv (cumulable)"
   },
   {
     "key": "armor-part",
-    "tags": ["inventory", "cost:1"],
+    "tags": ["inventory", "cost:2"],
     "label": "Pièce d'armure",
-    "description": "Elle se brise pour contrer une “Fracture” ou un dégât de votre choix"
+    "description": "Elle se brise pour contrer une “Fracture” ou un dégât de votre choix."
+  },
+  {
+    "key": "chainmail",
+    "tags": ["inventory", "cost:1"],
+    "label": "Cotte de maille",
+    "description": "Permet de réduire les dégâts reçus de 1."
+  },
+  {
+    "key": "eclat-lame-etoile",
+    "tags": ["inventory", "cost:1"],
+    "label": "Eclat de lame étoilé",
+    "description": "Peut être transformé ou frappe à “magique”. (arme courte/dague/flèche)"
+  },
+  {
+    "key": "herbier-science",
+    "tags": ["inventory", "cost:1"],
+    "label": "Herbier de science",
+    "description": "contient plusieurs données sur les éléments naturels. Sert d'Herbier."
+  },
+  {
+    "key": "piege-reutilisable",
+    "tags": ["inventory", "cost:1"],
+    "label": "Piège réutilisable",
+    "description": "Peut être converti en différents pièges."
   }
 ]
