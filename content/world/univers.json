@@ -1,5 +1,15 @@
 [
   {
+    "key": "characteristics-default-points",
+    "tags": ["rule", "n:4"],
+    "label": "Nombre de points de caractéristiques par défaut."
+  },
+  {
+    "key": "skills-default-points",
+    "tags": ["rule", "n:4"],
+    "label": "Nombre de points de compétences par défaut."
+  },
+  {
     "key": "corps",
     "tags": ["characteristic"],
     "label": "Corps"
@@ -199,18 +209,21 @@
     "key": "ebenhommes",
     "tags": ["race", "humains", "monde:ebenaum"],
     "label": "Ebenhommes",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/ebenhommes.png",
     "description": "L'humain est de loin la cr\u00e9ature la plus r\u00e9pandue dans le monde d'Ebenaum. Les Ebenaumer sont des gens pratiques, mais qui aiment la r\u00eaverie et les histoires. Bien que n'ayant pas de dons particuliers dans un monde de cr\u00e9atures diverses, leur malice et leur esprit d'initiative leur a permis de cr\u00e9er la plus d\u00e9velopp\u00e9e et imposante soci\u00e9t\u00e9 au monde, bien que divis\u00e9e en une multitude de couronnes diff\u00e9rentes. Jouets des dieux et de la magie, ce sont pourtant eux, dont l\u2019imagination est fertile, qui ont donn\u00e9 au monde le plus d\u2019h\u00e9ros."
   },
   {
     "key": "bekers",
     "tags": ["race", "humains", "monde:ebenaum"],
     "label": "Bekers",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/bekers.png",
     "description": "Bekers est le nom que l'on donne aux humains au Nord de la Faille, influenc\u00e9s par Hoygg. Ils ont un temp\u00e9rament froid et durs, fiers mais bons vivants. Habitant en caravanes, dans des hameaux, des tribus ou dans les quelques royaumes de Bekers. ils n'ont cependant pas d'autres diff\u00e9rences avec les Ebenaumers, humains de tous horizons qui peuplent la majeure partie du monde."
   },
   {
     "key": "omonor",
     "tags": ["race", "humains", "monde:ebenaum"],
     "label": "Omonor",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/omonors.png",
     "description": "Les hommes d'Emonor sont des humains dont la lign\u00e9e remonte aux premiers hommes. On dit d'eux qu'ils ont dans le sang une animalit\u00e9 certaine, qui se traduit par une bravoure et une force souvent sup\u00e9rieure \u00e0 celle des autres hommes, m\u00eame s'ils sont moins dou\u00e9s pour la pratique de la magie. Nobles de sang et de coeur, ces hommes qui ont pourtant parfois le sang chaud ont \u00e9galement beaucoup peupl\u00e9 le nord, devenant des serviteurs de Nydhoygg, l'arbre tortur\u00e9. On les appelle alors des Bekers."
   },
   {
@@ -248,6 +261,7 @@
     "key": "vaelir",
     "tags": ["race", "amoureux", "monde:ebenaum"],
     "label": "Vaelir",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/vaelirs.png",
     "description": "Les Vaelir sont des cr\u00e9atures n\u00e9es dans les gousses des Heygg, les arbres de vie. Vivant en harmonie avec la nature, ces \u00eatres sont comme toute leur race persuad\u00e9s que l'\u00e2ge d'Or s'est achev\u00e9 avec l'apparition d'autres esp\u00e8ces, vou\u00e9es \u00e0 la destruction des for\u00eats et de la nature tranquille et intacte. Mais contrairement aux autres branches de leur esp\u00e8ce, les Vaelir pensent qu'il reste un espoir de sauver la nature, et elles luttent donc pour sinon faire prosp\u00e9rer, sinon profiter en paix de la Flore tant qu'il le sera possible. Cela se traduit par une civilisation de cr\u00e9atures raffin\u00e9es, humano\u00efdes au sang de s\u00e8ve, tr\u00e8s sensible \u00e0 la magie \u00e9manant des arbres, et en balance et harmonie dans tout ce qu'elles entreprennent. Bien qu'ayant peu de compr\u00e9hension pour les pulsions des humains, les Vaelir travaillent avec eux, partageant le go\u00fbt pour l'\u00e9l\u00e9gance et le raffinement."
   },
   {
@@ -272,12 +286,14 @@
     "key": "nybel",
     "tags": ["race", "nybelhungen", "monde:ebenaum"],
     "label": "Nybel",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/nybels.png",
     "description": "Cr\u00e9atures sculpt\u00e9es dans la roche par leurs \"parents\" et au coeur desquelles on place un cristal anim\u00e9, les Nybels sont l'association entre un corps de roche et un coeur liquide, l\u2019Arsang. Seule la destruction de ce dernier provoque leur mort. C'est un peuple \u00e0 l'\u00e2me sensible, qui r\u00e9fl\u00e9chit \u00e9norm\u00e9ment au monde, bien que passant une partie de sa vie dans son habitat naturel : sous la terre. Ils y appr\u00e9cient le calme et l'\u00e9troitesse. Les Nybel partagent un sang-froid et une pragmaticit\u00e9 rigoureuse. Leur flegme ne les emp\u00eache pas d'\u00eatre des guerriers solides et f\u00e9rus d'ing\u00e9nierie. Ces cr\u00e9atures \u00e0 la peau d\u2019argile, de roche ou de m\u00e9tal ont des yeux faits de pierres pr\u00e9cieuses et vivent dans les montagnes ou les lieux obscurs. Ils sont bons ing\u00e9nieurs et manipulateurs des m\u00e9taux. Ils ont invent\u00e9 et d\u00e9velopp\u00e9 les armes \u00e0 Air f\u00e9e qui projettent de l'\u00e9nergie, alternative aux Armes \u00e0 poudre noire."
   },
   {
     "key": "hungens",
     "tags": ["race", "nybelhungen", "monde:ebenaum"],
     "label": "Hungens",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/hungens.png",
     "description": "Les Hungen sont des cr\u00e9atures faites de roche, d\u2019argile et de pierres, souvent assez trapues et petites, qui sont parcourues par une \u00e9nergie \u00e9manant d'un crystal cach\u00e9 au coeur de leur corps. Ces \u00eatres intelligents se meuvent donc parfois avec maladresse, mais sont tr\u00e8s solides. Les Hungen sont anim\u00e9s par un liquide en feu, l\u2019Arsang chaud, ce qui les rend tr\u00e8s belliqueux, anim\u00e9s par un besoin de destruction et de consommation, m\u00eame s'ils restent fascin\u00e9s par l'artisanat et la technologie. Constamment pr\u00e9occup\u00e9s par l'envie de comprendre le monde, leur haine vient de leur \u00e9chec \u00e0 y parvenir, ou bien d'\u00e9clairs de folie quand ils y r\u00e9ussissent."
   },
   {
@@ -290,6 +306,7 @@
     "key": "zylwens",
     "tags": ["race", "monde:ebenaum"],
     "label": "Zylwens",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/zylwens.png",
     "description": "Les Zylwens ressemblent \u00e0 de petits satyres. Fac\u00e9tieux, ces \u00eatres parcourent surtout le nord d'Ebenaum, toujours \u00e0 la recherche d'un tour \u00e0 jouer, d'une personne \u00e0 amuser. Tr\u00e8s dou\u00e9s avec les arts magiques, les Zylwens sont cependant tr\u00e8s inconstants, et leurs r\u00eaveries les emp\u00eachent de cr\u00e9er une vraie soci\u00e9t\u00e9. Ils vivent donc soit chez les autres, soit en petites communaut\u00e9s. On peut en retrouver partout de par le monde, bien qu'ils soient pourchass\u00e9s comme la peste par une autre esp\u00e8ce, les Nelwyns, des hommes-plantes qui pensent que les Zylwens sont la cause de tous leurs maux."
   },
   {
@@ -303,6 +320,7 @@
     "key": "merandres",
     "tags": ["race", "monde:ebenaum"],
     "label": "Merandres",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/merandres.png",
     "description": "Merandres est le nom que l\u2019on donne \u00e0 des cr\u00e9atures qui s\u2019apparentent \u00e0 des morts-vivants m\u00eame si, en r\u00e9alit\u00e9, elles sont tr\u00e8s diff\u00e9rentes. Car un mort-vivant garde le corps qu\u2019il avait de son vivant. Les M\u00e9randres sont les larmes, vestiges des \u00e2mes qui ont \u00e9t\u00e9 recueillies par Nycanoc et sont ensuite achemin\u00e9es par les eaux jusqu\u2019\u00e0 la mer int\u00e9rieure pour \u00eatre gard\u00e9es dans le domaine de Nocmagna, le seigneur des Eaux et des Os, des Mer, de l\u2019Amour et des Morts, pour attendre d\u2019\u00eatre renvoy\u00e9es dans les cieux puis sur la terre par la pluie et se r\u00e9incarner. Mais lorsque certaines de ses armes refusent leur destin, elles parviennent parfois \u00e0 s\u2019\u00e9chapper dans les cours d\u2019eau et contaminer un cadavre sur leur passage ou une forme de vie faiblarde. Elles en prennent alors possession et lentement se construisent un corps avec les formes de vie, v\u00e9g\u00e9tales ou animales, qu\u2019elles contaminent. Les M\u00e9randres sont ainsi des cr\u00e9atures d\u00e9vorantes, hybrides et maudites souvent composites d\u2019animaux. Leur personnalit\u00e9 est parfois multiple, compos\u00e9e de l\u2019h\u00f4te et de l\u2019\u00e2me ou DES \u00e2mes invasives qui peuvent \u00eatre v\u00e9g\u00e9tales ou animales \u00e9galement. Le corps \u00e9tant souvent composite, il est difficile de les faire souffrir pour les \u00e9loigner. Cependant ces cr\u00e9atures usent d\u00e9j\u00e0 de beaucoup de magie pour se maintenir en vie, leurs pouvoirs sont donc souvent tr\u00e8s al\u00e9atoires."
   },
   {
@@ -316,12 +334,14 @@
     "key": "oblivione",
     "tags": ["race", "monde:ebenaum"],
     "label": "Oblivione",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/oblivione.png",
     "description": "Cr\u00e9ature myst\u00e9rieuse qui ne sait elle-m\u00eame peu de choses sur son esp\u00e8ce, les Obliviones vivent dans un gouffre au pied de la montagne des Dieux. D'une nature hautement magique, ce sont des guerriers \u00e0 la peau sombre et parcourue de runes et de tatouages violac\u00e9s ou dor\u00e9s. Ma\u00eetres en magie, les Obliviones n'ont pas vraiment d'autres buts que de d\u00e9couvrir le monde et explorer ses myst\u00e8res. Dot\u00e9s d'un humour incompr\u00e9hensible pour le reste des habitants du monde, ils mettent tout le monde mal \u00e0 l'aise, soyons francs."
   },
   {
     "key": "goulemmes",
     "tags": ["race", "monde:ebenaum"],
     "label": "Goulemmes",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/goulemmes.png",
     "description": "Les Goulemmes sont les enfants de Grandlarve, un Ver g\u00e9ant qui depuis la nuit des temps ronge la pomme qu\u2019est Ebenaum, transformant l\u2019espoir en d\u00e9sespoir. Les morceaux du monde qu\u2019il ingurgite et recrache se changent en boue d\u2019o\u00f9 \u00e9mergent des cr\u00e9atures humano\u00efdes et souvent difformes, d\u2019apparence argileuse ou verd\u00e2tres que l\u2019on nomme de fa\u00e7on globale des Goulemmes. Suscitant l\u2019antipathie de la majorit\u00e9 du monde connu, les Goulemmes forment une diaspora  souterraine et nombreuse, qui, pourtant, est connue par celles et ceux qui prennent le temps de comprendre leur langage pour leur profonde app\u00e9tence pour la philosophie, la sociologie et l\u2019envie de profiter du monde. Seulement, pour des raisons qui semblent un peu obscures pour les b\u00e9otiens d\u2019humains, les goulemmes semblent convaincues qu\u2019\u00e9liminer les humains et leurs semblables n\u2019est sujet \u00e0 aucun d\u00e9bat. Leur antagonisme avec toute forme de civilisation est donc pr\u00e9gnant.  Les humains les insultent souvent en les traitant de Dork."
   },
   {
