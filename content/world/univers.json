@@ -300,6 +300,7 @@
     "key": "nelwyns",
     "tags": ["race", "monde:ebenaum"],
     "label": "Nelwyns",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/nelwyns.png",
     "description": "Les Nelwyns sont des cr\u00e9atures passionnantes. Pour qui aiment la tranquillit\u00e9 des l\u00e9gumes. Naissant dans le sol, ils poussent et gardent toute leur vie sur leur t\u00eate de la verdure et un go\u00fbt prononc\u00e9 pour la terre. Ce sont avant tout des paysans, tr\u00e8s attach\u00e9s \u00e0 la croissance des choses et au cycle de la vie. En r\u00e9alit\u00e9, ils ne seraient que des formes de vie banales si ils ne partageaient pas \u00e9galement la conviction profonde que leur peuple aurait \u00e9t\u00e9, selon eux, injustement maudit par les dieux. En effet, ils pensent que leur petite taille et leur manque de force est une punition des dieux qui \u00e9tait destin\u00e9e \u00e0 une autre esp\u00e8ce, les Zylwens. Depuis lors, de nombreux Nelwyns s'engagent dans des croisades contre ces derniers, esp\u00e9rant prouver aux dieux leur valeur, et l'erreur des divinit\u00e9s. C'est donc contre toute attente un peuple tr\u00e8s pieux, suivant religieusement les \"Saints\" et ap\u00f4tres de leur \u00e9glise, quand ils ne sont pas en train de cajoler des citrouilles."
   },
   {
@@ -348,18 +349,21 @@
     "key": "ombreux",
     "tags": ["race", "monde:ebenaum"],
     "label": "Ombreux",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/ombreux.png",
     "description": "Vivant dans un royaume souterrain nich\u00e9 dans les anciennes galeries creus\u00e9es par le Ver d'\u00e9ther et l\u2019Enflamm\u00e9, au service d'une puissante sorci\u00e8re, les ombreux ont la capacit\u00e9 de prendre l'apparence de n'importe quelle personne. H\u00e9rauts de l'obscurit\u00e9, ces cr\u00e9atures se sont donn\u00e9es la t\u00e2che d'espionner la surface et d'ourdir des complots pour le compte de leur souveraine."
   },
   {
     "key": "alphen",
     "tags": ["race", "monde:ebenaum"],
     "label": "Alphen",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/alphens.png",
     "description": "Les Alphen sont un petit peuple des montagnes gel\u00e9es qui, ayant \u00e9volu\u00e9 depuis le peuple des Zylwen pour grandir et partager quelques g\u00e8nes avec des ch\u00e8vres g\u00e9antes des environs, poss\u00e8de une culture de nomade assez primitive. Leurs contacts avec le monde des humains leur a fait prendre conscience de l'\u00e9norme \u00e9cart de mode de vie, et ils tentent toutes sortes de commerces pour obtenir des privil\u00e8ges. Ils sont farceurs et gaffeurs. Surtout quand il s\u2019agit d'esclavage, les coquins."
   },
   {
     "key": "degons",
     "tags": ["race", "monde:ebenaum"],
     "label": "Degons",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/degons.png",
     "description": "Nobles cr\u00e9atures h\u00e9rit\u00e9es des Dragons, les Degons sont des hommes-dragons marchant sur leurs pattes arri\u00e8res, et ayant d\u00e9cid\u00e9 de se m\u00ealer au monde des hommes. Ils en ont pris les atours et la culture. Ils sont puissants de corps et de magie, sages et froids, mais leur int\u00e9r\u00eat est d'emp\u00eacher tout cataclysme magique."
   },
   {
@@ -378,12 +382,14 @@
     "key": "humains-sumer",
     "tags": ["race", "monde:erenthyrm"],
     "label": "Humains de Sumer",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/humains-sumer.png",
     "description": "Les Humains de Sumer vivent tr\u00e8s loin, coinc\u00e9s le long d'un immense bras de mer qui se retire et revient tr\u00e8s fr\u00e9quemment et, d'un c\u00f4t\u00e9, les Montagnes sombres et d\u00e9sertiques de Tenebrarum et de l'autre c\u00f4t\u00e9 le d\u00e9sert des Kuergars. Ils sont respect\u00e9s de par le monde et connus pour leur calme et leur sagesse...Mais aussi leur c\u00f4t\u00e9 tr\u00e8s ennuyeux. Les S\u00fbmer vivent dans des cit\u00e9s troglodytes sur les falaises au bord du fleuve rampant, souvent visit\u00e9 par des pirates et maraudeurs vivants dans des cit\u00e9s flottantes sur cette mar\u00e9e sauvage."
   },
   {
     "key": "alfes",
     "tags": ["race", "monde:erenthyrm"],
     "label": "Alfes",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/alfes.png",
     "description": "Etre un Alfe, c'est \u00eatre per\u00e7u comme la plupart du monde comme une race inf\u00e9rieure, mais dont il faut se m\u00e9fier. A l'\u00e9tat naturel, les Alfes sont des animaux omnivores qui paissent partout dans le monde. Mais, avec le temps, deux cultures ont \u00e9merg\u00e9es parmi eux : les Alfes des Monts et ceux des bois. Ceux-ci vivent par petits groupes ou dans des communaut\u00e9s de Daloryans, profitant de la douceur de la vie tout en marchandant parfois avec les humains de passage, car ils sont les plus \"cultiv\u00e9s\" des peuples de la for\u00eat. Les Alfes qui sont parfois trait\u00e9s comme des esclaves, voire du gibier, savent que leur peuple est puissant dans les montagnes, et cela leur donne de l'hardiesse pour utiliser leurs affinit\u00e9s avec la faune et la flore pour jouer des tours aux humains bien trop orgueilleux, et aux Daloryans trop paresseux. Les Alfes sont avant tout des passeurs, des interm\u00e9diaires entre les peuples, car ils savent s'adapter facilement \u00e0 leur environnement et interlocuteur, m\u00eame si, d'une nature fac\u00e9tieuse, ils n'ont de loyaut\u00e9 qu'envers les leurs."
   },
   {
@@ -394,27 +400,24 @@
     "description": "Les Daloryans sont des cr\u00e9atures hybrides en tous genres qui vivent dans une immense for\u00eat nomm\u00e9e \"Sylve\" par les humains. Ils y vivent de fa\u00e7on le plus souvent isol\u00e9e, mais certains se regroupent, et forment de petits villages. Les Daloryan se distinguent des animaux par leur capacit\u00e9 \u00e0 avoir un langage et un semblant de civilisation. Mais tous ne sont pas tr\u00e8s am\u00e8nes avec cette id\u00e9e, et rejettent les hommes destructeurs qui s'aventurent dans les bois. Les Daloryan sont donc multiples, et ils vivent soit seuls, soit en petite communaut\u00e9s, dont certaines essaient de reproduire quelques comportements humains observ\u00e9s ou rapport\u00e9s par des alfes de passage. Ce sont avant tout des cr\u00e9atures paisibles qui n'aspirent \u00e0 rien d'autre qu'\u00e0 leur libert\u00e9 et une vide douce dans les bois. Les Daloryan ne se connaissent que deux ma\u00eetres, qu'ils choisissent de suivre ou non : le Sagittaire, et le Capricorne. Ce dernier est le plus sauvage, celui qui pr\u00f4ne l'isolement, l'individualisme, la libert\u00e9 de chacun et la protection de la Sylve contre les hommes. Le Sagittaire est bien plus ouvert. Les Daloryan souffrent d'\u00eatre consid\u00e9r\u00e9s par les humains comme des animaux bons \u00e0 \u00eatre chass\u00e9s. Une premi\u00e8re tentative de cohabitation a vu jour, dans un lieu nomm\u00e9 le Logis de Bordesylve, qui a permis d'\u00e9tablir un semblant de paix apr\u00e8s de dramatiques incidents entre ces esp\u00e8ces. Pour l'heure, la fragile entente entre les habitants du Logis est ce qui assure la tranquillit\u00e9 de ceux vivant en bordure de bois... Mais la responsabilit\u00e9 de toute homme et tout Daloryan vivant aux abords de la Sylve est engag\u00e9e pour permettre \u00e0 ce projet de r\u00e9ussir."
   },
   {
-    "key": "venne-femelle",
+    "key": "vennes",
     "tags": ["race", "monde:erenthyrm"],
-    "label": "Venne femelle",
-    "description": "Il n'y a pas vraiment de soci\u00e9t\u00e9 Venne. Le Venne femelle n'a rien \u00e0 voir avec le Venne M\u00e2le, le Rable. Si ces derniers ressemblent \u00e0 des Gobelins moustachus qui passent leur temps \u00e0 se cacher sous de gros amas de feuilles et de v\u00e9g\u00e9tation pour cacher leur laideur, les Femelles sont dot\u00e9es d'ailes, et bien qu'elles aient aussi un long nez, elles sont beaucoup plus belles et leur visage est bariol\u00e9 de couleurs. On dit d'elles qu'elles brillent dans le noir, et c'est pour cela que les enfants Venne sont captur\u00e9s par les aventuriers qui les charment, pour s'\u00e9clairer la nuit. Les Venne femelles adorent tout ce qui brillent, et c'est donc la qu\u00eate ultime des Venne m\u00e2les que de trouver de tels objets. Heureusement, ces cr\u00e9atures sont dot\u00e9es de quelques facult\u00e9s naturelles bien pratiques pour se dissimuler et \u00e9chapper aux agresseurs. Ce sont de bons fouineurs, mais aussi de bons \u00e9couteurs. En parlant avec les arbres, ils entendent beaucoup de choses\u2026"
-  },
-  {
-    "key": "venne-male",
-    "tags": ["race", "monde:erenthyrm"],
-    "label": "Venne m\u00e2le",
+    "label": "Venne et Rable",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/vennes.png",
     "description": "Il n'y a pas vraiment de soci\u00e9t\u00e9 Venne. Le Venne femelle n'a rien \u00e0 voir avec le Venne M\u00e2le, le Rable. Si ces derniers ressemblent \u00e0 des Gobelins moustachus qui passent leur temps \u00e0 se cacher sous de gros amas de feuilles et de v\u00e9g\u00e9tation pour cacher leur laideur, les Femelles sont dot\u00e9es d'ailes, et bien qu'elles aient aussi un long nez, elles sont beaucoup plus belles et leur visage est bariol\u00e9 de couleurs. On dit d'elles qu'elles brillent dans le noir, et c'est pour cela que les enfants Venne sont captur\u00e9s par les aventuriers qui les charment, pour s'\u00e9clairer la nuit. Les Venne femelles adorent tout ce qui brillent, et c'est donc la qu\u00eate ultime des Venne m\u00e2les que de trouver de tels objets. Heureusement, ces cr\u00e9atures sont dot\u00e9es de quelques facult\u00e9s naturelles bien pratiques pour se dissimuler et \u00e9chapper aux agresseurs. Ce sont de bons fouineurs, mais aussi de bons \u00e9couteurs. En parlant avec les arbres, ils entendent beaucoup de choses\u2026"
   },
   {
     "key": "kuergars",
     "tags": ["race", "monde:erenthyrm"],
     "label": "Kuergars",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/kuergars.png",
     "description": "Cette esp\u00e8ce vit dans les d\u00e9sert dess\u00e9ch\u00e9s et venteux du Sirdri et Vestri. Ils parcourent ces terres sur le dos de gros insectes et en se nourrissant de kroktus dont ils se font des armures, la nuit. Le jour, ils vivent souvent dans des grottes humides en compagnie de cr\u00e9atures spectrales qui semblent y prendre vie. Les Kuergars sont r\u00e9put\u00e9s assez inhospitaliers, et leur bouche est couverte d\u2019un tissu lorsque leurs grands yeux sondent votre \u00e2me."
   },
   {
     "key": "graou-comisses-de-boue",
     "tags": ["race", "monde:erenthyrm"],
     "label": "Graou et Comisses de Boue",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/graous.png",
     "description": "Ces cr\u00e9atures seraient les rejetons de la B\u00ea\u00earich\u00f4\u00f4ne, qu\u2019elle s\u00e8me dans son exode de par le monde. Certains disent qu\u2019elle est l\u2019amante de l\u2019Ours des Temp\u00eates mais c\u2019est s\u00fbrement une rumeur. Les Grao\u00fb sont trait\u00e9s en esclaves dans les terres Kays et si ils savent se d\u00e9fendre en projetant des jets de bave acide, leur carapace dorsale et leurs oreilles tombantes ne les rendent pas tr\u00e8s agiles bien qu\u2019endurants et bons \u00e0 la t\u00e2che. Ils sont donc charg\u00e9s dans les terres Kays de brasser la boue pour assurer que personne ne puisse les envahir, eux qui vivent sur des rochers en quasi l\u00e9vitation au dessus des landes boueuses des Grao\u00fb."
   },
   {
@@ -563,36 +566,42 @@
     "key": "temple-brame-croc",
     "tags": ["vdv", "foi", "temple", "monde:ebenaum"],
     "label": "Temple de Br\u00e2me/du Croc",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/temple-brame.png",
     "description": "Un mouvement s'imprégnant du comportement animal, que les croyants considèrent comme un dieu. Beaucoup se retrouvent à se lécher l'entrejambe sans comprendre pourquoi. D'autres découvrent la faculté de voler, plus ou moins avec succès. Ceux qui ont le plus de réussite sont les Shahmans qui font fusion avec les fauves...et leur odeur."
   },
   {
     "key": "temple-cener",
     "tags": ["vdv", "foi", "temple", "monde:ebenaum"],
     "label": "Temple de Cener",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/temple-cener.png",
     "description": "Contrairement au temple précédent, Cener puise sa foi dans la nature, et les forces élémentaires. Point question de Dieux, Fi des destinées ! Tout réside dans GayaG et ManaM, les amants séparés de la Nature et la magie. Les druides, adeptes de Cener, sont de puissants ritualistes, mais aussi des herboristes et médecins parfois hasardeux, mais qui ont le mérite d'essayer. Certifié bio."
   },
   {
     "key": "temple-vraie-foi",
     "tags": ["vdv", "foi", "temple", "monde:ebenaum"],
     "label": "Temple de la Vraie Foi",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/temple-vraie-foi.png",
     "description": "Les Moines et croisés de la Vraie Foi n’ont qu’une croyance : la force des êtres pensants. Ils réfutent tout besoin de divinités dans leurs vies, disant que c’est déjà assez bien compliqué comme ça. Les Moines ont une foi en eux-mêmes à toute épreuve ce qui en fait de courageux adversaires n’ayant aucune peur et une grande maîtrise d’eux-mêmes. Ils sont également particulièrement résistants à quiconque tente de les influencer. Cet ordre aux accents parfois très bienveillants, parfois très martiaux et intransigeants suscite beaucoup de polémiques dans un monde dominé par des Dieux bien tangibles. Leur symbole est un X qui représente l’être humanoïde car leur leader fut écartelé par des inquisiteurs enragés. Tout ce qui n’est pas humain relève de l’aberration pour cette église."
   },
   {
     "key": "temple-bofrist-dommynion-brashahmus",
     "tags": ["vdv", "foi", "temple", "monde:ebenaum"],
     "label": "Temple du Bofrist/Dommynion/Brashahmus",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/temple-bofrist-dommynion-brashaahmus.png",
     "description": "Ces temples correspondent aux plus répandus sur la croûte d'Ebenaum. Chaque dieu possède un temple, mais il invite volontiers dans ce dernier un voisin. C'est un peu du sponsoring, pour inciter les croyants à prendre un forfait “Divin”. Les pélerins miséreux et fervents et souvent avatars des dieux, les prêtres prêchants et les inquisiteurs inquiétants étudient au sein de ces églises selon leur dieu, pour accéder au pouvoir de la foi. Une guerre oppose depuis de très nombreuses années les dieux du Bofrist à ceux du Dommynion, qu'ils veulent raser. Les dieux du troisième panthéon, les plus puissants, car ils ne dépendent de personne pour exister, sont peu nombreux mais s'accordent presque tous autour de Shahylmarils. Nombreuses sont les guerres de religion, et elles dépassent les frontières de peuples, de politique et de races. A savoir que le peuple le plus croyant est celui des Nelwyns, qui organise régulièrement des croisades de vacances contre les Zylwens."
   },
   {
     "key": "temple-ombreline",
     "tags": ["vdv", "foi", "temple", "monde:ebenaum"],
     "label": "Temple d'Ombreline",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/temple-ombreline.png",
     "description": "Associé au 3e Panthéon, ce temple ne croit pas dans l’omnipotence des divinités mais dans l’harmonie de l’univers et la présence d’entités antérieures aux autres panthéons. Ils pensent que ce sont les histoires qui forgent le monde des hommes qui doit cependant se lier au monde naturel et ses protecteurs, composites. Ils croient dans les entités du Destin, Erole - les Vents, Neïs - la tisseuse de destinée et reine des Abysses, Degonebenor - le Dragon du ciel; L’Ombre - qui chasse la nuit quand l’oeil du cyclope  scrute le monde. Ils reconnaissent aussi Nycanoc la preneuse de souffle et Jaime le randonneur de mondes. Leurs membres les plus nombreux sont celles et ceux qui dirigent et animent la confrérie des Murmures, une société secrete réputée pour être présente partout et rassembler ses membres autour des histoires, des arts et du savoir, sous le patronage d’Erole et la papesse Alizée d’Ebrume et sa soeur Ombreline."
   },
   {
     "key": "temple-kay",
     "tags": ["vdv", "foi", "temple", "monde:ebenaum"],
     "label": "Temple Kay",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/temple-kays.png",
     "description": "Apparus depuis l'Hembar, les Kay arrivèrent à bord d'une Arche volante dans le monde d'Ebenaum. Arche qui s'écrasa après qu'un paysan ait lancé adroitement une fourche dans sa direction, dit-on. Les Kay possèdent des dons parapsychologiques. Les Moines, chevaliers et maîtres Kay possèdent en plus d'une polyvalence complète la possibilité d’altérer l’esprit de leurs cibles. Ce temple est assez hermétique au monde extérieur."
   },
   {
@@ -671,6 +680,7 @@
     "key": "ordre-menestrels",
     "tags": ["vdv", "dogme", "ordre", "monde:ebenaum"],
     "label": "Ordre des M\u00e9nestrels",
+    "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/ordre-menestrels.png",
     "description": "Les Ménestrels sont un ordre neutre et indépendant qui est chargé d’assister à rendre la justice et protéger les populations reculées loin des cités et villes du monde. Ainsi, tous les états signataires (ils sont nombreux) autorisent les Ménestrels à agir en tant que Shériff nomades. Pour accomplir leurs missions, les Ménestrels suivent un entraînement rigoureux qui leur enseigne des arts du combat magique et une culture vaste du monde, d’où leur nom. Ils ont donc autorité pour rendre la justice sur une terre qui n’en a pas ou avec accord du souverain."
   },
   {
