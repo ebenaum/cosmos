@@ -182,29 +182,34 @@
     "description": "Un monde plus sauvage, isolé et cru rythmé par les saisons."
   },
   {
-    "key": "teleportes",
-    "tags": ["faction", "gn2024"],
-    "label": "Les t\u00e9l\u00e9port\u00e9s"
+    "key": "2025-indigene",
+    "tags": ["world-of-origin"],
+    "label": "Indigène",
+    "description": "Vous êtes originaire du monde dans lequel vous vivez "
   },
   {
-    "key": "non-teleportes",
-    "tags": ["faction", "gn2024"],
-    "label": "Les pas t\u00e9l\u00e9port\u00e9s"
+    "key": "2025-colon",
+    "tags": ["world-of-origin"],
+    "label": "Colon",
+    "description": "Vous vous êtes installé en colon dans un monde indigène."
+  },
+    {
+    "key": "2025-protecteur",
+    "tags": ["approach"],
+    "label": "Protecteur",
+    "description": "Vous protégez le monde dans lequel vous résidez."
   },
   {
-    "key": "occupants-locaux",
-    "tags": ["faction", "gn2024"],
-    "label": "Les occupants locaux"
+    "key": "2025-unioniste",
+    "tags": ["approach"],
+    "label": "Unioniste",
+    "description": "Vous vous êtes installé en colon dans un monde indigène. "
   },
   {
-    "key": "locaux-occupes",
-    "tags": ["faction", "gn2024"],
-    "label": "Les locaux occup\u00e9s"
-  },
-  {
-    "key": "les-autres",
-    "tags": ["faction", "gn2024"],
-    "label": "Les autres"
+    "key": "2025-independantiste",
+    "tags": ["approach"],
+    "label": "Indépendantiste",
+    "description": "Vous êtes pour l’indépendance des mondes."
   },
   {
     "key": "ebenhommes",
