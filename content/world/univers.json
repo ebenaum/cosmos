@@ -268,13 +268,13 @@
     "tags": ["race", "amoureux", "monde:ebenaum"],
     "label": "Vaelir",
     "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/vaelirs.png",
-    "description": "Les Vaelir sont des cr\u00e9atures n\u00e9es dans les gousses des Heygg, les arbres de vie. Vivant en harmonie avec la nature, ces \u00eatres sont comme toute leur race persuad\u00e9s que l'\u00e2ge d'Or s'est achev\u00e9 avec l'apparition d'autres esp\u00e8ces, vou\u00e9es \u00e0 la destruction des for\u00eats et de la nature tranquille et intacte. Mais contrairement aux autres branches de leur esp\u00e8ce, les Vaelir pensent qu'il reste un espoir de sauver la nature, et elles luttent donc pour sinon faire prosp\u00e9rer, sinon profiter en paix de la Flore tant qu'il le sera possible. Cela se traduit par une civilisation de cr\u00e9atures raffin\u00e9es, humano\u00efdes au sang de s\u00e8ve, tr\u00e8s sensible \u00e0 la magie \u00e9manant des arbres, et en balance et harmonie dans tout ce qu'elles entreprennent. Bien qu'ayant peu de compr\u00e9hension pour les pulsions des humains, les Vaelir travaillent avec eux, partageant le go\u00fbt pour l'\u00e9l\u00e9gance et le raffinement."
+    "description": "Les Vaelir font partie des Amoureux. Ils sont des cr\u00e9atures n\u00e9es dans les gousses des Heygg, les arbres de vie. Vivant en harmonie avec la nature, ces \u00eatres sont comme toute leur race persuad\u00e9s que l'\u00e2ge d'Or s'est achev\u00e9 avec l'apparition d'autres esp\u00e8ces, vou\u00e9es \u00e0 la destruction des for\u00eats et de la nature tranquille et intacte. Mais contrairement aux autres branches de leur esp\u00e8ce, les Vaelir pensent qu'il reste un espoir de sauver la nature, et elles luttent donc pour sinon faire prosp\u00e9rer, sinon profiter en paix de la Flore tant qu'il le sera possible. Cela se traduit par une civilisation de cr\u00e9atures raffin\u00e9es, humano\u00efdes au sang de s\u00e8ve, tr\u00e8s sensible \u00e0 la magie \u00e9manant des arbres, et en balance et harmonie dans tout ce qu'elles entreprennent. Bien qu'ayant peu de compr\u00e9hension pour les pulsions des humains, les Vaelir travaillent avec eux, partageant le go\u00fbt pour l'\u00e9l\u00e9gance et le raffinement."
   },
   {
     "key": "wawefir",
     "tags": ["race", "amoureux", "monde:ebenaum"],
     "label": "Wawefir",
-    "description": "Les Wawefir se caract\u00e9risent par leur vocation \u00e0 prot\u00e9ger les for\u00eats de toute intrusion. Ils veulent go\u00fbter de chaque instant de paix qu'il reste avant l'an\u00e9antissement en repoussant autant que possible les intrus. Ils sont donc neutres politiquement et se moquent du monde tant que le monde ne vient pas les chercher. Raffin\u00e9s, mais tr\u00e8s proches de la nature, ce sont de sauvages guerriers."
+    "description": "Les Wawefir font partie des Amoureux. Ils se caract\u00e9risent par leur vocation \u00e0 prot\u00e9ger les for\u00eats de toute intrusion. Ils veulent go\u00fbter de chaque instant de paix qu'il reste avant l'an\u00e9antissement en repoussant autant que possible les intrus. Ils sont donc neutres politiquement et se moquent du monde tant que le monde ne vient pas les chercher. Raffin\u00e9s, mais tr\u00e8s proches de la nature, ce sont de sauvages guerriers."
   },
   {
     "key": "alfir",
@@ -286,7 +286,7 @@
     "key": "elifir",
     "tags": ["race", "amoureux", "monde:ebenaum"],
     "label": "Elifir",
-    "description": "Les Elifir ont gard\u00e9 leurs cosses de leur naissance et s\u2019en servent comme des ailes. Ils vivent dans les nuages et sont de fervents amis de Lunaumyr. Ils contemplent le monde de loin avec un certaine distance et go\u00fbt pour la barbapapa. Certains sont tr\u00e9s hautains et les autres tr\u00e8s enthousiastes de tout."
+    "description": "Les Elifir font partie des Amoureux. Ils ont gard\u00e9 leurs cosses de leur naissance et s\u2019en servent comme des ailes. Ils vivent dans les nuages et sont de fervents amis de Lunaumyr. Ils contemplent le monde de loin avec un certaine distance et go\u00fbt pour la barbapapa. Certains sont tr\u00e9s hautains et les autres tr\u00e8s enthousiastes de tout."
   },
   {
     "key": "nybel",
