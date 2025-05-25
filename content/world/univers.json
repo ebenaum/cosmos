@@ -499,35 +499,35 @@
   },
   {
     "key": "pied",
-    "tags": ["vdv", "monde:erenthyrm"],
+    "tags": ["monde:erenthyrm"],
     "description": "Dans un monde avec peu de science, de technologie et d\u2019\u00e9changes, les vagabonds sont utiles et meme bienvenus. Qu\u2019ils s\u2019aventurent autour du village ou \u00e0 l\u2019autre bout du monde, ils ont souvent l\u2019oeil ac\u00e9r\u00e9 et une ouverture d\u2019esprit tout aussi ac\u00e9r\u00e9e.",
     "label": "Pied"
   },
   {
     "key": "bras",
-    "tags": ["vdv", "monde:erenthyrm"],
+    "tags": ["monde:erenthyrm"],
     "description": "Les bras sont les muscles de la communaut\u00e9. Dans un monde sans v\u00e9ritable arm\u00e9e, la carriere militaire se r\u00e9sume \u00e0 prot\u00e9ger la communaut\u00e9 ou pourchasses les menaces. Enfin, certains peuples abritent des individus qui sont des muscles plus que des cerveaux, des animaux, presque, dress\u00e9s \u00e0 ob\u00e9ir\u2026",
     "label": "Bras"
   },
   {
     "key": "main",
-    "tags": ["vdv", "monde:erenthyrm"],
+    "tags": ["monde:erenthyrm"],
     "label": "Main"
   },
   {
     "key": "voix",
-    "tags": ["vdv", "monde:erenthyrm"],
+    "tags": ["monde:erenthyrm"],
     "label": "Voix"
   },
   {
     "key": "cortex",
-    "tags": ["vdv", "monde:erenthyrm"],
+    "tags": ["monde:erenthyrm"],
     "description": "La voie du Cortex est assez sp\u00e9ciale, puisque comme \u00e9voqu\u00e9 pr\u00e9c\u00e9demment, l\u2019imagination est une chose rare en Erenthyrm, et lorsqu\u2019elle se manifeste c\u2019est souvent sous la forme de chymeyres inqui\u00e9tantes qui n\u2019\u00e9pargnent aucune r\u00e9gion et qui lorsqu\u2019elles sont plusieurs peuvent \u00eatre des menaces tr\u00e8s s\u00e9rieuses. Pour prot\u00e9ger les communaut\u00e9s, diff\u00e9rents ordres et m\u00e9tiers se sont cr\u00e9\u00e9s. On retrouvera \u00e9galement dans le Cortex les personnages jouant avec des forces inconnues et peu ma\u00eetris\u00e9es.",
     "label": "Cortex"
   },
   {
     "key": "coeur",
-    "tags": ["vdv", "monde:erenthyrm"],
+    "tags": ["monde:erenthyrm"],
     "description": "La voie du coeur est celle des individus donnant d\u2019eux-m\u00eames pour prendre soin des autres et de la communaut\u00e9, en partageant leur sensibilit\u00e9 au monde, leurs connaissances et leur \u00e9nergie pour gu\u00e9rir, \u00e9lever et soigner les corps, les \u00e2mes, et les id\u00e9es. Leurs champs d\u2019expertise un peu atypiques ou qui peuvent sembler myst\u00e9rieux pour les esprits simples d\u2019Erenthyrm fait qu\u2019ils sont souvent per\u00e7us comme des parias vivants dans la communaut\u00e9 mais tout en restant un peu \u00e9tranges.",
     "label": "Coeur"
   },
