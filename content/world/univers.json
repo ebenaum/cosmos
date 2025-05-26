@@ -1642,6 +1642,690 @@
         "description": "Vous r\u00e9sistez \u00e0 une \u201cD\u00e9tection !\u201d"
     },
     {
+        "key": "maniement-armes",
+        "tags": [
+            "skill"
+        ],
+        "label": "Maniement des armes",
+        "description": "Vous permet de manier, pour attaquer, des armes \u00e0 une main / en utilisant vos deux mains / des armes \u00e0 deux mains \u00e0 une main."
+    },
+    {
+        "key": "maniement-armes-novice",
+        "tags": [
+            "skill:maniement-armes",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Maniement des armes (Novice)",
+        "description": "Vous permet de manier, pour attaquer, des armes \u00e0 une main / en utilisant vos deux mains / des armes \u00e0 deux mains \u00e0 une main."
+    },
+    {
+        "key": "maniement-armes-expert",
+        "tags": [
+            "skill:maniement-armes",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Maniement des armes  (Expert)",
+        "description": "Vous permet de manier, pour attaquer, des armes \u00e0 une main / en utilisant vos deux mains / des armes \u00e0 deux mains \u00e0 une main."
+    },
+    {
+        "key": "maniement-armes-maitre",
+        "tags": [
+            "skill:maniement-armes",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Maniement des armes (Ma\u00eetre)",
+        "description": "Vous permet de manier, pour attaquer, des armes \u00e0 une main / en utilisant vos deux mains / des armes \u00e0 deux mains \u00e0 une main."
+    },
+    {
+        "key": "sortileges",
+        "tags": [
+            "skill"
+        ],
+        "label": "Sortil\u00e8ges",
+        "description": "Vous savez comment cr\u00e9er de nouveaux sorts in\u00e9dits et vous commencez le jeu avec un certain nombre de Mots d\u2019arcanes."
+    },
+    {
+        "key": "sortileges-novice",
+        "tags": [
+            "skill:sortileges",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Sortil\u00e8ges (Novice)",
+        "description": "Vous savez comment cr\u00e9er de nouveaux sorts in\u00e9dits et vous commencez le jeu avec 2 Mots d\u2019arcanes."
+    },
+    {
+        "key": "sortileges-expert",
+        "tags": [
+            "skill:sortileges",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Sortil\u00e8ges (Expert)",
+        "description": "Vous savez comment cr\u00e9er de nouveaux sorts in\u00e9dits et vous commencez le jeu avec 3 Mots d\u2019arcanes."
+    },
+    {
+        "key": "sortileges-maitre",
+        "tags": [
+            "skill:sortileges",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Sortil\u00e8ges (Ma\u00eetre)",
+        "description": "Vous savez comment cr\u00e9er de nouveaux sorts in\u00e9dits et vous commencez le jeu avec 4 Mots d\u2019arcanes."
+    },
+    {
+        "key": "enchantement",
+        "tags": [
+            "skill"
+        ],
+        "label": "Enchantement",
+        "description": "Vous permet d\u2019appliquer l\u2019effet d\u2019un sort sur un parchemin ou un objet de fa\u00e7on unique ou permanente."
+    },
+    {
+        "key": "enchantement-novice",
+        "tags": [
+            "skill:enchantement",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Enchantement de parchement",
+        "description": "Vous permet d\u2019appliquer l\u2019effet d\u2019un sort sur un parchemin de fa\u00e7on unique."
+    },
+    {
+        "key": "enchantement-expert",
+        "tags": [
+            "skill:enchantement",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Enchantement d'objets",
+        "description": "Vous permet d\u2019appliquer l\u2019effet d\u2019un sort sur un parchemin ou un objet de fa\u00e7on unique."
+    },
+    {
+        "key": "enchantement-maitre",
+        "tags": [
+            "skill:enchantement",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Enchantement Permanent",
+        "description": "vous permet d\u2019appliquer l\u2019effet d\u2019un sort sur un parchemin ou un objet de fa\u00e7on permanente."
+    },
+    {
+        "key": "medecine",
+        "tags": [
+            "skill"
+        ],
+        "label": "M\u00e9decine",
+        "description": "Vous savez gu\u00e9rir des blessures, fractures, h\u00e9morragies et maladies."
+    },
+    {
+        "key": "medecine-novice",
+        "tags": [
+            "skill:medecine",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "M\u00e9decine (Novice)",
+        "description": "Vous savez gu\u00e9rir des blessures."
+    },
+    {
+        "key": "medecine-expert",
+        "tags": [
+            "skill:medecine",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "M\u00e9decine (Expert)",
+        "description": "Vous savez gu\u00e9rir des fractures et h\u00e9morragies."
+    },
+    {
+        "key": "medecine-maitre",
+        "tags": [
+            "skill:medecine",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "M\u00e9decine (Ma\u00eetre)",
+        "description": "Vous savez gu\u00e9rir des fractures, h\u00e9morragies et des maladies."
+    },
+    {
+        "key": "crise-mentale",
+        "tags": [
+            "skill",
+            "skill:crise-mentale",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Crise mentale",
+        "description": "Vous pouvez mettre quelqu\u2019un en crise mentale si vous parvenez \u00e0 lui subtiliser son ruban d\u2019\u00e2me et lui lancer."
+    },
+    {
+        "key": "camouflage",
+        "tags": [
+            "skill",
+            "skill:camouflage",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Camouflage",
+        "description": "Cachez-vous et levez le poing. Tant que vous \u00eates immobile vous \u00eates invisible."
+    },
+    {
+        "key": "dissipation-de-magie",
+        "tags": [
+            "skill",
+            "skill:dissipation-de-magie",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Dissipation de magie",
+        "description": "Cela vous co\u00fbte 1 point de vie pour arr\u00eater ou r\u00e9sister \u00e0 un effet magique."
+    },
+    {
+        "key": "detection",
+        "tags": [
+            "skill",
+            "skill:detection",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "D\u00e9tection",
+        "description": "Vous permet de dire \u201cd\u00e9tection!\u201d. Toutes les personnes qui entendent ceci doivent se signaler en r\u00e9pondant \u201cici\u201d."
+    },
+    {
+        "key": "couragee",
+        "tags": [
+            "skill",
+            "skill:courage",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Courage",
+        "description": "Vous permet de r\u00e9sister \u00e0 \u201cPeur\u201d, \u201cStupeur\u201d et \u201cEffroi\u201d."
+    },
+    {
+        "key": "tenacite",
+        "tags": [
+            "skill",
+            "skill:tenacite",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "T\u00e9nacit\u00e9",
+        "description": "Vous pouvez retourner 1 pin\u2019s au lieu de tomber en crise mentale."
+    },
+    {
+        "key": "intimidation",
+        "tags": [
+            "skill",
+            "skill:intimidation",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Intimidation",
+        "description": "Vous permet d\u2019infliger Effroi ou Peur ou Stupeur \u00e0 une cible."
+    },
+    {
+        "key": "collectioneur",
+        "tags": [
+            "skill",
+            "skill:collectioneur",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Collectionneur",
+        "description": "Vous retournez un de vos pin\u2019s d\u2019influence \u00e0 chaque fois que vous mettez quelqu\u2019un en agonie."
+    },
+    {
+        "key": "diplomate",
+        "tags": [
+            "skill",
+            "skill:diplomate",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Diplomate",
+        "description": "Vous pouvez donner un de vos pin\u2019s d\u2019influence \u00e0 quelqu\u2019un."
+    },
+    {
+        "key": "frappe-benie",
+        "tags": [
+            "skill",
+            "skill:frappe-benie",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Frappe b\u00e9nie",
+        "description": "Embrassez votre lame, votre prochaine attaque est \u201cmagique\u201d."
+    },
+    {
+        "key": "stase-etheree",
+        "tags": [
+            "skill",
+            "skill:stase-etheree",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Stase \u00e9th\u00e9r\u00e9e",
+        "description": "Lors d\u2019un combat, croisez vos mains au-devant de vous et restez immobile (vous pouvez vous d\u00e9placer en marchant pour vous mettre en retrait du combat mais pas de fuir). Tant que vous le faites vous \u00eates consid\u00e9r\u00e9 comme inaccessible physiquement. Cette comp\u00e9tence existe surtout pour \u00e9viter les combats physiques, mais elle ne dure que quelques minutes, elle ne vous permet pas  d\u2019\u00e9chapper aux cons\u00e9quences d\u2019une d\u00e9faite ni aux sorts/comp\u00e9tences. Vous ne pouvez \u00e9videmment rien faire d\u2019autre."
+    },
+    {
+        "key": "affrontez-moi",
+        "tags": [
+            "skill",
+            "skill:affrontez-moi",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Affrontez-moi !",
+        "description": "Vos ennemis doivent concentrer leur attaque sur vous tant que vous \u00eates en vie. Si vos alli\u00e9s s\u2019interposent, ils peuvent \u00eatre attaqu\u00e9s."
+    },
+    {
+        "key": "necrophile",
+        "tags": [
+            "skill",
+            "skill:necrophile",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "N\u00e9crophile",
+        "description": "Vous pouvez poser 3 questions \u00e0 un cadavre au sujet des circonstances de sa mort. Il ne peut r\u00e9pondre que par oui ou non."
+    },
+    {
+        "key": "esquive",
+        "tags": [
+            "skill",
+            "skill:esquive",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Esquive",
+        "description": "Faire une pirouette sur vous-m\u00eame vous permet d\u2019\u00e9viter de subir un d\u00e9g\u00e2t. "
+    },
+    {
+        "key": "meneur",
+        "tags": [
+            "skill",
+            "skill:meneur",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Meneur",
+        "description": "Vous pouvez conf\u00e9rer une dose de courage \u00e0 un groupe en leur faisant un discours de quelques minutes."
+    },
+    {
+        "key": "vol",
+        "tags": [
+            "skill",
+            "skill:vol",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Vol",
+        "description": "Vous avez la capacit\u00e9 de voler en battant des bras et en prenant 5 pas d\u2019\u00e9lan. Tant que vous le faites vous \u00eates intouchable aux armes de contact mais ne pouvez rien faire d\u2019autre."
+    },
+    {
+        "key": "connaissances-locales",
+        "tags": [
+            "skill",
+            "skill:connaissances-locales",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Connaissances locales.",
+        "description": "Vous avez un annuaire d\u00e9taill\u00e9 des personnages pr\u00e9sents et pouvez obtenir des informations aupr\u00e8s de la Confr\u00e9rie des murmures. "
+    },
+    {
+        "key": "ni-oui-ni-non",
+        "tags": [
+            "skill",
+            "skill:ni-oui-ni-non",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Ni oui ni non",
+        "description": "Si vous arrivez \u00e0 faire que la personne en discussion vous r\u00e9ponde OUI/NON/OUI \u00e0 trois questions d'affil\u00e9e vous en posez une quatri\u00e8me \u00e0 laquelle elle doit dire la v\u00e9rit\u00e9 ( par Oui ou Non)."
+    },
+    {
+        "key": "panache",
+        "tags": [
+            "skill",
+            "skill:panache",
+            "level:1",
+            "cost:1",
+            "available-to-sorcerer"
+        ],
+        "label": "Panache",
+        "description": "Lorsque vous combattez seul contre au moins deux personnes vous divisez les d\u00e9g\u00e2ts par 2."
+    },
+    {
+        "key": "bottes-de-combat",
+        "tags": [
+            "skill"
+        ],
+        "label": "Bottes de combat",
+        "description": "Vous connaissez des bottes de combat."
+    },
+    {
+        "key": "bottes-de-combat-novice",
+        "tags": [
+            "skill:bottes-de-combat",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Bottes de combat (Novice)",
+        "description": "Vous connaissez 2 bottes."
+    },
+    {
+        "key": "bottes-de-combat-expert",
+        "tags": [
+            "skill:bottes-de-combat",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Bottes de combat (Expert)",
+        "description": "Vous connaissez 4 bottes."
+    },
+    {
+        "key": "bottes-de-combat-maitre",
+        "tags": [
+            "skill:bottes-de-combat",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Bottes de combat (Ma\u00eetre)",
+        "description": "Vous connaissez 6 bottes."
+    },
+    {
+        "key": "archerie",
+        "tags": [
+            "skill"
+        ],
+        "label": "Archerie",
+        "description": "Vous connaissez des Frappes \u00e0 lancer."
+    },
+    {
+        "key": "archerie-novice",
+        "tags": [
+            "skill:archerie",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Archerie (Novice)",
+        "description": "Vous connaissez 2 Frappes."
+    },
+    {
+        "key": "archerie-expert",
+        "tags": [
+            "skill:archerie",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Archerie (Expert)",
+        "description": "Vous connaissez 4 Frappes."
+    },
+    {
+        "key": "archerie-maitre",
+        "tags": [
+            "skill:archerie",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Archerie (Ma\u00eetre)",
+        "description": "Vous connaissez 6 Frappes."
+    },
+    {
+        "key": "dressage",
+        "tags": [
+            "skill"
+        ],
+        "label": "Dressage",
+        "description": "Vous ne subissez plus / Pouvez activer / apprendre les effets des cr\u00e9atures sauvages trouv\u00e9es dans les bois (peluches)."
+    },
+    {
+        "key": "dressage-novice",
+        "tags": [
+            "skill:dressage",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Dressage (Novice)",
+        "description": "Vous ne subissez plus les effets des cr\u00e9atures sauvages trouv\u00e9es dans les bois."
+    },
+    {
+        "key": "dressage-expert",
+        "tags": [
+            "skill:dressage",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Dressage (Expert)",
+        "description": "Vous pouvez activer les effets des cr\u00e9atures sauvages trouv\u00e9es dans les bois."
+    },
+    {
+        "key": "dressage-maitre",
+        "tags": [
+            "skill:dressage",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Dressage (Ma\u00eetre)",
+        "description": "Vous ne subissez plus apprendre les effets des cr\u00e9atures sauvages trouv\u00e9es dans les bois."
+    },
+    {
+        "key": "chasseur",
+        "tags": [
+            "skill"
+        ],
+        "label": "Chasseur",
+        "description": "Vous gagnez des bonus et comp\u00e9tences contre une personne / race / Monde choisi."
+    },
+    {
+        "key": "chasseur-novice",
+        "tags": [
+            "skill:chasseur",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Chasseur (Novice)",
+        "description": "Vous pouvez lancer d\u00e9tection contre une personne / race / Monde choisi."
+    },
+    {
+        "key": "chasseur-expert",
+        "tags": [
+            "skill:chasseur",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Chasseur (Expert)",
+        "description": "Vous r\u00e9duisez de 1 les d\u00e9g\u00e2ts contre une personne / race / Monde choisi."
+    },
+    {
+        "key": "chasseur-maitre",
+        "tags": [
+            "skill:chasseur",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Chasseur (Ma\u00eetre)",
+        "description": "Vous gagnez \u201cCourage\u201d contre une personne / race / Monde choisi."
+    },
+    {
+        "key": "roublardise",
+        "tags": [
+            "skill"
+        ],
+        "label": "Roublardise",
+        "description": "Vous connaissez des techniques de roublard pour vous tirer des mauvaises passes."
+    },
+    {
+        "key": "roublardise-novice",
+        "tags": [
+            "skill:roublardise",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Roublardise (Novice)",
+        "description": "Vous connaissez 2 techniques de roublard."
+    },
+    {
+        "key": "roublardise-expert",
+        "tags": [
+            "skill:roublardise",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Roublardise (Expert)",
+        "description": "Vous connaissez 4 techniques de roublard."
+    },
+    {
+        "key": "roublardise-maitre",
+        "tags": [
+            "skill:roublardise",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Roublardise (Ma\u00eetre)",
+        "description": "Vous connaissez 6 techniques de roublard."
+    },
+    {
+        "key": "force",
+        "tags": [
+            "skill"
+        ],
+        "label": "Force",
+        "description": "Apr\u00e8s une pompe, votre prochaine attaque inflige un effet suppl\u00e9mentaire."
+    },
+    {
+        "key": "force-novice",
+        "tags": [
+            "skill:force",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Force (Novice)",
+        "description": "Apr\u00e8s une pompe, votre prochaine attaque inflige choc."
+    },
+    {
+        "key": "force-expert",
+        "tags": [
+            "skill:force",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Force (Expert)",
+        "description": "Apr\u00e8s une pompe, votre prochaine attaque inflige 2 d\u00e9g\u00e2ts."
+    },
+    {
+        "key": "force-maitre",
+        "tags": [
+            "skill:force",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Force (Ma\u00eetre)",
+        "description": "Apr\u00e8s une pompe, votre prochaine attaque inflige 2 d\u00e9g\u00e2ts permanents."
+    },
+    {
+        "key": "ceremonies",
+        "tags": [
+            "skill"
+        ],
+        "label": "C\u00e9r\u00e9monies",
+        "description": "Vous permet de conduire des c\u00e9r\u00e9monies."
+    },
+    {
+        "key": "ceremonies-novice",
+        "tags": [
+            "skill:ceremonies",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "C\u00e9r\u00e9monies (Novice)",
+        "description": "Vous permet de conduire 2 c\u00e9r\u00e9monies avec 2 participants."
+    },
+    {
+        "key": "ceremonies-expert",
+        "tags": [
+            "skill:ceremonies",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "C\u00e9r\u00e9monies (Expert)",
+        "description": "Vous permet de conduire 4 c\u00e9r\u00e9monies avec 4 participants."
+    },
+    {
+        "key": "ceremonies-maitre",
+        "tags": [
+            "skill:ceremonies",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "C\u00e9r\u00e9monies (Ma\u00eetre)",
+        "description": "Vous permet de conduire 6 c\u00e9r\u00e9monies avec n'importe quel nombre de participants."
+    },
+    {
+        "key": "specialisation",
+        "tags": [
+            "skill"
+        ],
+        "label": "Sp\u00e9cialisation",
+        "description": "Des comp\u00e9tences sp\u00e9cifiques \u00e0 votre Voie de Vie et/ou Race."
+    },
+    {
+        "key": "specialisation-novice",
+        "tags": [
+            "skill:specialisation",
+            "level:1",
+            "cost:1"
+        ],
+        "label": "Sp\u00e9cialisation (Novice)",
+        "description": "Vous connaissez 2 comp\u00e9tences sp\u00e9cifiques \u00e0 votre Voie de Vie et/ou Race."
+    },
+    {
+        "key": "specialisation-expert",
+        "tags": [
+            "skill:specialisation",
+            "level:2",
+            "cost:1"
+        ],
+        "label": "Sp\u00e9cialisation (Expert)",
+        "description": "Vous connaissez 4 comp\u00e9tences sp\u00e9cifiques \u00e0 votre Voie de Vie et/ou Race."
+    },
+    {
+        "key": "specialisation-maitre",
+        "tags": [
+            "skill:specialisation",
+            "level:3",
+            "cost:1"
+        ],
+        "label": "Sp\u00e9cialisation (Ma\u00eetre)",
+        "description": "Vous connaissez 6 comp\u00e9tences sp\u00e9cifiques \u00e0 votre Voie de Vie et/ou Race."
+    },
+    {
         "key": "gambison",
         "tags": [
             "inventory",
