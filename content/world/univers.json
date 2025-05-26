@@ -1517,17 +1517,17 @@
             "cost:2"
         ],
         "label": "Sorts (Novice)",
-        "description": "Vous donne la capacit\u00e9 de sacrifier l\u2019un de vos points de vie pour lancer un sort basique (les comp\u00e9tences avec une ast\u00e9risque ci-dessous) au contact / \u00e0 distance / g\u00e9n\u00e9ral en d\u00e9clamant un vers. Vous ajoutez l\u2019effet \u201cmagique\u201d \u00e0 la comp\u00e9tence, auquel peuvent r\u00e9sister certaines personnes."
+        "description": "Vous donne la capacit\u00e9 de sacrifier l\u2019un de vos points de vie pour lancer un sort basique (les comp\u00e9tences avec une ast\u00e9risque ci-dessous) au contact en d\u00e9clamant un vers. Vous ajoutez l\u2019effet \u201cmagique\u201d \u00e0 la comp\u00e9tence, auquel peuvent r\u00e9sister certaines personnes."
     },
     {
         "key": "sorts-expert",
         "tags": [
             "skill:sorts",
             "level:2",
-            "cost:1"
+            "cost:2"
         ],
         "label": "Sorts (Expert)",
-        "description": "Vous donne la capacit\u00e9 de sacrifier l\u2019un de vos points de vie pour lancer un sort basique (les comp\u00e9tences avec une ast\u00e9risque ci-dessous) au contact / \u00e0 distance / g\u00e9n\u00e9ral en d\u00e9clamant un vers. Vous ajoutez l\u2019effet \u201cmagique\u201d \u00e0 la comp\u00e9tence, auquel peuvent r\u00e9sister certaines personnes."
+        "description": "Vous donne la capacit\u00e9 de sacrifier l\u2019un de vos points de vie pour lancer un sort basique (les comp\u00e9tences avec une ast\u00e9risque ci-dessous) \u00e0 distance / g\u00e9n\u00e9ral en d\u00e9clamant un vers. Vous ajoutez l\u2019effet \u201cmagique\u201d \u00e0 la comp\u00e9tence, auquel peuvent r\u00e9sister certaines personnes."
     },
     {
         "key": "sorts-maitre",
@@ -1537,7 +1537,7 @@
             "cost:1"
         ],
         "label": "Sorts (Ma\u00eetre)",
-        "description": "Vous donne la capacit\u00e9 de sacrifier l\u2019un de vos points de vie pour lancer un sort basique (les comp\u00e9tences avec une ast\u00e9risque ci-dessous) au contact / \u00e0 distance / g\u00e9n\u00e9ral en d\u00e9clamant un vers. Vous ajoutez l\u2019effet \u201cmagique\u201d \u00e0 la comp\u00e9tence, auquel peuvent r\u00e9sister certaines personnes."
+        "description": "Vous donne la capacit\u00e9 de sacrifier l\u2019un de vos points de vie pour lancer un sort basique (les comp\u00e9tences avec une ast\u00e9risque ci-dessous) g\u00e9n\u00e9ral en d\u00e9clamant un vers. Vous ajoutez l\u2019effet \u201cmagique\u201d \u00e0 la comp\u00e9tence, auquel peuvent r\u00e9sister certaines personnes."
     },
     {
         "key": "identification-objet",
