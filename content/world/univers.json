@@ -67,37 +67,37 @@
   {
     "key": "savoir-2",
     "tags": ["characteristic:savoir", "level:-2", "pc:-2"],
-    "description": "-2 PC"
+    "description": "2 Points de Compétence"
   },
   {
     "key": "savoir-1",
     "tags": ["characteristic:savoir", "level:-1", "pc:-1"],
-    "description": "-1 PC"
+    "description": "3 Points de Compétence"
   },
   {
     "key": "savoir",
     "tags": ["characteristic:savoir", "level:0", "pc:0"],
-    "description": "No bonus point"
+    "description": "4 Points de Compétences"
   },
   {
     "key": "savoir+1",
     "tags": ["characteristic:savoir", "level:1", "pc:1"],
-    "description": "1 PC"
+    "description": "5 Points de Compétence"
   },
   {
     "key": "savoir+2",
     "tags": ["characteristic:savoir", "level:2", "pc:2"],
-    "description": "2 PC"
+    "description": "6 Points de Compétence"
   },
   {
     "key": "savoir+3",
     "tags": ["characteristic:savoir", "level:3", "pc:3"],
-    "description": "3 PC"
+    "description": "7 Points de Compétences"
   },
   {
     "key": "savoir+4",
     "tags": ["characteristic:savoir", "level:4", "pc:4"],
-    "description": "4 PC"
+    "description": "8 Points de Compétence"
   },
   {
     "key": "dexterite-2",
