@@ -77,7 +77,7 @@
   {
     "key": "savoir",
     "tags": ["characteristic:savoir", "level:0", "pc:0"],
-    "description": "4 Points de Compétences"
+    "description": "4 Points de Compétence"
   },
   {
     "key": "savoir+1",
@@ -92,7 +92,7 @@
   {
     "key": "savoir+3",
     "tags": ["characteristic:savoir", "level:3", "pc:3"],
-    "description": "7 Points de Compétences"
+    "description": "7 Points de Compétence"
   },
   {
     "key": "savoir+4",
