@@ -6,7 +6,7 @@
   },
   {
     "key": "skills-default-points",
-    "tags": ["rule", "n:4"],
+    "tags": ["rule", "n:3"],
     "label": "Nombre de points de comp\u00e9tences par d\u00e9faut."
   },
   {
@@ -67,37 +67,37 @@
   {
     "key": "savoir-2",
     "tags": ["characteristic:savoir", "level:-2", "pc:-2"],
-    "description": "2 Points de Compétence"
+    "description": "1 Point de Compétence"
   },
   {
     "key": "savoir-1",
     "tags": ["characteristic:savoir", "level:-1", "pc:-1"],
-    "description": "3 Points de Compétence"
+    "description": "2 Points de Compétence"
   },
   {
     "key": "savoir",
     "tags": ["characteristic:savoir", "level:0", "pc:0"],
-    "description": "4 Points de Compétence"
+    "description": "3 Points de Compétence"
   },
   {
     "key": "savoir+1",
     "tags": ["characteristic:savoir", "level:1", "pc:1"],
-    "description": "5 Points de Compétence"
+    "description": "4 Points de Compétence"
   },
   {
     "key": "savoir+2",
     "tags": ["characteristic:savoir", "level:2", "pc:2"],
-    "description": "6 Points de Compétence"
+    "description": "5 Points de Compétence"
   },
   {
     "key": "savoir+3",
     "tags": ["characteristic:savoir", "level:3", "pc:3"],
-    "description": "7 Points de Compétence"
+    "description": "6 Points de Compétence"
   },
   {
     "key": "savoir+4",
     "tags": ["characteristic:savoir", "level:4", "pc:4"],
-    "description": "8 Points de Compétence"
+    "description": "7 Points de Compétence"
   },
   {
     "key": "dexterite-2",
