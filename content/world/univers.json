@@ -37,32 +37,32 @@
   {
     "key": "corps-1",
     "tags": ["characteristic:corps", "level:-1"],
-    "description": "2 PV"
+    "description": "2 PVs"
   },
   {
     "key": "corps0",
     "tags": ["characteristic:corps", "level:0"],
-    "description": "3 PV"
+    "description": "3 PVs"
   },
   {
     "key": "corps+1",
     "tags": ["characteristic:corps", "level:1"],
-    "description": "4 PV"
+    "description": "4 PVs"
   },
   {
     "key": "corps+2",
     "tags": ["characteristic:corps", "level:2"],
-    "description": "5 PV"
+    "description": "5 PVs"
   },
   {
     "key": "corps+3",
     "tags": ["characteristic:corps", "level:3"],
-    "description": "6 PV"
+    "description": "6 PVs"
   },
   {
     "key": "corps+4",
     "tags": ["characteristic:corps", "level:4"],
-    "description": "7 PV"
+    "description": "7 PVs"
   },
   {
     "key": "savoir-2",
