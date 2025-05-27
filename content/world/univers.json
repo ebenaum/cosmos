@@ -75,7 +75,7 @@
     "description": "2 Points de Compétence"
   },
   {
-    "key": "savoir",
+    "key": "savoir0",
     "tags": ["characteristic:savoir", "level:0", "pc:0"],
     "description": "3 Points de Compétence"
   },
