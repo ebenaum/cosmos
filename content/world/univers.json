@@ -1040,25 +1040,25 @@
     "key": "maniement-armes",
     "tags": ["skill"],
     "label": "Maniement des armes",
-    "description": "Vous permet de manier, pour attaquer, des armes \u00e0 une main / en utilisant vos deux mains / des armes \u00e0 deux mains \u00e0 une main."
+    "description": "Vous permet de manier, pour attaquer, des armes plus puissantes. Sans la compétence, vous ne pouvez manier qu'un arme à une main."
   },
   {
     "key": "maniement-armes-novice",
     "tags": ["skill:maniement-armes", "level:1", "cost:1"],
     "label": "Maniement des armes (Novice)",
-    "description": "Vous permet de manier, pour attaquer, des armes \u00e0 une main / en utilisant vos deux mains / des armes \u00e0 deux mains \u00e0 une main."
+    "description": "Vous permet de manier une arme simple dans chaque main ou une arme à deux mains."
   },
   {
     "key": "maniement-armes-expert",
     "tags": ["skill:maniement-armes", "level:2", "cost:1"],
     "label": "Maniement des armes  (Expert)",
-    "description": "Vous permet de manier, pour attaquer, des armes \u00e0 une main / en utilisant vos deux mains / des armes \u00e0 deux mains \u00e0 une main."
+    "description": "Vous permet de manier une Arme Rare (voir Inventaire)."
   },
   {
     "key": "maniement-armes-maitre",
     "tags": ["skill:maniement-armes", "level:3", "cost:1"],
     "label": "Maniement des armes (Ma\u00eetre)",
-    "description": "Vous permet de manier, pour attaquer, des armes \u00e0 une main / en utilisant vos deux mains / des armes \u00e0 deux mains \u00e0 une main."
+    "description": "Vous permet de manier une arme à deux mains avec une seule main."
   },
   {
     "key": "sortileges",
@@ -1713,5 +1713,11 @@
     "tags": ["inventory", "cost:1"],
     "label": "Venne en cage",
     "description": "Permet d'utiliser une lampe-torche \"en-jeu\"."
+  },
+  {
+    "key": "arme-rare",
+    "tags": ["inventory", "cost:1"],
+    "label": "Arme Rare",
+    "description": "Vous permet de commencer le jeu avec une Arme Rare. Pour la manier, nécessite la compétence 'Maniement des armes (Expert)'."
   }
 ]
