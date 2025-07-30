@@ -6,6 +6,12 @@
     "description": "Lorsque vos PV tombent à 0, vous mourez. Vous donnez votre ruban d'âme au joueur vous ayant donné la mort ou, si la mort est auto-infligée, vous le laissez au sol. Ce qui se passe ensuite dépend du monde dans lequel votre trépas survient.\n\n En Ebenaum : Vous vous rendez au Bureau des Morts dans la zone du portail, près de la petite église. Vous en repartirez en vie, sans ruban d'âme et avec un handicap supplémentaire. Peut-être que les entités présentes vous permettront de récupérer un ruban d'âme en échange d'un petit service. Sans ruban d'âme, vous ne pouvez pas vous rendre en Erenthyrm.\n\nEn Erenthyrm : Vous vous transformez en Chombie, allié des Chymeyres. Vous vous dirigez vers le Bureau des Morts dans la zone du portail, près de la petite église. Vous attaquez toute personne rencontrée sur votre chemin. Vous repartirez en vie mais vous ne pourrez pas retourner en Erenthyrm sans avoir retrouvé un ruban d'âme, dans la zone du portail ou en Ebenaum."
   },
   {
+    "key": "2025:magie",
+    "tags": ["edition-2025"],
+    "label": "Règle : La magie",
+    "description": "En Ebenaum : vous pouvez utiliser la magie normalement.\n\n En Erenthyrm : vous ne pouvez utiliser la magie qu'autour des Totems de magie et de l'Arbre à Vennes.\n\n Dans la zone du portail : le portail aspirant toute la magie, il est plus difficile de lancer un sort. Il vous en coûtera 2 PVs au lieu de 1."
+  },
+  {
     "key": "2025:Colonie",
     "tags": ["edition-2025"],
     "label": "Colonie",
