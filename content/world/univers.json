@@ -1,4 +1,10 @@
 [
+    {
+    "key": "2025:reputation",
+    "tags": ["edition-2025"],
+    "label": "Règle : Réputation",
+    "description": "Vous aurez deux bandeaux dans votre enveloppe de départ : un bandeau rouge et un bandeau bleu. Vous pouvez arborer le bandeau bleu, si vous le désirez, quand votre réputation est supérieure à 0. Si votre réputation est négative, vous DEVREZ porter le bandeau rouge. Des événements de jeu peuvent modifier votre réputation."
+  },
   {
     "key": "2025:mort",
     "tags": ["edition-2025"],
