@@ -1,5 +1,17 @@
 [
     {
+    "key": "2026:description",
+    "tags": ["edition-2026"],
+    "label": "Edition 2026",
+    "description": "Pour le jeu de cet \u00e9t\u00e9 les groupes seront en opposition directe et tr\u00e8s concr\u00e8te m\u00eame si vos personnages seront libres de leurs choix et d'en changer. Nous arrivons sur une fin de cycle, l'ambiance va devenir plus grave bien qu'avec toujours une approche d\u00e9cal\u00e9e\u2026"
+  },
+  {
+    "key": "2026:scenario",
+    "tags": ["edition-2026"],
+    "label": "Sc\u00e9nario 2026",
+    "description": "La Palereine a fusionn\u00e9 avec une Dame Noire lib\u00e9r\u00e9e d'une sombre opale qui l'avait captur\u00e9e en Erenthyrm il y a quelques \u00e9pisodes. D\u00e9sormais compl\u00e8te, elle a pu se lib\u00e9rer du portail qui la tenait prisonni\u00e8re \u2014tout comme Nycanoc, la cueilleuse d'\u00e2mes\u2014 et une Brume se r\u00e9pand sur le monde d'Ebenaum, absorbant Dieux et magie. Certains, intrigu\u00e9s, fuient cette brume inlassablement, formant des tribus \u00e9parses en maraude au fur et \u00e0 mesure que la blancheur s'\u00e9tend. D'autres ont fait le choix d'enlacer cette opportunit\u00e9 de b\u00e2tir un nouveau monde et accompagnent la Brume pour l'aider \u00e0 progresser. Et \u00e9chapper \u00e0 la Mort prisonni\u00e8re.\n\nNul ne sait dans les protagonistes ce qu'il est advenu d'Erenthyrm, du portail, ni si quelque part quelqu'un est parvenu \u00e0 stopper la Brume.\n\nL'action se centre notamment sur un groupe d'aventuriers ayant fui Terra Kraum, men\u00e9s par Croak, ce dieu fac\u00e9tieux des corbeaux, des gr\u00e8ves et des contrats post-mortem douteux, arrivant en un domaine myst\u00e9rieux et surtout\u2026D\u00e9sembrum\u00e9. Mais la Brume les encercle\u2026L'encouragerez-vous ou tenterez-vous d'y \u00e9chapper ?"
+  },
+  {
     "key": "2025:reputation",
     "tags": ["edition-2025"],
     "label": "Règle : Réputation",
@@ -81,7 +93,7 @@
   {
     "key": "influence",
     "tags": ["characteristic"],
-    "label": "Influence"
+    "label": "Esprit"
   },
   {
     "key": "corps-2",
@@ -166,27 +178,27 @@
   {
     "key": "dexterite0",
     "tags": ["characteristic:dexterite", "level:0"],
-    "description": "1 Gemme"
+    "description": "1 Gemme. Une seule main utilisable au combat."
   },
   {
     "key": "dexterite+1",
     "tags": ["characteristic:dexterite", "level:1"],
-    "description": "2 Gemmes"
+    "description": "2 Gemmes. Ambidextrie."
   },
   {
     "key": "dexterite+2",
     "tags": ["characteristic:dexterite", "level:2"],
-    "description": "3 Gemmes"
+    "description": "3 Gemmes. Armes \u00e0 deux mains."
   },
   {
     "key": "dexterite+3",
     "tags": ["characteristic:dexterite", "level:3"],
-    "description": "4 Gemmes"
+    "description": "4 Gemmes. Armes \u00e0 feu + Puits en lutte."
   },
   {
     "key": "dexterite+4",
     "tags": ["characteristic:dexterite", "level:4"],
-    "description": "5 Gemmes"
+    "description": "5 Gemmes. Une arme \u00e0 deux mains dans chaque main."
   },
   {
     "key": "influence-2",
@@ -221,7 +233,7 @@
   {
     "key": "influence+4",
     "tags": ["characteristic:influence", "level:4"],
-    "description": "Inalt\u00e9rable"
+    "description": "R\u00e9putation \u00e0 +4"
   },
   {
     "key": "ebenaum",
@@ -236,6 +248,12 @@
     "description": "Un monde plus sauvage, isol\u00e9 et brut, rythm\u00e9 par les saisons."
   },
   {
+    "key": "ebeneren",
+    "tags": ["monde"],
+    "label": "Ebeneren",
+    "description": "Un monde n\u00e9 de la Brume, entre Ebenaum et Erenthyrm."
+  },
+  {
     "key": "2025-indigene",
     "tags": ["world-of-origin"],
     "label": "Indig\u00e8ne",
@@ -246,6 +264,18 @@
     "tags": ["world-of-origin"],
     "label": "Colon",
     "description": "Vous vous \u00eates install\u00e9 en colon dans un monde indig\u00e8ne."
+  },
+  {
+    "key": "2026-enlace",
+    "tags": ["world-of-origin", "edition-2026"],
+    "label": "Je l'enlace",
+    "description": "Vous vous \u00eates mis au service de la Brume et de la Palereine."
+  },
+  {
+    "key": "2026-fuit",
+    "tags": ["world-of-origin", "edition-2026"],
+    "label": "Je la fuis",
+    "description": "Vous fuyez la Brume inlassablement."
   },
   {
     "key": "2025-protecteur",
@@ -481,7 +511,7 @@
   },
   {
     "key": "chymeyres",
-    "tags": ["race", "monde:erenthyrm"],
+    "tags": ["race", "monde:ebeneren"],
     "label": "Chymeyres",
     "img": "https://raw.githubusercontent.com/ebenaum/cosmos/refs/heads/master/uploads/chymeyres.png",
     "description": "Les Chymeyres ne sont pas des cr\u00e9atures vivantes. Elles sont en r\u00e9alit\u00e9 l\u2019\u00e9manation des r\u00eaves et des cauchemars des hommes, qui prennent forme. Elles d\u00e9pendent donc d\u2019un r\u00eave ou d\u2019un cauchemar, qui r\u00e9git toutes leurs actions. Elles sont \u00e9galement constamment attir\u00e9es par les sources d\u2019imagination qu\u2019elles drainent et vampirisent. Se faisant, soit elles contaminent d\u2019autres cr\u00e9atures vivantes pour servir leur cause, soit elles prennent possession d\u2019elles (ainsi, vous pourrez jouer parfois des \u201cposs\u00e9d\u00e9s\u201d.). Elles sont cependant soumises \u00e0 la puissance des Maitres Kays qui sont parvenus, pour l\u2019instant, \u00e0 les faire ob\u00e9ir \u00e0 leurs souhaits. Les chymeyres craignent \u00e9galement certaines choses. Enfin, il existe une hi\u00e9rarchie chez elle, et elles ob\u00e9iront toujours \u00e0 un Cavalier, une Reine, ou un Roi Chymeyre. Elles sont l'exacerbation des d\u00e9fauts et vices des hommes."
@@ -900,9 +930,15 @@
   },
   {
     "key": "cortex-chymeyre",
-    "tags": ["vdv", "cortex", "monde:erenthyrm"],
+    "tags": ["vdv", "cortex", "monde:ebeneren"],
     "label": "Chymeyre",
     "description": "Well. Et oui, vous pouvez \u00e9galement d\u00e9cider d\u2019incarner une chymeyre. Il n\u2019en sera pas dit trop sur la nature cauchemardesque des Chymeyres, seulement que ces entit\u00e9s sont mues par l\u2019app\u00e9tit des esprits, et, pour cela, peuvent passer de leur forme \u00e9th\u00e9r\u00e9e \u00e0 la possession des corps d\u2019esprits plus faibles. Ainsi, certaines chymeyres corrompent le corps de leurs victimes qu\u2019elles contr\u00f4lent pour passer inaper\u00e7ues dans une communaut\u00e9. Bien que per\u00e7ues comme des pr\u00e9dateurs dangereuses, les Chymeyres parviennent ainsi \u00e0 saper le chaos, trouver des proies et assouvir leurs instincts. Elles ont pour cela l\u2019appui de capacit\u00e9s hors-normes, que certains appelleraient s\u2019ils en comprenaient le sens \u201cmagie\u201d."
+  },
+  {
+    "key": "embrumeurs",
+    "tags": ["vdv", "monde:ebeneren"],
+    "label": "Embrumeurs",
+    "description": "Vous vous \u00eates mis au service de la Palereine et de la Brume pour b\u00e2tir un meilleur monde. Vous avez obtenu de nouveaux pouvoirs et privil\u00e8ges."
   },
   {
     "key": "danseurie-saisons",
@@ -1196,7 +1232,7 @@
       "available-to-sorcerer"
     ],
     "label": "Crise mentale",
-    "description": "Vous pouvez mettre quelqu\u2019un en crise mentale si vous parvenez \u00e0 lui subtiliser son ruban d\u2019\u00e2me et lui lancer."
+    "description": "Vous pouvez faire 1 point d\u2019esprit \u00e0 quelqu\u2019un si vous parvenez \u00e0 lui toucher son pin\u2019s du doigt. (Il saura que vous l\u2019avez Trigger)"
   },
   {
     "key": "camouflage",
@@ -1208,7 +1244,7 @@
       "available-to-sorcerer"
     ],
     "label": "Camouflage",
-    "description": "Cachez-vous et levez le poing. Tant que vous \u00eates immobile vous \u00eates invisible."
+    "description": "Cachez-vous (personne ne doit vous voir) et levez le poing. Tant que vous \u00eates immobile vous \u00eates invisible."
   },
   {
     "key": "dissipation-de-magie",
@@ -1220,7 +1256,7 @@
       "available-to-sorcerer"
     ],
     "label": "Dissipation de magie",
-    "description": "Cela vous co\u00fbte 1 point de vie pour arr\u00eater ou r\u00e9sister \u00e0 un effet magique."
+    "description": "Cela vous co\u00fbte 1 point de vie pour arr\u00eater ou r\u00e9sister \u00e0 un effet magique. (Sauf DIVIN)"
   },
   {
     "key": "detection",
@@ -1256,7 +1292,7 @@
       "available-to-sorcerer"
     ],
     "label": "T\u00e9nacit\u00e9",
-    "description": "Vous pouvez retourner 1 pin\u2019s au lieu de tomber en crise mentale."
+    "description": "Vous pouvez perdre 1 point de vie au lieu de tomber en crise mentale."
   },
   {
     "key": "intimidation",
@@ -1280,7 +1316,7 @@
       "available-to-sorcerer"
     ],
     "label": "Collectionneur",
-    "description": "Vous retournez un de vos pin\u2019s d\u2019influence \u00e0 chaque fois que vous mettez quelqu\u2019un en agonie."
+    "description": "Vous gagnez 1 point d\u2019esprit \u00e0 chaque fois que vous mettez quelqu\u2019un en agonie."
   },
   {
     "key": "diplomate",
@@ -1292,7 +1328,7 @@
       "available-to-sorcerer"
     ],
     "label": "Diplomate",
-    "description": "Vous pouvez donner un de vos pin\u2019s d\u2019influence \u00e0 quelqu\u2019un."
+    "description": "Vous pouvez donner un de vos points d\u2019esprit \u00e0 quelqu\u2019un."
   },
   {
     "key": "frappe-benie",
