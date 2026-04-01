@@ -201,12 +201,12 @@
   {
     "key": "dexterite+1",
     "tags": ["characteristic:dexterite", "level:1"],
-    "description": "2 Gemmes. Ambidextrie."
+    "description": "2 Gemmes. Armes \u00e0 deux mains."
   },
   {
     "key": "dexterite+2",
     "tags": ["characteristic:dexterite", "level:2"],
-    "description": "3 Gemmes. Armes \u00e0 deux mains."
+    "description": "3 Gemmes. Ambidextrie."
   },
   {
     "key": "dexterite+3",
@@ -221,37 +221,37 @@
   {
     "key": "influence-2",
     "tags": ["characteristic:influence", "level:-2"],
-    "description": "R\u00e9putation \u00e0 -1"
+    "description": "-2 points d\u2019esprit"
   },
   {
     "key": "influence-1",
     "tags": ["characteristic:influence", "level:-1"],
-    "description": "R\u00e9putation neutre"
+    "description": "-1 point d\u2019esprit"
   },
   {
     "key": "influence0",
     "tags": ["characteristic:influence", "level:0"],
-    "description": "R\u00e9putation \u00e0 +1"
+    "description": "0 points d\u2019esprit"
   },
   {
     "key": "influence+1",
     "tags": ["characteristic:influence", "level:1"],
-    "description": "R\u00e9putation \u00e0 +2"
+    "description": "+1 point d\u2019esprit"
   },
   {
     "key": "influence+2",
     "tags": ["characteristic:influence", "level:2"],
-    "description": "R\u00e9putation \u00e0 +3"
+    "description": "+2 points d\u2019esprit"
   },
   {
     "key": "influence+3",
     "tags": ["characteristic:influence", "level:3"],
-    "description": "R\u00e9putation \u00e0 +4"
+    "description": "+3 points d\u2019esprit"
   },
   {
     "key": "influence+4",
     "tags": ["characteristic:influence", "level:4"],
-    "description": "R\u00e9putation \u00e0 +4"
+    "description": "Inalt\u00e9rable"
   },
   {
     "key": "ebenaum",
